@@ -1,0 +1,138 @@
+{
+	"ARIZONA": {
+		"REGION": "ARIZONA",
+		"JANUARY": 5664,
+		"FEBRUARY": 5235,
+		"MARCH": 5532,
+		"TOTAL": 16431
+	},
+	"APACHE": {
+		"REGION": "APACHE",
+		"JANUARY": 53,
+		"FEBRUARY": 46,
+		"MARCH": 57,
+		"TOTAL": 156
+	},
+	"COCHISE": {
+		"REGION": "COCHISE",
+		"JANUARY": 114,
+		"FEBRUARY": 134,
+		"MARCH": 104,
+		"TOTAL": 352
+	},
+	"COCONINO": {
+		"REGION": "COCONINO",
+		"JANUARY": 84,
+		"FEBRUARY": 70,
+		"MARCH": 95,
+		"TOTAL": 249
+	},
+	"GILA": {
+		"REGION": "GILA",
+		"JANUARY": 65,
+		"FEBRUARY": 75,
+		"MARCH": 68,
+		"TOTAL": 208
+	},
+	"GRAHAM": {
+		"REGION": "GRAHAM",
+		"JANUARY": 31,
+		"FEBRUARY": 30,
+		"MARCH": 32
+	},
+	"GREENLEE": {
+		"REGION": "GREENLEE",
+		"JANUARY": 6,
+		"FEBRUARY": 7,
+		"MARCH": 8,
+		"TOTAL": 21
+	},
+	"LA PAZ": {
+		"REGION": "LA PAZ",
+		"JANUARY": 32,
+		"FEBRUARY": 17,
+		"MARCH": 31,
+		"TOTAL": 80
+	},
+	"MARICOPA": {
+		"REGION": "MARICOPA",
+		"JANUARY": 3093,
+		"FEBRUARY": 2834,
+		"MARCH": 2958,
+		"TOTAL": 8885
+	},
+	"MOHAVE": {
+		"REGION": "MOHAVE",
+		"JANUARY": 307,
+		"FEBRUARY": 286,
+		"MARCH": 294,
+		"TOTAL": 887
+	},
+	"NAVAJO": {
+		"REGION": "NAVAJO",
+		"JANUARY": 93,
+		"FEBRUARY": 124,
+		"MARCH": 124,
+		"TOTAL": 341
+	},
+	"PIMA": {
+		"REGION": "PIMA",
+		"JANUARY": 931,
+		"FEBRUARY": 860,
+		"MARCH": 938,
+		"TOTAL": 2729
+	},
+	"PINAL": {
+		"REGION": "PINAL",
+		"JANUARY": 347,
+		"FEBRUARY": 291,
+		"MARCH": 336,
+		"TOTAL": 974
+	},
+	"SANTA CRUZ": {
+		"REGION": "SANTA CRUZ",
+		"JANUARY": 23,
+		"FEBRUARY": 28,
+		"MARCH": 40,
+		"TOTAL": 91
+	},
+	"YAVAPAI": {
+		"REGION": "YAVAPAI",
+		"JANUARY": 300,
+		"FEBRUARY": 273,
+		"MARCH": 277,
+		"TOTAL": 850
+	},
+	"YUMA": {
+		"REGION": "YUMA",
+		"JANUARY": 168,
+		"FEBRUARY": 150,
+		"MARCH": 162,
+		"TOTAL": 480
+	},
+	"UNKNOWN": {
+		"REGION": "UNKNOWN",
+		"JANUARY": 17,
+		"FEBRUARY": 10,
+		"MARCH": 8
+	},
+	"TYPE": "DEATHS",
+	"YEAR": 2020,
+	"NOTES": "Notes: * Cell suppressed due to non-zero count less than 6; † Sum rounded to nearest tens unit due to non-zero addend less than 6; The above table reflects the data collection and data entry as of 4/15/2020.",
+	"VALIDATION": {
+		"JANUARY": {
+			"MATCHES": true
+		},
+		"FEBRUARY": {
+			"MATCHES": true
+		},
+		"MARCH": {
+			"MATCHES": true
+		},
+		"TOTAL": {
+			"MATCHES": false,
+			"REPORTED": 16431,
+			"CALCULATED": 16303
+		}
+	}
+}

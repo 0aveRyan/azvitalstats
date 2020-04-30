@@ -1,0 +1,11386 @@
+{
+	"2011": {
+		"APACHE": {
+			"JANUARY": {
+				"DIVS": 6,
+				"MARS": 16
+			},
+			"FEBRUARY": {
+				"DIVS": "*",
+				"MARS": 11
+			},
+			"MARCH": {
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"APRIL": {
+				"DIVS": 9,
+				"MARS": 16
+			},
+			"MAY": {
+				"DIVS": 10,
+				"MARS": 12
+			},
+			"JUNE": {
+				"DIVS": 8,
+				"MARS": 28
+			},
+			"JULY": {
+				"DIVS": 6,
+				"MARS": 27
+			},
+			"AUGUST": {
+				"DIVS": "*",
+				"MARS": 29
+			},
+			"SEPTEMBER": {
+				"DIVS": "*",
+				"MARS": 16
+			},
+			"OCTOBER": {
+				"DIVS": "*",
+				"MARS": 20
+			},
+			"NOVEMBER": {
+				"DIVS": 6,
+				"MARS": 24
+			},
+			"DECEMBER": {
+				"DIVS": 6,
+				"MARS": 13
+			},
+			"TOTAL": {
+				"DIVS": 69,
+				"MARS": 229
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"DIVS": 36,
+				"MARS": 62
+			},
+			"FEBRUARY": {
+				"DIVS": 41,
+				"MARS": 62
+			},
+			"MARCH": {
+				"DIVS": 55,
+				"MARS": 76
+			},
+			"APRIL": {
+				"DIVS": 53,
+				"MARS": 55
+			},
+			"MAY": {
+				"DIVS": 48,
+				"MARS": 99
+			},
+			"JUNE": {
+				"DIVS": 54,
+				"MARS": 89
+			},
+			"JULY": {
+				"DIVS": 39,
+				"MARS": 67
+			},
+			"AUGUST": {
+				"DIVS": 59,
+				"MARS": 78
+			},
+			"SEPTEMBER": {
+				"DIVS": 55,
+				"MARS": 85
+			},
+			"OCTOBER": {
+				"DIVS": 57,
+				"MARS": 74
+			},
+			"NOVEMBER": {
+				"DIVS": 41,
+				"MARS": 86
+			},
+			"DECEMBER": {
+				"DIVS": 51,
+				"MARS": 26
+			},
+			"TOTAL": {
+				"DIVS": 589,
+				"MARS": 859
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"DIVS": 57,
+				"MARS": 59
+			},
+			"FEBRUARY": {
+				"DIVS": 39,
+				"MARS": 45
+			},
+			"MARCH": {
+				"DIVS": 26,
+				"MARS": 65
+			},
+			"APRIL": {
+				"DIVS": 37,
+				"MARS": 49
+			},
+			"MAY": {
+				"DIVS": 47,
+				"MARS": 84
+			},
+			"JUNE": {
+				"DIVS": 35,
+				"MARS": 120
+			},
+			"JULY": {
+				"DIVS": 40,
+				"MARS": 81
+			},
+			"AUGUST": {
+				"DIVS": 30,
+				"MARS": 85
+			},
+			"SEPTEMBER": {
+				"DIVS": 24,
+				"MARS": 110
+			},
+			"OCTOBER": {
+				"DIVS": 16,
+				"MARS": 87
+			},
+			"NOVEMBER": {
+				"DIVS": 20,
+				"MARS": 66
+			},
+			"DECEMBER": {
+				"DIVS": 21,
+				"MARS": 28
+			},
+			"TOTAL": {
+				"DIVS": 392,
+				"MARS": 879
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"DIVS": 13,
+				"MARS": 18
+			},
+			"FEBRUARY": {
+				"DIVS": 10,
+				"MARS": 11
+			},
+			"MARCH": {
+				"DIVS": 15,
+				"MARS": 26
+			},
+			"APRIL": {
+				"DIVS": 24,
+				"MARS": 27
+			},
+			"MAY": {
+				"DIVS": 12,
+				"MARS": 11
+			},
+			"JUNE": {
+				"DIVS": 11,
+				"MARS": 28
+			},
+			"JULY": {
+				"DIVS": 17,
+				"MARS": 31
+			},
+			"AUGUST": {
+				"DIVS": 16,
+				"MARS": 25
+			},
+			"SEPTEMBER": {
+				"DIVS": 12,
+				"MARS": 22
+			},
+			"OCTOBER": {
+				"DIVS": 7,
+				"MARS": 27
+			},
+			"NOVEMBER": {
+				"DIVS": 11,
+				"MARS": 40
+			},
+			"DECEMBER": {
+				"DIVS": 11,
+				"MARS": 23
+			},
+			"TOTAL": {
+				"DIVS": 159,
+				"MARS": 289
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"DIVS": 8,
+				"MARS": 10
+			},
+			"FEBRUARY": {
+				"DIVS": 11,
+				"MARS": 16
+			},
+			"MARCH": {
+				"DIVS": 18,
+				"MARS": 22
+			},
+			"APRIL": {
+				"DIVS": "*",
+				"MARS": 18
+			},
+			"MAY": {
+				"DIVS": 10,
+				"MARS": 16
+			},
+			"JUNE": {
+				"DIVS": 10,
+				"MARS": 15
+			},
+			"JULY": {
+				"DIVS": 11,
+				"MARS": 10
+			},
+			"AUGUST": {
+				"DIVS": 7,
+				"MARS": 16
+			},
+			"SEPTEMBER": {
+				"DIVS": 12,
+				"MARS": 14
+			},
+			"OCTOBER": {
+				"DIVS": 12,
+				"MARS": 15
+			},
+			"NOVEMBER": {
+				"DIVS": 16,
+				"MARS": 24
+			},
+			"DECEMBER": {
+				"DIVS": 15,
+				"MARS": 35
+			},
+			"TOTAL": {
+				"DIVS": "130†",
+				"MARS": 211
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"DIVS": "*",
+				"MARS": 0
+			},
+			"MARCH": {
+				"DIVS": "*",
+				"MARS": 0
+			},
+			"APRIL": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MAY": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"JUNE": {
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"JULY": {
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"AUGUST": {
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"SEPTEMBER": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"NOVEMBER": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"DECEMBER": {
+				"DIVS": 6,
+				"MARS": 6
+			},
+			"TOTAL": {
+				"DIVS": 39,
+				"MARS": "50†"
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"DIVS": "*",
+				"MARS": 12
+			},
+			"FEBRUARY": {
+				"DIVS": 6,
+				"MARS": 17
+			},
+			"MARCH": {
+				"DIVS": "*",
+				"MARS": 18
+			},
+			"APRIL": {
+				"DIVS": 0,
+				"MARS": 9
+			},
+			"MAY": {
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"JUNE": {
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"JULY": {
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"AUGUST": {
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"SEPTEMBER": {
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"OCTOBER": {
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"NOVEMBER": {
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"DECEMBER": {
+				"DIVS": "*",
+				"MARS": 8
+			},
+			"TOTAL": {
+				"DIVS": 37,
+				"MARS": 117
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"DIVS": 1088,
+				"MARS": 1736
+			},
+			"FEBRUARY": {
+				"DIVS": 938,
+				"MARS": 1620
+			},
+			"MARCH": {
+				"DIVS": 1078,
+				"MARS": 2171
+			},
+			"APRIL": {
+				"DIVS": 1115,
+				"MARS": 2561
+			},
+			"MAY": {
+				"DIVS": 1133,
+				"MARS": 1984
+			},
+			"JUNE": {
+				"DIVS": 1094,
+				"MARS": 2029
+			},
+			"JULY": {
+				"DIVS": 1599,
+				"MARS": 1377
+			},
+			"AUGUST": {
+				"DIVS": 1610,
+				"MARS": 1367
+			},
+			"SEPTEMBER": {
+				"DIVS": 1678,
+				"MARS": 1456
+			},
+			"OCTOBER": {
+				"DIVS": 1593,
+				"MARS": 1969
+			},
+			"NOVEMBER": {
+				"DIVS": 1619,
+				"MARS": 2812
+			},
+			"DECEMBER": {
+				"DIVS": 1563,
+				"MARS": 1666
+			},
+			"TOTAL": {
+				"DIVS": 16108,
+				"MARS": 22748
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"DIVS": 61,
+				"MARS": 47
+			},
+			"FEBRUARY": {
+				"DIVS": 55,
+				"MARS": 76
+			},
+			"MARCH": {
+				"DIVS": 63,
+				"MARS": 123
+			},
+			"APRIL": {
+				"DIVS": 50,
+				"MARS": 88
+			},
+			"MAY": {
+				"DIVS": 55,
+				"MARS": 154
+			},
+			"JUNE": {
+				"DIVS": 66,
+				"MARS": 132
+			},
+			"JULY": {
+				"DIVS": 55,
+				"MARS": 99
+			},
+			"AUGUST": {
+				"DIVS": 73,
+				"MARS": 88
+			},
+			"SEPTEMBER": {
+				"DIVS": 56,
+				"MARS": 110
+			},
+			"OCTOBER": {
+				"DIVS": 43,
+				"MARS": 112
+			},
+			"NOVEMBER": {
+				"DIVS": 39,
+				"MARS": 131
+			},
+			"DECEMBER": {
+				"DIVS": 37,
+				"MARS": 82
+			},
+			"TOTAL": {
+				"DIVS": 653,
+				"MARS": 1242
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"DIVS": 13,
+				"MARS": 21
+			},
+			"FEBRUARY": {
+				"DIVS": 18,
+				"MARS": 0
+			},
+			"MARCH": {
+				"DIVS": 9,
+				"MARS": 61
+			},
+			"APRIL": {
+				"DIVS": 23,
+				"MARS": 30
+			},
+			"MAY": {
+				"DIVS": 24,
+				"MARS": 32
+			},
+			"JUNE": {
+				"DIVS": 25,
+				"MARS": 61
+			},
+			"JULY": {
+				"DIVS": 31,
+				"MARS": 27
+			},
+			"AUGUST": {
+				"DIVS": 19,
+				"MARS": 8
+			},
+			"SEPTEMBER": {
+				"DIVS": 17,
+				"MARS": 91
+			},
+			"OCTOBER": {
+				"DIVS": 26,
+				"MARS": 39
+			},
+			"NOVEMBER": {
+				"DIVS": 17,
+				"MARS": 53
+			},
+			"DECEMBER": {
+				"DIVS": 21,
+				"MARS": 41
+			},
+			"TOTAL": {
+				"DIVS": 243,
+				"MARS": 464
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"DIVS": 358,
+				"MARS": 394
+			},
+			"FEBRUARY": {
+				"DIVS": 303,
+				"MARS": 383
+			},
+			"MARCH": {
+				"DIVS": 368,
+				"MARS": 559
+			},
+			"APRIL": {
+				"DIVS": 376,
+				"MARS": 567
+			},
+			"MAY": {
+				"DIVS": 387,
+				"MARS": 459
+			},
+			"JUNE": {
+				"DIVS": 345,
+				"MARS": 567
+			},
+			"JULY": {
+				"DIVS": 324,
+				"MARS": 389
+			},
+			"AUGUST": {
+				"DIVS": 401,
+				"MARS": 411
+			},
+			"SEPTEMBER": {
+				"DIVS": 362,
+				"MARS": 332
+			},
+			"OCTOBER": {
+				"DIVS": 328,
+				"MARS": 450
+			},
+			"NOVEMBER": {
+				"DIVS": 317,
+				"MARS": 653
+			},
+			"DECEMBER": {
+				"DIVS": 306,
+				"MARS": 427
+			},
+			"TOTAL": {
+				"DIVS": 4175,
+				"MARS": 5591
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"DIVS": 91,
+				"MARS": 87
+			},
+			"FEBRUARY": {
+				"DIVS": 72,
+				"MARS": 117
+			},
+			"MARCH": {
+				"DIVS": 99,
+				"MARS": 165
+			},
+			"APRIL": {
+				"DIVS": 96,
+				"MARS": 136
+			},
+			"MAY": {
+				"DIVS": 110,
+				"MARS": 106
+			},
+			"JUNE": {
+				"DIVS": 77,
+				"MARS": 93
+			},
+			"JULY": {
+				"DIVS": 108,
+				"MARS": 91
+			},
+			"AUGUST": {
+				"DIVS": 88,
+				"MARS": 82
+			},
+			"SEPTEMBER": {
+				"DIVS": 117,
+				"MARS": 89
+			},
+			"OCTOBER": {
+				"DIVS": 80,
+				"MARS": 114
+			},
+			"NOVEMBER": {
+				"DIVS": 83,
+				"MARS": 132
+			},
+			"DECEMBER": {
+				"DIVS": 81,
+				"MARS": 106
+			},
+			"TOTAL": {
+				"DIVS": 1102,
+				"MARS": 1318
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"DIVS": 11,
+				"MARS": 16
+			},
+			"FEBRUARY": {
+				"DIVS": "*",
+				"MARS": 13
+			},
+			"MARCH": {
+				"DIVS": 9,
+				"MARS": 12
+			},
+			"APRIL": {
+				"DIVS": 22,
+				"MARS": 23
+			},
+			"MAY": {
+				"DIVS": 12,
+				"MARS": 28
+			},
+			"JUNE": {
+				"DIVS": 11,
+				"MARS": 30
+			},
+			"JULY": {
+				"DIVS": 13,
+				"MARS": 12
+			},
+			"AUGUST": {
+				"DIVS": 15,
+				"MARS": 15
+			},
+			"SEPTEMBER": {
+				"DIVS": 10,
+				"MARS": 12
+			},
+			"OCTOBER": {
+				"DIVS": "*",
+				"MARS": 21
+			},
+			"NOVEMBER": {
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"DECEMBER": {
+				"DIVS": 0,
+				"MARS": 8
+			},
+			"TOTAL": {
+				"DIVS": 110,
+				"MARS": 207
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"DIVS": 54,
+				"MARS": 86
+			},
+			"FEBRUARY": {
+				"DIVS": 65,
+				"MARS": 59
+			},
+			"MARCH": {
+				"DIVS": 75,
+				"MARS": 97
+			},
+			"APRIL": {
+				"DIVS": 88,
+				"MARS": 88
+			},
+			"MAY": {
+				"DIVS": 84,
+				"MARS": 119
+			},
+			"JUNE": {
+				"DIVS": 79,
+				"MARS": 147
+			},
+			"JULY": {
+				"DIVS": 73,
+				"MARS": 123
+			},
+			"AUGUST": {
+				"DIVS": 76,
+				"MARS": 99
+			},
+			"SEPTEMBER": {
+				"DIVS": 66,
+				"MARS": 137
+			},
+			"OCTOBER": {
+				"DIVS": 86,
+				"MARS": 111
+			},
+			"NOVEMBER": {
+				"DIVS": 77,
+				"MARS": 130
+			},
+			"DECEMBER": {
+				"DIVS": 78,
+				"MARS": 67
+			},
+			"TOTAL": {
+				"DIVS": 901,
+				"MARS": 1263
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"DIVS": 60,
+				"MARS": 101
+			},
+			"FEBRUARY": {
+				"DIVS": 59,
+				"MARS": 140
+			},
+			"MARCH": {
+				"DIVS": 57,
+				"MARS": 130
+			},
+			"APRIL": {
+				"DIVS": 47,
+				"MARS": 142
+			},
+			"MAY": {
+				"DIVS": 42,
+				"MARS": 111
+			},
+			"JUNE": {
+				"DIVS": 57,
+				"MARS": 119
+			},
+			"JULY": {
+				"DIVS": 67,
+				"MARS": 82
+			},
+			"AUGUST": {
+				"DIVS": 108,
+				"MARS": 97
+			},
+			"SEPTEMBER": {
+				"DIVS": 46,
+				"MARS": 93
+			},
+			"OCTOBER": {
+				"DIVS": 89,
+				"MARS": 99
+			},
+			"NOVEMBER": {
+				"DIVS": 54,
+				"MARS": 48
+			},
+			"DECEMBER": {
+				"DIVS": 41,
+				"MARS": 83
+			},
+			"TOTAL": {
+				"DIVS": 727,
+				"MARS": 1245
+			}
+		},
+		"ARIZONA": {
+			"JANUARY": {
+				"DIVS": 1865,
+				"MARS": "2,670†"
+			},
+			"FEBRUARY": {
+				"DIVS": 1627,
+				"MARS": 2570
+			},
+			"MARCH": {
+				"DIVS": 1883,
+				"MARS": 3542
+			},
+			"APRIL": {
+				"DIVS": 1946,
+				"MARS": "3,810†"
+			},
+			"MAY": {
+				"DIVS": 1979,
+				"MARS": "3,220†"
+			},
+			"JUNE": {
+				"DIVS": 1878,
+				"MARS": 3470
+			},
+			"JULY": {
+				"DIVS": 2391,
+				"MARS": 2430
+			},
+			"AUGUST": {
+				"DIVS": 2511,
+				"MARS": 2416
+			},
+			"SEPTEMBER": {
+				"DIVS": 2465,
+				"MARS": "2,580†"
+			},
+			"OCTOBER": {
+				"DIVS": 2346,
+				"MARS": "3,160†"
+			},
+			"NOVEMBER": {
+				"DIVS": 2307,
+				"MARS": "4,230†"
+			},
+			"DECEMBER": {
+				"DIVS": "2,240†",
+				"MARS": 2619
+			},
+			"TOTAL": {
+				"DIVS": 25438,
+				"MARS": 36713
+			}
+		}
+	},
+	"2012": {
+		"APACHE": {
+			"JANUARY": {
+				"DIVS": 7,
+				"MARS": 9
+			},
+			"FEBRUARY": {
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"MARCH": {
+				"DIVS": 0,
+				"MARS": 20
+			},
+			"APRIL": {
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"MAY": {
+				"DIVS": "*",
+				"MARS": 18
+			},
+			"JUNE": {
+				"DIVS": "*",
+				"MARS": 24
+			},
+			"JULY": {
+				"DIVS": "*",
+				"MARS": 22
+			},
+			"AUGUST": {
+				"DIVS": 7,
+				"MARS": 14
+			},
+			"SEPTEMBER": {
+				"DIVS": 6,
+				"MARS": 15
+			},
+			"OCTOBER": {
+				"DIVS": 7,
+				"MARS": 18
+			},
+			"NOVEMBER": {
+				"DIVS": 9,
+				"MARS": 14
+			},
+			"DECEMBER": {
+				"DIVS": "*",
+				"MARS": 23
+			},
+			"TOTAL": {
+				"DIVS": "60†",
+				"MARS": 203
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"DIVS": 67,
+				"MARS": 42
+			},
+			"FEBRUARY": {
+				"DIVS": 46,
+				"MARS": 44
+			},
+			"MARCH": {
+				"DIVS": 47,
+				"MARS": 79
+			},
+			"APRIL": {
+				"DIVS": 49,
+				"MARS": 39
+			},
+			"MAY": {
+				"DIVS": 56,
+				"MARS": "0"
+			},
+			"JUNE": {
+				"DIVS": 47,
+				"MARS": 67
+			},
+			"JULY": {
+				"DIVS": 48,
+				"MARS": 68
+			},
+			"AUGUST": {
+				"DIVS": 54,
+				"MARS": 99
+			},
+			"SEPTEMBER": {
+				"DIVS": 36,
+				"MARS": 63
+			},
+			"OCTOBER": {
+				"DIVS": 54,
+				"MARS": 70
+			},
+			"NOVEMBER": {
+				"DIVS": 46,
+				"MARS": 62
+			},
+			"DECEMBER": {
+				"DIVS": 30,
+				"MARS": 76
+			},
+			"TOTAL": {
+				"DIVS": 580,
+				"MARS": 709
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"DIVS": 31,
+				"MARS": 67
+			},
+			"FEBRUARY": {
+				"DIVS": 20,
+				"MARS": 50
+			},
+			"MARCH": {
+				"DIVS": 37,
+				"MARS": 62
+			},
+			"APRIL": {
+				"DIVS": 43,
+				"MARS": 60
+			},
+			"MAY": {
+				"DIVS": 39,
+				"MARS": 80
+			},
+			"JUNE": {
+				"DIVS": 24,
+				"MARS": 120
+			},
+			"JULY": {
+				"DIVS": 41,
+				"MARS": 109
+			},
+			"AUGUST": {
+				"DIVS": 39,
+				"MARS": 87
+			},
+			"SEPTEMBER": {
+				"DIVS": 25,
+				"MARS": 98
+			},
+			"OCTOBER": {
+				"DIVS": 53,
+				"MARS": 103
+			},
+			"NOVEMBER": {
+				"DIVS": 36,
+				"MARS": 54
+			},
+			"DECEMBER": {
+				"DIVS": 31,
+				"MARS": 93
+			},
+			"TOTAL": {
+				"DIVS": 419,
+				"MARS": 983
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"DIVS": 14,
+				"MARS": 18
+			},
+			"FEBRUARY": {
+				"DIVS": 17,
+				"MARS": 25
+			},
+			"MARCH": {
+				"DIVS": 22,
+				"MARS": 29
+			},
+			"APRIL": {
+				"DIVS": 21,
+				"MARS": 28
+			},
+			"MAY": {
+				"DIVS": 16,
+				"MARS": 25
+			},
+			"JUNE": {
+				"DIVS": 11,
+				"MARS": 22
+			},
+			"JULY": {
+				"DIVS": 15,
+				"MARS": 13
+			},
+			"AUGUST": {
+				"DIVS": 18,
+				"MARS": 12
+			},
+			"SEPTEMBER": {
+				"DIVS": 11,
+				"MARS": 25
+			},
+			"OCTOBER": {
+				"DIVS": 13,
+				"MARS": 38
+			},
+			"NOVEMBER": {
+				"DIVS": 7,
+				"MARS": 27
+			},
+			"DECEMBER": {
+				"DIVS": 7,
+				"MARS": 26
+			},
+			"TOTAL": {
+				"DIVS": 172,
+				"MARS": 288
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"DIVS": 15,
+				"MARS": 21
+			},
+			"FEBRUARY": {
+				"DIVS": 20,
+				"MARS": 14
+			},
+			"MARCH": {
+				"DIVS": 13,
+				"MARS": 18
+			},
+			"APRIL": {
+				"DIVS": 10,
+				"MARS": 40
+			},
+			"MAY": {
+				"DIVS": 9,
+				"MARS": 20
+			},
+			"JUNE": {
+				"DIVS": 13,
+				"MARS": 22
+			},
+			"JULY": {
+				"DIVS": 21,
+				"MARS": 18
+			},
+			"AUGUST": {
+				"DIVS": 12,
+				"MARS": 23
+			},
+			"SEPTEMBER": {
+				"DIVS": 14,
+				"MARS": 42
+			},
+			"OCTOBER": {
+				"DIVS": 19,
+				"MARS": 45
+			},
+			"NOVEMBER": {
+				"DIVS": 18,
+				"MARS": 21
+			},
+			"DECEMBER": {
+				"DIVS": 21,
+				"MARS": 20
+			},
+			"TOTAL": {
+				"DIVS": 185,
+				"MARS": 304
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MARCH": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"APRIL": {
+				"DIVS": 6,
+				"MARS": "*"
+			},
+			"MAY": {
+				"DIVS": "*",
+				"MARS": 8
+			},
+			"JUNE": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"JULY": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"SEPTEMBER": {
+				"DIVS": "*",
+				"MARS": 0
+			},
+			"OCTOBER": {
+				"DIVS": 7,
+				"MARS": 8
+			},
+			"NOVEMBER": {
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"DECEMBER": {
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"TOTAL": {
+				"DIVS": "40†",
+				"MARS": "50†"
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"DIVS": "*",
+				"MARS": 38
+			},
+			"FEBRUARY": {
+				"DIVS": "*",
+				"MARS": 132
+			},
+			"MARCH": {
+				"DIVS": 7,
+				"MARS": 112
+			},
+			"APRIL": {
+				"DIVS": 0,
+				"MARS": 139
+			},
+			"MAY": {
+				"DIVS": "*",
+				"MARS": 106
+			},
+			"JUNE": {
+				"DIVS": "*",
+				"MARS": 48
+			},
+			"JULY": {
+				"DIVS": 0,
+				"MARS": 55
+			},
+			"AUGUST": {
+				"DIVS": "*",
+				"MARS": 66
+			},
+			"SEPTEMBER": {
+				"DIVS": "*",
+				"MARS": 33
+			},
+			"OCTOBER": {
+				"DIVS": "*",
+				"MARS": 134
+			},
+			"NOVEMBER": {
+				"DIVS": "*",
+				"MARS": 113
+			},
+			"DECEMBER": {
+				"DIVS": "*",
+				"MARS": 125
+			},
+			"TOTAL": {
+				"DIVS": "30†",
+				"MARS": 1101
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"DIVS": 1653,
+				"MARS": 11
+			},
+			"FEBRUARY": {
+				"DIVS": 1459,
+				"MARS": 11
+			},
+			"MARCH": {
+				"DIVS": 1583,
+				"MARS": 14
+			},
+			"APRIL": {
+				"DIVS": 1558,
+				"MARS": 12
+			},
+			"MAY": {
+				"DIVS": 1650,
+				"MARS": 12
+			},
+			"JUNE": {
+				"DIVS": 1507,
+				"MARS": 8
+			},
+			"JULY": {
+				"DIVS": 1587,
+				"MARS": 7
+			},
+			"AUGUST": {
+				"DIVS": 1786,
+				"MARS": "*"
+			},
+			"SEPTEMBER": {
+				"DIVS": 1536,
+				"MARS": 9
+			},
+			"OCTOBER": {
+				"DIVS": 1869,
+				"MARS": 12
+			},
+			"NOVEMBER": {
+				"DIVS": 1461,
+				"MARS": 13
+			},
+			"DECEMBER": {
+				"DIVS": 1398,
+				"MARS": 6
+			},
+			"TOTAL": {
+				"DIVS": 19047,
+				"MARS": "120†"
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"DIVS": 53,
+				"MARS": 1576
+			},
+			"FEBRUARY": {
+				"DIVS": 62,
+				"MARS": 1656
+			},
+			"MARCH": {
+				"DIVS": 49,
+				"MARS": 2137
+			},
+			"APRIL": {
+				"DIVS": 75,
+				"MARS": 2471
+			},
+			"MAY": {
+				"DIVS": 52,
+				"MARS": 2109
+			},
+			"JUNE": {
+				"DIVS": 62,
+				"MARS": 2214
+			},
+			"JULY": {
+				"DIVS": 39,
+				"MARS": 1615
+			},
+			"AUGUST": {
+				"DIVS": 57,
+				"MARS": 1463
+			},
+			"SEPTEMBER": {
+				"DIVS": 41,
+				"MARS": 1320
+			},
+			"OCTOBER": {
+				"DIVS": 48,
+				"MARS": 2482
+			},
+			"NOVEMBER": {
+				"DIVS": 47,
+				"MARS": 2457
+			},
+			"DECEMBER": {
+				"DIVS": 31,
+				"MARS": 2052
+			},
+			"TOTAL": {
+				"DIVS": 616,
+				"MARS": 23552
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"DIVS": 26,
+				"MARS": 89
+			},
+			"FEBRUARY": {
+				"DIVS": 16,
+				"MARS": 107
+			},
+			"MARCH": {
+				"DIVS": 22,
+				"MARS": 111
+			},
+			"APRIL": {
+				"DIVS": 24,
+				"MARS": 122
+			},
+			"MAY": {
+				"DIVS": 22,
+				"MARS": 139
+			},
+			"JUNE": {
+				"DIVS": 20,
+				"MARS": 123
+			},
+			"JULY": {
+				"DIVS": 15,
+				"MARS": 108
+			},
+			"AUGUST": {
+				"DIVS": 21,
+				"MARS": 81
+			},
+			"SEPTEMBER": {
+				"DIVS": 17,
+				"MARS": 81
+			},
+			"OCTOBER": {
+				"DIVS": 20,
+				"MARS": 134
+			},
+			"NOVEMBER": {
+				"DIVS": 20,
+				"MARS": 104
+			},
+			"DECEMBER": {
+				"DIVS": 22,
+				"MARS": 110
+			},
+			"TOTAL": {
+				"DIVS": 245,
+				"MARS": 1309
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"DIVS": 342,
+				"MARS": 44
+			},
+			"FEBRUARY": {
+				"DIVS": 293,
+				"MARS": 40
+			},
+			"MARCH": {
+				"DIVS": 317,
+				"MARS": 24
+			},
+			"APRIL": {
+				"DIVS": 315,
+				"MARS": 36
+			},
+			"MAY": {
+				"DIVS": 329,
+				"MARS": 23
+			},
+			"JUNE": {
+				"DIVS": 345,
+				"MARS": 70
+			},
+			"JULY": {
+				"DIVS": 304,
+				"MARS": 23
+			},
+			"AUGUST": {
+				"DIVS": 405,
+				"MARS": 61
+			},
+			"SEPTEMBER": {
+				"DIVS": 297,
+				"MARS": 40
+			},
+			"OCTOBER": {
+				"DIVS": 371,
+				"MARS": 38
+			},
+			"NOVEMBER": {
+				"DIVS": 312,
+				"MARS": 55
+			},
+			"DECEMBER": {
+				"DIVS": 287,
+				"MARS": 38
+			},
+			"TOTAL": {
+				"DIVS": 3917,
+				"MARS": 492
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"DIVS": 92,
+				"MARS": 390
+			},
+			"FEBRUARY": {
+				"DIVS": 85,
+				"MARS": 405
+			},
+			"MARCH": {
+				"DIVS": 87,
+				"MARS": 457
+			},
+			"APRIL": {
+				"DIVS": 82,
+				"MARS": 403
+			},
+			"MAY": {
+				"DIVS": 96,
+				"MARS": 600
+			},
+			"JUNE": {
+				"DIVS": 96,
+				"MARS": 402
+			},
+			"JULY": {
+				"DIVS": 100,
+				"MARS": 371
+			},
+			"AUGUST": {
+				"DIVS": 42,
+				"MARS": 463
+			},
+			"SEPTEMBER": {
+				"DIVS": 41,
+				"MARS": 217
+			},
+			"OCTOBER": {
+				"DIVS": 40,
+				"MARS": 663
+			},
+			"NOVEMBER": {
+				"DIVS": 52,
+				"MARS": 430
+			},
+			"DECEMBER": {
+				"DIVS": 35,
+				"MARS": 490
+			},
+			"TOTAL": {
+				"DIVS": 848,
+				"MARS": 5291
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"DIVS": 0,
+				"MARS": 78
+			},
+			"FEBRUARY": {
+				"DIVS": 13,
+				"MARS": 93
+			},
+			"MARCH": {
+				"DIVS": 11,
+				"MARS": 111
+			},
+			"APRIL": {
+				"DIVS": "*",
+				"MARS": 130
+			},
+			"MAY": {
+				"DIVS": 0,
+				"MARS": 117
+			},
+			"JUNE": {
+				"DIVS": 12,
+				"MARS": 85
+			},
+			"JULY": {
+				"DIVS": 11,
+				"MARS": 82
+			},
+			"AUGUST": {
+				"DIVS": 10,
+				"MARS": 83
+			},
+			"SEPTEMBER": {
+				"DIVS": "*",
+				"MARS": 81
+			},
+			"OCTOBER": {
+				"DIVS": 6,
+				"MARS": 113
+			},
+			"NOVEMBER": {
+				"DIVS": "*",
+				"MARS": 118
+			},
+			"DECEMBER": {
+				"DIVS": 8,
+				"MARS": 125
+			},
+			"TOTAL": {
+				"DIVS": "80†",
+				"MARS": 1216
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"DIVS": 86,
+				"MARS": 15
+			},
+			"FEBRUARY": {
+				"DIVS": 55,
+				"MARS": 17
+			},
+			"MARCH": {
+				"DIVS": 75,
+				"MARS": 8
+			},
+			"APRIL": {
+				"DIVS": 89,
+				"MARS": 13
+			},
+			"MAY": {
+				"DIVS": 97,
+				"MARS": 7
+			},
+			"JUNE": {
+				"DIVS": 106,
+				"MARS": 22
+			},
+			"JULY": {
+				"DIVS": 79,
+				"MARS": 13
+			},
+			"AUGUST": {
+				"DIVS": 101,
+				"MARS": 19
+			},
+			"SEPTEMBER": {
+				"DIVS": 80,
+				"MARS": 15
+			},
+			"OCTOBER": {
+				"DIVS": 97,
+				"MARS": 7
+			},
+			"NOVEMBER": {
+				"DIVS": 78,
+				"MARS": 12
+			},
+			"DECEMBER": {
+				"DIVS": 84,
+				"MARS": 13
+			},
+			"TOTAL": {
+				"DIVS": 1027,
+				"MARS": 161
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"DIVS": 76,
+				"MARS": 76
+			},
+			"FEBRUARY": {
+				"DIVS": 60,
+				"MARS": 71
+			},
+			"MARCH": {
+				"DIVS": 79,
+				"MARS": 97
+			},
+			"APRIL": {
+				"DIVS": 83,
+				"MARS": 75
+			},
+			"MAY": {
+				"DIVS": 49,
+				"MARS": 118
+			},
+			"JUNE": {
+				"DIVS": 59,
+				"MARS": 141
+			},
+			"JULY": {
+				"DIVS": 74,
+				"MARS": 131
+			},
+			"AUGUST": {
+				"DIVS": 82,
+				"MARS": 101
+			},
+			"SEPTEMBER": {
+				"DIVS": 71,
+				"MARS": 125
+			},
+			"OCTOBER": {
+				"DIVS": 42,
+				"MARS": 161
+			},
+			"NOVEMBER": {
+				"DIVS": 57,
+				"MARS": 89
+			},
+			"DECEMBER": {
+				"DIVS": 69,
+				"MARS": 99
+			},
+			"TOTAL": {
+				"DIVS": 801,
+				"MARS": 1284
+			}
+		},
+		"ARIZONA": {
+			"JANUARY": {
+				"DIVS": "2,470†",
+				"MARS": "2,480†"
+			},
+			"FEBRUARY": {
+				"DIVS": "2,150†",
+				"MARS": "2,690†"
+			},
+			"MARCH": {
+				"DIVS": "2,350†",
+				"MARS": "3,280†"
+			},
+			"APRIL": {
+				"DIVS": "2,360†",
+				"MARS": "3,580†"
+			},
+			"MAY": {
+				"DIVS": "2,430†",
+				"MARS": 3382
+			},
+			"JUNE": {
+				"DIVS": "2,310†",
+				"MARS": "3,370†"
+			},
+			"JULY": {
+				"DIVS": "2,340†",
+				"MARS": "2,640†"
+			},
+			"AUGUST": {
+				"DIVS": "2,640†",
+				"MARS": "2,580†"
+			},
+			"SEPTEMBER": {
+				"DIVS": "2,190†",
+				"MARS": 2164
+			},
+			"OCTOBER": {
+				"DIVS": "2,650†",
+				"MARS": 4026
+			},
+			"NOVEMBER": {
+				"DIVS": "2,150†",
+				"MARS": "3,570†"
+			},
+			"DECEMBER": {
+				"DIVS": "2,030†",
+				"MARS": "3,300†"
+			},
+			"TOTAL": {
+				"DIVS": 28072,
+				"MARS": 37064
+			}
+		}
+	},
+	"2013": {
+		"ARIZONA": {
+			"JANUARY": {
+				"BIRTHS": 7090,
+				"DEATHS": 5079,
+				"DIVS": "2,300†",
+				"MARS": "2,540†"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 6414,
+				"DEATHS": 4383,
+				"DIVS": "2,050†",
+				"MARS": "2,450†"
+			},
+			"MARCH": {
+				"BIRTHS": 7083,
+				"DEATHS": 4484,
+				"DIVS": "2,120†",
+				"MARS": 3535
+			},
+			"APRIL": {
+				"BIRTHS": 6694,
+				"DEATHS": 4231,
+				"DIVS": "2,280†",
+				"MARS": 3480
+			},
+			"MAY": {
+				"BIRTHS": 6681,
+				"DEATHS": 4076,
+				"DIVS": "2,270†",
+				"MARS": 3557
+			},
+			"JUNE": {
+				"BIRTHS": 6685,
+				"DEATHS": 3831,
+				"DIVS": "2,060†",
+				"MARS": 2782
+			},
+			"JULY": {
+				"BIRTHS": 7337,
+				"DEATHS": 3926,
+				"DIVS": "2,090†",
+				"MARS": "2,680†"
+			},
+			"AUGUST": {
+				"BIRTHS": 7436,
+				"DEATHS": 3893,
+				"DIVS": "2,330†",
+				"MARS": "2,070†"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 7538,
+				"DEATHS": 3804,
+				"DIVS": "2,050†",
+				"MARS": "2,480†"
+			},
+			"OCTOBER": {
+				"BIRTHS": 7515,
+				"DEATHS": 3868,
+				"DIVS": "2,460†",
+				"MARS": "3,900†"
+			},
+			"NOVEMBER": {
+				"BIRTHS": 7130,
+				"DEATHS": 3924,
+				"DIVS": "2,000†",
+				"MARS": 3468
+			},
+			"DECEMBER": {
+				"BIRTHS": 7360,
+				"DEATHS": 4430,
+				"DIVS": "2,020†",
+				"MARS": "2,860†"
+			},
+			"TOTAL": {
+				"BIRTHS": 84963,
+				"DEATHS": 49929,
+				"DIVS": 26037,
+				"MARS": 35791
+			}
+		},
+		"APACHE": {
+			"JANUARY": {
+				"BIRTHS": 92,
+				"DEATHS": 58,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"FEBRUARY": {
+				"BIRTHS": 65,
+				"DEATHS": 41,
+				"DIVS": 6,
+				"MARS": 7
+			},
+			"MARCH": {
+				"BIRTHS": 85,
+				"DEATHS": 45,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"APRIL": {
+				"BIRTHS": 77,
+				"DEATHS": 64,
+				"DIVS": 7,
+				"MARS": 14
+			},
+			"MAY": {
+				"BIRTHS": 64,
+				"DEATHS": 56,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"JUNE": {
+				"BIRTHS": 88,
+				"DEATHS": 39,
+				"DIVS": 11,
+				"MARS": 17
+			},
+			"JULY": {
+				"BIRTHS": 80,
+				"DEATHS": 47,
+				"DIVS": 14,
+				"MARS": 24
+			},
+			"AUGUST": {
+				"BIRTHS": 76,
+				"DEATHS": 42,
+				"DIVS": "*",
+				"MARS": 16
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 83,
+				"DEATHS": 44,
+				"DIVS": 7,
+				"MARS": 15
+			},
+			"OCTOBER": {
+				"BIRTHS": 80,
+				"DEATHS": 62,
+				"DIVS": 9,
+				"MARS": 15
+			},
+			"NOVEMBER": {
+				"BIRTHS": 83,
+				"DEATHS": 51,
+				"DIVS": "*",
+				"MARS": 13
+			},
+			"DECEMBER": {
+				"BIRTHS": 78,
+				"DEATHS": 56,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"TOTAL": {
+				"BIRTHS": 951,
+				"DEATHS": 605,
+				"DIVS": "80†",
+				"MARS": 159
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"BIRTHS": 132,
+				"DEATHS": 125,
+				"DIVS": 52,
+				"MARS": 64
+			},
+			"FEBRUARY": {
+				"BIRTHS": 123,
+				"DEATHS": 116,
+				"DIVS": 31,
+				"MARS": 48
+			},
+			"MARCH": {
+				"BIRTHS": 145,
+				"DEATHS": 126,
+				"DIVS": 42,
+				"MARS": 72
+			},
+			"APRIL": {
+				"BIRTHS": 126,
+				"DEATHS": 95,
+				"DIVS": 44,
+				"MARS": 66
+			},
+			"MAY": {
+				"BIRTHS": 97,
+				"DEATHS": 122,
+				"DIVS": 33,
+				"MARS": 63
+			},
+			"JUNE": {
+				"BIRTHS": 116,
+				"DEATHS": 86,
+				"DIVS": 26,
+				"MARS": 68
+			},
+			"JULY": {
+				"BIRTHS": 157,
+				"DEATHS": 84,
+				"DIVS": 35,
+				"MARS": 91
+			},
+			"AUGUST": {
+				"BIRTHS": 153,
+				"DEATHS": 104,
+				"DIVS": 41,
+				"MARS": 48
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 148,
+				"DEATHS": 94,
+				"DIVS": 37,
+				"MARS": 37
+			},
+			"OCTOBER": {
+				"BIRTHS": 136,
+				"DEATHS": 93,
+				"DIVS": 30,
+				"MARS": 83
+			},
+			"NOVEMBER": {
+				"BIRTHS": 123,
+				"DEATHS": 105,
+				"DIVS": 24,
+				"MARS": 46
+			},
+			"DECEMBER": {
+				"BIRTHS": 151,
+				"DEATHS": 115,
+				"DIVS": 24,
+				"MARS": 50
+			},
+			"TOTAL": {
+				"BIRTHS": 1607,
+				"DEATHS": 1265,
+				"DIVS": 419,
+				"MARS": 736
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"BIRTHS": 131,
+				"DEATHS": 64,
+				"DIVS": 16,
+				"MARS": 53
+			},
+			"FEBRUARY": {
+				"BIRTHS": 135,
+				"DEATHS": 56,
+				"DIVS": 30,
+				"MARS": 47
+			},
+			"MARCH": {
+				"BIRTHS": 132,
+				"DEATHS": 61,
+				"DIVS": 40,
+				"MARS": 47
+			},
+			"APRIL": {
+				"BIRTHS": 148,
+				"DEATHS": 64,
+				"DIVS": 30,
+				"MARS": 51
+			},
+			"MAY": {
+				"BIRTHS": 131,
+				"DEATHS": 52,
+				"DIVS": 38,
+				"MARS": 82
+			},
+			"JUNE": {
+				"BIRTHS": 124,
+				"DEATHS": 74,
+				"DIVS": 40,
+				"MARS": 93
+			},
+			"JULY": {
+				"BIRTHS": 138,
+				"DEATHS": 37,
+				"DIVS": 32,
+				"MARS": 105
+			},
+			"AUGUST": {
+				"BIRTHS": 123,
+				"DEATHS": 59,
+				"DIVS": 37,
+				"MARS": 78
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 136,
+				"DEATHS": 53,
+				"DIVS": 25,
+				"MARS": 80
+			},
+			"OCTOBER": {
+				"BIRTHS": 153,
+				"DEATHS": 53,
+				"DIVS": 33,
+				"MARS": 103
+			},
+			"NOVEMBER": {
+				"BIRTHS": 121,
+				"DEATHS": 63,
+				"DIVS": 24,
+				"MARS": 51
+			},
+			"DECEMBER": {
+				"BIRTHS": 153,
+				"DEATHS": 60,
+				"DIVS": 37,
+				"MARS": 51
+			},
+			"TOTAL": {
+				"BIRTHS": 1625,
+				"DEATHS": 696,
+				"DIVS": 382,
+				"MARS": 841
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"BIRTHS": 50,
+				"DEATHS": 74,
+				"DIVS": 8,
+				"MARS": 26
+			},
+			"FEBRUARY": {
+				"BIRTHS": 48,
+				"DEATHS": 50,
+				"DIVS": 10,
+				"MARS": 23
+			},
+			"MARCH": {
+				"BIRTHS": 41,
+				"DEATHS": 53,
+				"DIVS": 10,
+				"MARS": 19
+			},
+			"APRIL": {
+				"BIRTHS": 52,
+				"DEATHS": 63,
+				"DIVS": 11,
+				"MARS": 29
+			},
+			"MAY": {
+				"BIRTHS": 44,
+				"DEATHS": 51,
+				"DIVS": 8,
+				"MARS": 28
+			},
+			"JUNE": {
+				"BIRTHS": 48,
+				"DEATHS": 55,
+				"DIVS": 11,
+				"MARS": 30
+			},
+			"JULY": {
+				"BIRTHS": 55,
+				"DEATHS": 68,
+				"DIVS": 7,
+				"MARS": 22
+			},
+			"AUGUST": {
+				"BIRTHS": 51,
+				"DEATHS": 54,
+				"DIVS": 19,
+				"MARS": 22
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 54,
+				"DEATHS": 53,
+				"DIVS": 7,
+				"MARS": 24
+			},
+			"OCTOBER": {
+				"BIRTHS": 53,
+				"DEATHS": 64,
+				"DIVS": 7,
+				"MARS": 34
+			},
+			"NOVEMBER": {
+				"BIRTHS": 46,
+				"DEATHS": 55,
+				"DIVS": 20,
+				"MARS": 22
+			},
+			"DECEMBER": {
+				"BIRTHS": 48,
+				"DEATHS": 55,
+				"DIVS": 15,
+				"MARS": 25
+			},
+			"TOTAL": {
+				"BIRTHS": 590,
+				"DEATHS": 695,
+				"DIVS": 133,
+				"MARS": 304
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"BIRTHS": 41,
+				"DEATHS": 24,
+				"DIVS": 10,
+				"MARS": 24
+			},
+			"FEBRUARY": {
+				"BIRTHS": 42,
+				"DEATHS": 19,
+				"DIVS": 16,
+				"MARS": 42
+			},
+			"MARCH": {
+				"BIRTHS": 66,
+				"DEATHS": 24,
+				"DIVS": 13,
+				"MARS": 24
+			},
+			"APRIL": {
+				"BIRTHS": 46,
+				"DEATHS": 25,
+				"DIVS": 16,
+				"MARS": 12
+			},
+			"MAY": {
+				"BIRTHS": 43,
+				"DEATHS": 31,
+				"DIVS": 11,
+				"MARS": 26
+			},
+			"JUNE": {
+				"BIRTHS": 41,
+				"DEATHS": 26,
+				"DIVS": 15,
+				"MARS": 45
+			},
+			"JULY": {
+				"BIRTHS": 43,
+				"DEATHS": 17,
+				"DIVS": 10,
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 54,
+				"DEATHS": 20,
+				"DIVS": 18,
+				"MARS": 23
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 62,
+				"DEATHS": 22,
+				"DIVS": 10,
+				"MARS": 36
+			},
+			"OCTOBER": {
+				"BIRTHS": 47,
+				"DEATHS": 23,
+				"DIVS": 8,
+				"MARS": 14
+			},
+			"NOVEMBER": {
+				"BIRTHS": 58,
+				"DEATHS": 16,
+				"DIVS": 14,
+				"MARS": 23
+			},
+			"DECEMBER": {
+				"BIRTHS": 57,
+				"DEATHS": 28,
+				"DIVS": 15,
+				"MARS": 26
+			},
+			"TOTAL": {
+				"BIRTHS": 600,
+				"DEATHS": 275,
+				"DIVS": 156,
+				"MARS": "300†"
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"BIRTHS": 7,
+				"DEATHS": "*",
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MARCH": {
+				"BIRTHS": 9,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"APRIL": {
+				"BIRTHS": 6,
+				"DEATHS": 7,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"MAY": {
+				"BIRTHS": 13,
+				"DIVS": 9,
+				"MARS": 6
+			},
+			"JUNE": {
+				"BIRTHS": 10,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"JULY": {
+				"BIRTHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 8,
+				"DIVS": "*",
+				"MARS": 8
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 20,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 8,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"NOVEMBER": {
+				"BIRTHS": 12,
+				"DEATHS": 6,
+				"DIVS": 7,
+				"MARS": 7
+			},
+			"DECEMBER": {
+				"BIRTHS": 18,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"TOTAL": {
+				"BIRTHS": "130†",
+				"DEATHS": "50†",
+				"DIVS": "50†",
+				"MARS": "60†"
+			},
+			"FEBRUARY": {
+				"DIVS": "*",
+				"MARS": "*"
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"BIRTHS": 13,
+				"DEATHS": 29,
+				"DIVS": "*",
+				"MARS": 89
+			},
+			"FEBRUARY": {
+				"BIRTHS": 19,
+				"DEATHS": 24,
+				"DIVS": "*",
+				"MARS": 97
+			},
+			"MARCH": {
+				"BIRTHS": 18,
+				"DEATHS": 17,
+				"DIVS": "*",
+				"MARS": 116
+			},
+			"APRIL": {
+				"BIRTHS": 13,
+				"DEATHS": 23,
+				"DIVS": "*",
+				"MARS": 110
+			},
+			"MAY": {
+				"BIRTHS": 17,
+				"DEATHS": 21,
+				"DIVS": "*",
+				"MARS": 109
+			},
+			"JUNE": {
+				"BIRTHS": 13,
+				"DEATHS": 19,
+				"DIVS": "*",
+				"MARS": 90
+			},
+			"JULY": {
+				"BIRTHS": 25,
+				"DEATHS": 19,
+				"DIVS": "*",
+				"MARS": 91
+			},
+			"AUGUST": {
+				"BIRTHS": 18,
+				"DEATHS": 13,
+				"DIVS": "0",
+				"MARS": 57
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 20,
+				"DEATHS": 26,
+				"DIVS": "0",
+				"MARS": 69
+			},
+			"OCTOBER": {
+				"BIRTHS": 13,
+				"DEATHS": 15,
+				"DIVS": "0",
+				"MARS": 105
+			},
+			"NOVEMBER": {
+				"BIRTHS": 12,
+				"DEATHS": 19,
+				"DIVS": "*",
+				"MARS": 106
+			},
+			"DECEMBER": {
+				"BIRTHS": 23,
+				"DEATHS": 22,
+				"DIVS": "0",
+				"MARS": 120
+			},
+			"TOTAL": {
+				"BIRTHS": 204,
+				"DEATHS": 247,
+				"DIVS": "10†",
+				"MARS": 1159
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"BIRTHS": 4497,
+				"DEATHS": 2738,
+				"DIVS": 1659,
+				"MARS": 8
+			},
+			"FEBRUARY": {
+				"BIRTHS": 4048,
+				"DEATHS": 2371,
+				"DIVS": 1400,
+				"MARS": 8
+			},
+			"MARCH": {
+				"BIRTHS": 4512,
+				"DEATHS": 2469,
+				"DIVS": 1484,
+				"MARS": 12
+			},
+			"APRIL": {
+				"BIRTHS": 4253,
+				"DEATHS": 2320,
+				"DIVS": 1521,
+				"MARS": 10
+			},
+			"MAY": {
+				"BIRTHS": 4226,
+				"DEATHS": 2200,
+				"DIVS": 1564,
+				"MARS": 14
+			},
+			"JUNE": {
+				"BIRTHS": 4254,
+				"DEATHS": 2077,
+				"DIVS": 1409,
+				"MARS": 10
+			},
+			"JULY": {
+				"BIRTHS": 4641,
+				"DEATHS": 2121,
+				"DIVS": 1381,
+				"MARS": 7
+			},
+			"AUGUST": {
+				"BIRTHS": 4711,
+				"DEATHS": 2078,
+				"DIVS": 1583,
+				"MARS": "*"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 4768,
+				"DEATHS": 2028,
+				"DIVS": 1430,
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 4798,
+				"DEATHS": 1996,
+				"DIVS": 1689,
+				"MARS": 6
+			},
+			"NOVEMBER": {
+				"BIRTHS": 4490,
+				"DEATHS": 2113,
+				"DIVS": 1414,
+				"MARS": 13
+			},
+			"DECEMBER": {
+				"BIRTHS": 4650,
+				"DEATHS": 2380,
+				"DIVS": 1388,
+				"MARS": 14
+			},
+			"TOTAL": {
+				"BIRTHS": 53848,
+				"DEATHS": 26891,
+				"DIVS": 17922,
+				"MARS": "110†"
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"BIRTHS": 150,
+				"DEATHS": 283,
+				"DIVS": 54,
+				"MARS": 1646
+			},
+			"FEBRUARY": {
+				"BIRTHS": 155,
+				"DEATHS": 236,
+				"DIVS": 28,
+				"MARS": 1563
+			},
+			"MARCH": {
+				"BIRTHS": 127,
+				"DEATHS": 258,
+				"DIVS": 42,
+				"MARS": 2322
+			},
+			"APRIL": {
+				"BIRTHS": 153,
+				"DEATHS": 221,
+				"DIVS": 35,
+				"MARS": 2351
+			},
+			"MAY": {
+				"BIRTHS": 135,
+				"DEATHS": 221,
+				"DIVS": 36,
+				"MARS": 2284
+			},
+			"JUNE": {
+				"BIRTHS": 141,
+				"DEATHS": 187,
+				"DIVS": 27,
+				"MARS": 1684
+			},
+			"JULY": {
+				"BIRTHS": 149,
+				"DEATHS": 193,
+				"DIVS": 35,
+				"MARS": 1560
+			},
+			"AUGUST": {
+				"BIRTHS": 152,
+				"DEATHS": 214,
+				"DIVS": 24,
+				"MARS": 1207
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 141,
+				"DEATHS": 183,
+				"DIVS": 30,
+				"MARS": 1421
+			},
+			"OCTOBER": {
+				"BIRTHS": 142,
+				"DEATHS": 229,
+				"DIVS": 32,
+				"MARS": 2413
+			},
+			"NOVEMBER": {
+				"BIRTHS": 143,
+				"DEATHS": 223,
+				"DIVS": 27,
+				"MARS": 2262
+			},
+			"DECEMBER": {
+				"BIRTHS": 154,
+				"DEATHS": 235,
+				"DIVS": 39,
+				"MARS": 1806
+			},
+			"TOTAL": {
+				"BIRTHS": 1742,
+				"DEATHS": 2683,
+				"DIVS": 409,
+				"MARS": 22519
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"BIRTHS": 133,
+				"DEATHS": 102,
+				"DIVS": 24,
+				"MARS": 96
+			},
+			"FEBRUARY": {
+				"BIRTHS": 133,
+				"DEATHS": 77,
+				"DIVS": 17,
+				"MARS": 54
+			},
+			"MARCH": {
+				"BIRTHS": 128,
+				"DEATHS": 85,
+				"DIVS": 22,
+				"MARS": 110
+			},
+			"APRIL": {
+				"BIRTHS": 128,
+				"DEATHS": 74,
+				"DIVS": 14,
+				"MARS": 115
+			},
+			"MAY": {
+				"BIRTHS": 132,
+				"DEATHS": 97,
+				"DIVS": 27,
+				"MARS": 115
+			},
+			"JUNE": {
+				"BIRTHS": 139,
+				"DEATHS": 85,
+				"DIVS": 19,
+				"MARS": 115
+			},
+			"JULY": {
+				"BIRTHS": 134,
+				"DEATHS": 69,
+				"DIVS": 15,
+				"MARS": 107
+			},
+			"AUGUST": {
+				"BIRTHS": 132,
+				"DEATHS": 79,
+				"DIVS": 16,
+				"MARS": 75
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 116,
+				"DEATHS": 64,
+				"DIVS": 21,
+				"MARS": 90
+			},
+			"OCTOBER": {
+				"BIRTHS": 135,
+				"DEATHS": 74,
+				"DIVS": 22,
+				"MARS": 137
+			},
+			"NOVEMBER": {
+				"BIRTHS": 122,
+				"DEATHS": 63,
+				"DIVS": "*",
+				"MARS": 120
+			},
+			"DECEMBER": {
+				"BIRTHS": 122,
+				"DEATHS": 92,
+				"DIVS": 12,
+				"MARS": 76
+			},
+			"TOTAL": {
+				"BIRTHS": 1554,
+				"DEATHS": 961,
+				"DIVS": "210†",
+				"MARS": 1210
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"BIRTHS": 981,
+				"DEATHS": 839,
+				"DIVS": 342,
+				"MARS": 0
+			},
+			"FEBRUARY": {
+				"BIRTHS": 864,
+				"DEATHS": 800,
+				"DIVS": 260,
+				"MARS": 47
+			},
+			"MARCH": {
+				"BIRTHS": 997,
+				"DEATHS": 745,
+				"DIVS": 244,
+				"MARS": 34
+			},
+			"APRIL": {
+				"BIRTHS": 970,
+				"DEATHS": 700,
+				"DIVS": 340,
+				"MARS": 26
+			},
+			"MAY": {
+				"BIRTHS": 981,
+				"DEATHS": 683,
+				"DIVS": 331,
+				"MARS": 36
+			},
+			"JUNE": {
+				"BIRTHS": 926,
+				"DEATHS": 637,
+				"DIVS": 321,
+				"MARS": 45
+			},
+			"JULY": {
+				"BIRTHS": 1050,
+				"DEATHS": 679,
+				"DIVS": 341,
+				"MARS": 88
+			},
+			"AUGUST": {
+				"BIRTHS": 1023,
+				"DEATHS": 664,
+				"DIVS": 372,
+				"MARS": 51
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 1054,
+				"DEATHS": 685,
+				"DIVS": 285,
+				"MARS": 30
+			},
+			"OCTOBER": {
+				"BIRTHS": 1054,
+				"DEATHS": 742,
+				"DIVS": 370,
+				"MARS": 64
+			},
+			"NOVEMBER": {
+				"BIRTHS": 1040,
+				"DEATHS": 646,
+				"DIVS": 267,
+				"MARS": 34
+			},
+			"DECEMBER": {
+				"BIRTHS": 1025,
+				"DEATHS": 770,
+				"DIVS": 304,
+				"MARS": 37
+			},
+			"TOTAL": {
+				"BIRTHS": 11965,
+				"DEATHS": 8590,
+				"DIVS": 3777,
+				"MARS": 492
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"BIRTHS": 390,
+				"DEATHS": 247,
+				"DIVS": 31,
+				"MARS": 361
+			},
+			"FEBRUARY": {
+				"BIRTHS": 350,
+				"DEATHS": 221,
+				"DIVS": 46,
+				"MARS": 351
+			},
+			"MARCH": {
+				"BIRTHS": 386,
+				"DEATHS": 195,
+				"DIVS": 38,
+				"MARS": 521
+			},
+			"APRIL": {
+				"BIRTHS": 324,
+				"DEATHS": 214,
+				"DIVS": 64,
+				"MARS": 451
+			},
+			"MAY": {
+				"BIRTHS": 360,
+				"DEATHS": 197,
+				"DIVS": 45,
+				"MARS": 601
+			},
+			"JUNE": {
+				"BIRTHS": 354,
+				"DEATHS": 181,
+				"DIVS": 63,
+				"MARS": 364
+			},
+			"JULY": {
+				"BIRTHS": 390,
+				"DEATHS": 203,
+				"DIVS": 60,
+				"MARS": 381
+			},
+			"AUGUST": {
+				"BIRTHS": 425,
+				"DEATHS": 203,
+				"DIVS": 45,
+				"MARS": 357
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 404,
+				"DEATHS": 192,
+				"DIVS": 74,
+				"MARS": 422
+			},
+			"OCTOBER": {
+				"BIRTHS": 400,
+				"DEATHS": 171,
+				"DIVS": 64,
+				"MARS": 639
+			},
+			"NOVEMBER": {
+				"BIRTHS": 377,
+				"DEATHS": 197,
+				"DIVS": 54,
+				"MARS": 556
+			},
+			"DECEMBER": {
+				"BIRTHS": 404,
+				"DEATHS": 223,
+				"DIVS": 33,
+				"MARS": 415
+			},
+			"TOTAL": {
+				"BIRTHS": 4564,
+				"DEATHS": 2444,
+				"DIVS": 617,
+				"MARS": 5419
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"BIRTHS": 59,
+				"DEATHS": 29,
+				"DIVS": 8,
+				"MARS": 78
+			},
+			"FEBRUARY": {
+				"BIRTHS": 51,
+				"DEATHS": 22,
+				"DIVS": "*",
+				"MARS": 102
+			},
+			"MARCH": {
+				"BIRTHS": 57,
+				"DEATHS": 26,
+				"DIVS": 9,
+				"MARS": 141
+			},
+			"APRIL": {
+				"BIRTHS": 45,
+				"DEATHS": 26,
+				"DIVS": 9,
+				"MARS": 146
+			},
+			"MAY": {
+				"BIRTHS": 50,
+				"DEATHS": 21,
+				"DIVS": 11,
+				"MARS": 100
+			},
+			"JUNE": {
+				"BIRTHS": 40,
+				"DEATHS": 20,
+				"DIVS": "*",
+				"MARS": 78
+			},
+			"JULY": {
+				"BIRTHS": 47,
+				"DEATHS": 20,
+				"DIVS": "*",
+				"MARS": 73
+			},
+			"AUGUST": {
+				"BIRTHS": 64,
+				"DEATHS": 25,
+				"DIVS": 10,
+				"MARS": 71
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 58,
+				"DEATHS": 16,
+				"DIVS": 9,
+				"MARS": 88
+			},
+			"OCTOBER": {
+				"BIRTHS": 58,
+				"DEATHS": 22,
+				"DIVS": 12,
+				"MARS": 113
+			},
+			"NOVEMBER": {
+				"BIRTHS": 59,
+				"DEATHS": 25,
+				"DIVS": 12,
+				"MARS": 113
+			},
+			"DECEMBER": {
+				"BIRTHS": 64,
+				"DEATHS": 34,
+				"DIVS": "*",
+				"MARS": 110
+			},
+			"TOTAL": {
+				"BIRTHS": 652,
+				"DEATHS": 286,
+				"DIVS": "100†",
+				"MARS": 1213
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"BIRTHS": 135,
+				"DEATHS": 276,
+				"DIVS": 50,
+				"MARS": 8
+			},
+			"FEBRUARY": {
+				"BIRTHS": 140,
+				"DEATHS": 240,
+				"DIVS": 71,
+				"MARS": 11
+			},
+			"MARCH": {
+				"BIRTHS": 167,
+				"DEATHS": 232,
+				"DIVS": 56,
+				"MARS": 18
+			},
+			"APRIL": {
+				"BIRTHS": 131,
+				"DEATHS": 214,
+				"DIVS": 60,
+				"MARS": 14
+			},
+			"MAY": {
+				"BIRTHS": 158,
+				"DEATHS": 207,
+				"DIVS": 71,
+				"MARS": 6
+			},
+			"JUNE": {
+				"BIRTHS": 160,
+				"DEATHS": 218,
+				"DIVS": 52,
+				"MARS": 8
+			},
+			"JULY": {
+				"BIRTHS": 149,
+				"DEATHS": 235,
+				"DIVS": 64,
+				"MARS": 6
+			},
+			"AUGUST": {
+				"BIRTHS": 151,
+				"DEATHS": 200,
+				"DIVS": 80,
+				"MARS": 12
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 168,
+				"DEATHS": 235,
+				"DIVS": 67,
+				"MARS": 19
+			},
+			"OCTOBER": {
+				"BIRTHS": 150,
+				"DEATHS": 206,
+				"DIVS": 83,
+				"MARS": 11
+			},
+			"NOVEMBER": {
+				"BIRTHS": 168,
+				"DEATHS": 232,
+				"DIVS": 65,
+				"MARS": 10
+			},
+			"DECEMBER": {
+				"BIRTHS": 143,
+				"DEATHS": 229,
+				"DIVS": 67,
+				"MARS": 16
+			},
+			"TOTAL": {
+				"BIRTHS": 1820,
+				"DEATHS": 2724,
+				"DIVS": 786,
+				"MARS": 139
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"BIRTHS": 279,
+				"DEATHS": 161,
+				"DIVS": 40,
+				"MARS": 72
+			},
+			"FEBRUARY": {
+				"BIRTHS": 236,
+				"DEATHS": 98,
+				"DIVS": 130,
+				"MARS": 43
+			},
+			"MARCH": {
+				"BIRTHS": 213,
+				"DEATHS": 128,
+				"DIVS": 109,
+				"MARS": 79
+			},
+			"APRIL": {
+				"BIRTHS": 222,
+				"DEATHS": 107,
+				"DIVS": 126,
+				"MARS": 79
+			},
+			"MAY": {
+				"BIRTHS": 230,
+				"DEATHS": 91,
+				"DIVS": 83,
+				"MARS": 78
+			},
+			"JUNE": {
+				"BIRTHS": 231,
+				"DEATHS": 104,
+				"DIVS": 55,
+				"MARS": 129
+			},
+			"JULY": {
+				"BIRTHS": 270,
+				"DEATHS": 108,
+				"DIVS": 86,
+				"MARS": 115
+			},
+			"AUGUST": {
+				"BIRTHS": 295,
+				"DEATHS": 121,
+				"DIVS": 75,
+				"MARS": 44
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 306,
+				"DEATHS": 96,
+				"DIVS": 48,
+				"MARS": 139
+			},
+			"OCTOBER": {
+				"BIRTHS": 288,
+				"DEATHS": 102,
+				"DIVS": 101,
+				"MARS": 159
+			},
+			"NOVEMBER": {
+				"BIRTHS": 276,
+				"DEATHS": 93,
+				"DIVS": 67,
+				"MARS": 92
+			},
+			"DECEMBER": {
+				"BIRTHS": 270,
+				"DEATHS": 111,
+				"DIVS": 74,
+				"MARS": 100
+			},
+			"TOTAL": {
+				"DEATHS": 1320,
+				"DIVS": 994,
+				"MARS": 1129
+			}
+		},
+		"UNKNOWN": {
+			"JANUARY": {
+				"DEATHS": 29
+			},
+			"FEBRUARY": {
+				"DEATHS": 9
+			},
+			"MARCH": {
+				"DEATHS": 16
+			},
+			"APRIL": {
+				"DEATHS": 14
+			},
+			"MAY": {
+				"DEATHS": 22
+			},
+			"JUNE": {
+				"DEATHS": 18
+			},
+			"JULY": {
+				"DEATHS": 22
+			},
+			"AUGUST": {
+				"DEATHS": 12
+			},
+			"SEPTEMBER": {
+				"DEATHS": 11
+			},
+			"OCTOBER": {
+				"DEATHS": 13
+			},
+			"NOVEMBER": {
+				"DEATHS": 17
+			},
+			"DECEMBER": {
+				"DEATHS": 18
+			}
+		}
+	},
+	"2014": {
+		"ARIZONA": {
+			"JANUARY": {
+				"BIRTHS": 7313,
+				"DEATHS": 4824,
+				"DIVS": 2431,
+				"MARS": "2,920†"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 6593,
+				"DEATHS": 4227,
+				"DIVS": "1,970†",
+				"MARS": "2,870†"
+			},
+			"MARCH": {
+				"BIRTHS": 7068,
+				"DEATHS": 4333,
+				"DIVS": "2,000†",
+				"MARS": 3431
+			},
+			"APRIL": {
+				"BIRTHS": 6672,
+				"DEATHS": 4278,
+				"DIVS": "2,330†",
+				"MARS": 3802
+			},
+			"MAY": {
+				"BIRTHS": 6893,
+				"DEATHS": 4291,
+				"DIVS": "2,180†",
+				"MARS": 3353
+			},
+			"JUNE": {
+				"BIRTHS": 6856,
+				"DEATHS": 4072,
+				"DIVS": "2,010†",
+				"MARS": "3,440†"
+			},
+			"JULY": {
+				"BIRTHS": 7731,
+				"DEATHS": 4071,
+				"DIVS": "2,360†",
+				"MARS": "2,800†"
+			},
+			"AUGUST": {
+				"BIRTHS": 7718,
+				"DEATHS": 4112,
+				"DIVS": "2,340†",
+				"MARS": "2,150†"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 7651,
+				"DEATHS": 3994,
+				"DIVS": "2,260†",
+				"MARS": "2,440†"
+			},
+			"OCTOBER": {
+				"BIRTHS": 7554,
+				"DEATHS": 4184,
+				"DIVS": "2,400†",
+				"MARS": 4312
+			},
+			"NOVEMBER": {
+				"BIRTHS": 6994,
+				"DEATHS": 4239,
+				"DIVS": "1,800†",
+				"MARS": "3,580†"
+			},
+			"DECEMBER": {
+				"BIRTHS": 7605,
+				"DEATHS": 4449,
+				"DIVS": "2,130†",
+				"MARS": 3811
+			},
+			"TOTAL": {
+				"BIRTHS": 86648,
+				"DEATHS": 51074,
+				"DIVS": 26199,
+				"MARS": 38911
+			}
+		},
+		"APACHE": {
+			"JANUARY": {
+				"BIRTHS": 81,
+				"DEATHS": 83,
+				"DIVS": 6,
+				"MARS": 11
+			},
+			"FEBRUARY": {
+				"BIRTHS": 69,
+				"DEATHS": 46,
+				"DIVS": 8,
+				"MARS": 17
+			},
+			"MARCH": {
+				"BIRTHS": 82,
+				"DEATHS": 53,
+				"DIVS": "*",
+				"MARS": 13
+			},
+			"APRIL": {
+				"BIRTHS": 101,
+				"DEATHS": 48,
+				"DIVS": "*",
+				"MARS": 12
+			},
+			"MAY": {
+				"BIRTHS": 95,
+				"DEATHS": 41,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"JUNE": {
+				"BIRTHS": 98,
+				"DEATHS": 40,
+				"DIVS": 7,
+				"MARS": 15
+			},
+			"JULY": {
+				"BIRTHS": 83,
+				"DEATHS": 45,
+				"DIVS": 9,
+				"MARS": 20
+			},
+			"AUGUST": {
+				"BIRTHS": 83,
+				"DEATHS": 45,
+				"DIVS": "*",
+				"MARS": 22
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 92,
+				"DEATHS": 32,
+				"DIVS": 9,
+				"MARS": 22
+			},
+			"OCTOBER": {
+				"BIRTHS": 79,
+				"DEATHS": 65,
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"NOVEMBER": {
+				"BIRTHS": 82,
+				"DEATHS": 58,
+				"DIVS": 11,
+				"MARS": 15
+			},
+			"DECEMBER": {
+				"BIRTHS": 73,
+				"DEATHS": 45,
+				"DIVS": 6,
+				"MARS": 23
+			},
+			"TOTAL": {
+				"BIRTHS": 1018,
+				"DEATHS": 601,
+				"DIVS": "70†",
+				"MARS": 201
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"BIRTHS": 152,
+				"DEATHS": 119,
+				"DIVS": 31,
+				"MARS": 43
+			},
+			"FEBRUARY": {
+				"BIRTHS": 117,
+				"DEATHS": 127,
+				"DIVS": 25,
+				"MARS": 48
+			},
+			"MARCH": {
+				"BIRTHS": 138,
+				"DEATHS": 97,
+				"DIVS": 29,
+				"MARS": 70
+			},
+			"APRIL": {
+				"BIRTHS": 131,
+				"DEATHS": 106,
+				"DIVS": 18,
+				"MARS": 69
+			},
+			"MAY": {
+				"BIRTHS": 128,
+				"DEATHS": 104,
+				"DIVS": 25,
+				"MARS": 78
+			},
+			"JUNE": {
+				"BIRTHS": 139,
+				"DEATHS": 85,
+				"DIVS": 45,
+				"MARS": 69
+			},
+			"JULY": {
+				"BIRTHS": 155,
+				"DEATHS": 102,
+				"DIVS": 46,
+				"MARS": 63
+			},
+			"AUGUST": {
+				"BIRTHS": 136,
+				"DEATHS": 79,
+				"DIVS": 21,
+				"MARS": 60
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 142,
+				"DEATHS": 93,
+				"DIVS": 32,
+				"MARS": 50
+			},
+			"OCTOBER": {
+				"BIRTHS": 152,
+				"DEATHS": 91,
+				"DIVS": 34,
+				"MARS": 67
+			},
+			"NOVEMBER": {
+				"BIRTHS": 125,
+				"DEATHS": 93,
+				"DIVS": 33,
+				"MARS": 60
+			},
+			"DECEMBER": {
+				"BIRTHS": 128,
+				"DEATHS": 105,
+				"DIVS": 40,
+				"MARS": 74
+			},
+			"TOTAL": {
+				"BIRTHS": 1643,
+				"DEATHS": 1201,
+				"DIVS": 379,
+				"MARS": 751
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"BIRTHS": 138,
+				"DEATHS": 56,
+				"DIVS": 35,
+				"MARS": 51
+			},
+			"FEBRUARY": {
+				"BIRTHS": 108,
+				"DEATHS": 68,
+				"DIVS": 41,
+				"MARS": 49
+			},
+			"MARCH": {
+				"BIRTHS": 151,
+				"DEATHS": 57,
+				"DIVS": 23,
+				"MARS": 59
+			},
+			"APRIL": {
+				"BIRTHS": 120,
+				"DEATHS": 52,
+				"DIVS": 30,
+				"MARS": 62
+			},
+			"MAY": {
+				"BIRTHS": 160,
+				"DEATHS": 65,
+				"DIVS": 35,
+				"MARS": 79
+			},
+			"JUNE": {
+				"BIRTHS": 154,
+				"DEATHS": 71,
+				"DIVS": 28,
+				"MARS": 103
+			},
+			"JULY": {
+				"BIRTHS": 163,
+				"DEATHS": 55,
+				"DIVS": 28,
+				"MARS": 98
+			},
+			"AUGUST": {
+				"BIRTHS": 134,
+				"DEATHS": 57,
+				"DIVS": 23,
+				"MARS": 82
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 124,
+				"DEATHS": 60,
+				"DIVS": 31,
+				"MARS": 96
+			},
+			"OCTOBER": {
+				"BIRTHS": 153,
+				"DEATHS": 65,
+				"DIVS": 28,
+				"MARS": 122
+			},
+			"NOVEMBER": {
+				"BIRTHS": 152,
+				"DEATHS": 58,
+				"DIVS": 22,
+				"MARS": 62
+			},
+			"DECEMBER": {
+				"BIRTHS": 144,
+				"DEATHS": 68,
+				"DIVS": 38,
+				"MARS": 75
+			},
+			"TOTAL": {
+				"BIRTHS": 1701,
+				"DEATHS": 732,
+				"DIVS": 362,
+				"MARS": 938
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"BIRTHS": 50,
+				"DEATHS": 61,
+				"DIVS": 16,
+				"MARS": 15
+			},
+			"FEBRUARY": {
+				"BIRTHS": 57,
+				"DEATHS": 65,
+				"DIVS": 12,
+				"MARS": 13
+			},
+			"MARCH": {
+				"BIRTHS": 43,
+				"DEATHS": 67,
+				"DIVS": 11,
+				"MARS": 24
+			},
+			"APRIL": {
+				"BIRTHS": 61,
+				"DEATHS": 56,
+				"DIVS": 13,
+				"MARS": 41
+			},
+			"MAY": {
+				"BIRTHS": 47,
+				"DEATHS": 64,
+				"DIVS": 17,
+				"MARS": 32
+			},
+			"JUNE": {
+				"BIRTHS": 53,
+				"DEATHS": 70,
+				"DIVS": 12,
+				"MARS": 40
+			},
+			"JULY": {
+				"BIRTHS": 79,
+				"DEATHS": 57,
+				"DIVS": 14,
+				"MARS": 27
+			},
+			"AUGUST": {
+				"BIRTHS": 51,
+				"DEATHS": 68,
+				"DIVS": 12,
+				"MARS": 11
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 55,
+				"DEATHS": 51,
+				"DIVS": 16,
+				"MARS": 25
+			},
+			"OCTOBER": {
+				"BIRTHS": 50,
+				"DEATHS": 46,
+				"DIVS": 18,
+				"MARS": 38
+			},
+			"NOVEMBER": {
+				"BIRTHS": 51,
+				"DEATHS": 69,
+				"DIVS": 10,
+				"MARS": 33
+			},
+			"DECEMBER": {
+				"BIRTHS": 52,
+				"DEATHS": 73,
+				"DIVS": 14,
+				"MARS": 27
+			},
+			"TOTAL": {
+				"BIRTHS": 649,
+				"DEATHS": 747,
+				"DIVS": 165,
+				"MARS": 326
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"BIRTHS": 62,
+				"DEATHS": 30,
+				"DIVS": 14,
+				"MARS": 30
+			},
+			"FEBRUARY": {
+				"BIRTHS": 40,
+				"DEATHS": 23,
+				"DIVS": 10,
+				"MARS": 22
+			},
+			"MARCH": {
+				"BIRTHS": 53,
+				"DEATHS": 26,
+				"DIVS": 11,
+				"MARS": 30
+			},
+			"APRIL": {
+				"BIRTHS": 64,
+				"DEATHS": 18,
+				"DIVS": 12,
+				"MARS": 35
+			},
+			"MAY": {
+				"BIRTHS": 53,
+				"DEATHS": 17,
+				"DIVS": 8,
+				"MARS": 28
+			},
+			"JUNE": {
+				"BIRTHS": 41,
+				"DEATHS": 30,
+				"DIVS": 17,
+				"MARS": 15
+			},
+			"JULY": {
+				"BIRTHS": 52,
+				"DEATHS": 30,
+				"DIVS": 15,
+				"MARS": 38
+			},
+			"AUGUST": {
+				"BIRTHS": 48,
+				"DEATHS": 27,
+				"DIVS": 9,
+				"MARS": 40
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 48,
+				"DEATHS": 15,
+				"DIVS": 12,
+				"MARS": 27
+			},
+			"OCTOBER": {
+				"BIRTHS": 52,
+				"DEATHS": 21,
+				"DIVS": 10,
+				"MARS": 41
+			},
+			"NOVEMBER": {
+				"BIRTHS": 43,
+				"DEATHS": 15,
+				"DIVS": 8,
+				"MARS": 15
+			},
+			"DECEMBER": {
+				"BIRTHS": 47,
+				"DEATHS": 31,
+				"DIVS": 7,
+				"MARS": 51
+			},
+			"TOTAL": {
+				"BIRTHS": 603,
+				"DEATHS": 283,
+				"DIVS": 133,
+				"MARS": 372
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"BIRTHS": 20,
+				"DEATHS": "*",
+				"DIVS": 6,
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 10,
+				"DIVS": 6,
+				"MARS": "*"
+			},
+			"APRIL": {
+				"BIRTHS": 13,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"MAY": {
+				"BIRTHS": 7,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"JUNE": {
+				"BIRTHS": 10,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"JULY": {
+				"BIRTHS": 16,
+				"DEATHS": 6,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 16,
+				"DEATHS": 7,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 11,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 14,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"NOVEMBER": {
+				"BIRTHS": 10,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"DECEMBER": {
+				"BIRTHS": 12,
+				"DIVS": 6,
+				"MARS": 6
+			},
+			"TOTAL": {
+				"BIRTHS": "140†",
+				"DEATHS": "50†",
+				"DIVS": "50†",
+				"MARS": "60†"
+			},
+			"MARCH": {
+				"DIVS": "*",
+				"MARS": 6
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"BIRTHS": 13,
+				"DEATHS": 27,
+				"DIVS": 0,
+				"MARS": 11
+			},
+			"FEBRUARY": {
+				"BIRTHS": 17,
+				"DEATHS": 17,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"MARCH": {
+				"BIRTHS": 10,
+				"DEATHS": 25,
+				"DIVS": "*",
+				"MARS": 15
+			},
+			"APRIL": {
+				"BIRTHS": 17,
+				"DEATHS": 27,
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"MAY": {
+				"BIRTHS": 21,
+				"DEATHS": 15,
+				"DIVS": 0,
+				"MARS": 17
+			},
+			"JUNE": {
+				"BIRTHS": 23,
+				"DEATHS": 21,
+				"DIVS": 0,
+				"MARS": 12
+			},
+			"JULY": {
+				"BIRTHS": 28,
+				"DEATHS": 24,
+				"DIVS": 0,
+				"MARS": 6
+			},
+			"AUGUST": {
+				"BIRTHS": 17,
+				"DEATHS": 17,
+				"DIVS": 0,
+				"MARS": 8
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 16,
+				"DEATHS": 21,
+				"DIVS": 0,
+				"MARS": 6
+			},
+			"OCTOBER": {
+				"BIRTHS": 16,
+				"DEATHS": 21,
+				"DIVS": 0,
+				"MARS": 11
+			},
+			"NOVEMBER": {
+				"BIRTHS": 21,
+				"DEATHS": 22,
+				"DIVS": 8,
+				"MARS": 11
+			},
+			"DECEMBER": {
+				"BIRTHS": 14,
+				"DEATHS": 16,
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"TOTAL": {
+				"BIRTHS": 213,
+				"DEATHS": 253,
+				"DIVS": "20†",
+				"MARS": 135
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"BIRTHS": 4602,
+				"DEATHS": 2529,
+				"DIVS": 1742,
+				"MARS": 1957
+			},
+			"FEBRUARY": {
+				"BIRTHS": 4269,
+				"DEATHS": 2221,
+				"DIVS": 1428,
+				"MARS": 1715
+			},
+			"MARCH": {
+				"BIRTHS": 4523,
+				"DEATHS": 2418,
+				"DIVS": 1428,
+				"MARS": 2160
+			},
+			"APRIL": {
+				"BIRTHS": 4203,
+				"DEATHS": 2371,
+				"DIVS": 1649,
+				"MARS": 2492
+			},
+			"MAY": {
+				"BIRTHS": 4359,
+				"DEATHS": 2318,
+				"DIVS": 1546,
+				"MARS": 2108
+			},
+			"JUNE": {
+				"BIRTHS": 4322,
+				"DEATHS": 2186,
+				"DIVS": 1392,
+				"MARS": 2181
+			},
+			"JULY": {
+				"BIRTHS": 4863,
+				"DEATHS": 2234,
+				"DIVS": 1644,
+				"MARS": 1609
+			},
+			"AUGUST": {
+				"BIRTHS": 4879,
+				"DEATHS": 2281,
+				"DIVS": 1500,
+				"MARS": 1241
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 4984,
+				"DEATHS": 2158,
+				"DIVS": 1614,
+				"MARS": 1373
+			},
+			"OCTOBER": {
+				"BIRTHS": 4865,
+				"DEATHS": 2294,
+				"DIVS": 1652,
+				"MARS": 2796
+			},
+			"NOVEMBER": {
+				"BIRTHS": 4486,
+				"DEATHS": 2307,
+				"DIVS": 1208,
+				"MARS": 2371
+			},
+			"DECEMBER": {
+				"BIRTHS": 4930,
+				"DEATHS": 2394,
+				"DIVS": 1438,
+				"MARS": 2408
+			},
+			"TOTAL": {
+				"BIRTHS": 55285,
+				"DEATHS": 27711,
+				"DIVS": 18241,
+				"MARS": 24411
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"BIRTHS": 164,
+				"DEATHS": 232,
+				"DIVS": 27,
+				"MARS": 76
+			},
+			"FEBRUARY": {
+				"BIRTHS": 144,
+				"DEATHS": 244,
+				"DIVS": 26,
+				"MARS": 75
+			},
+			"MARCH": {
+				"BIRTHS": 143,
+				"DEATHS": 195,
+				"DIVS": 31,
+				"MARS": 113
+			},
+			"APRIL": {
+				"BIRTHS": 153,
+				"DEATHS": 170,
+				"DIVS": 39,
+				"MARS": 118
+			},
+			"MAY": {
+				"BIRTHS": 131,
+				"DEATHS": 216,
+				"DIVS": 31,
+				"MARS": 109
+			},
+			"JUNE": {
+				"BIRTHS": 152,
+				"DEATHS": 212,
+				"DIVS": 47,
+				"MARS": 133
+			},
+			"JULY": {
+				"BIRTHS": 174,
+				"DEATHS": 207,
+				"DIVS": 40,
+				"MARS": 86
+			},
+			"AUGUST": {
+				"BIRTHS": 163,
+				"DEATHS": 204,
+				"DIVS": 32,
+				"MARS": 80
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 167,
+				"DEATHS": 219,
+				"DIVS": 33,
+				"MARS": 96
+			},
+			"OCTOBER": {
+				"BIRTHS": 141,
+				"DEATHS": 191,
+				"DIVS": 30,
+				"MARS": 157
+			},
+			"NOVEMBER": {
+				"BIRTHS": 140,
+				"DEATHS": 234,
+				"DIVS": 33,
+				"MARS": 95
+			},
+			"DECEMBER": {
+				"BIRTHS": 161,
+				"DEATHS": 216,
+				"DIVS": 25,
+				"MARS": 123
+			},
+			"TOTAL": {
+				"BIRTHS": 1833,
+				"DEATHS": 2540,
+				"DIVS": 394,
+				"MARS": 1261
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"BIRTHS": 135,
+				"DEATHS": 78,
+				"DIVS": 19,
+				"MARS": 19
+			},
+			"FEBRUARY": {
+				"BIRTHS": 123,
+				"DEATHS": 54,
+				"DIVS": 23,
+				"MARS": 49
+			},
+			"MARCH": {
+				"BIRTHS": 132,
+				"DEATHS": 71,
+				"DIVS": 20,
+				"MARS": 46
+			},
+			"APRIL": {
+				"BIRTHS": 128,
+				"DEATHS": 74,
+				"DIVS": 20,
+				"MARS": 35
+			},
+			"MAY": {
+				"BIRTHS": 127,
+				"DEATHS": 92,
+				"DIVS": 19,
+				"MARS": 38
+			},
+			"JUNE": {
+				"BIRTHS": 125,
+				"DEATHS": 77,
+				"DIVS": 15,
+				"MARS": 34
+			},
+			"JULY": {
+				"BIRTHS": 139,
+				"DEATHS": 69,
+				"DIVS": 30,
+				"MARS": 70
+			},
+			"AUGUST": {
+				"BIRTHS": 151,
+				"DEATHS": 89,
+				"DIVS": 22,
+				"MARS": 45
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 150,
+				"DEATHS": 75,
+				"DIVS": 22,
+				"MARS": 56
+			},
+			"OCTOBER": {
+				"BIRTHS": 126,
+				"DEATHS": 91,
+				"DIVS": 21,
+				"MARS": 34
+			},
+			"NOVEMBER": {
+				"BIRTHS": 139,
+				"DEATHS": 83,
+				"DIVS": 24,
+				"MARS": 39
+			},
+			"DECEMBER": {
+				"BIRTHS": 134,
+				"DEATHS": 84,
+				"DIVS": 15,
+				"MARS": 39
+			},
+			"TOTAL": {
+				"BIRTHS": 1609,
+				"DEATHS": 937,
+				"DIVS": 250,
+				"MARS": 504
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"BIRTHS": 1029,
+				"DEATHS": 834,
+				"DIVS": 324,
+				"MARS": 472
+			},
+			"FEBRUARY": {
+				"BIRTHS": 901,
+				"DEATHS": 719,
+				"DIVS": 282,
+				"MARS": 566
+			},
+			"MARCH": {
+				"BIRTHS": 966,
+				"DEATHS": 721,
+				"DIVS": 228,
+				"MARS": 504
+			},
+			"APRIL": {
+				"BIRTHS": 914,
+				"DEATHS": 738,
+				"DIVS": 311,
+				"MARS": 576
+			},
+			"MAY": {
+				"BIRTHS": 958,
+				"DEATHS": 748,
+				"DIVS": 310,
+				"MARS": 506
+			},
+			"JUNE": {
+				"BIRTHS": 957,
+				"DEATHS": 694,
+				"DIVS": 258,
+				"MARS": 478
+			},
+			"JULY": {
+				"BIRTHS": 1066,
+				"DEATHS": 678,
+				"DIVS": 302,
+				"MARS": 454
+			},
+			"AUGUST": {
+				"BIRTHS": 1092,
+				"DEATHS": 662,
+				"DIVS": 482,
+				"MARS": 329
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 986,
+				"DEATHS": 706,
+				"DIVS": 281,
+				"MARS": 358
+			},
+			"OCTOBER": {
+				"BIRTHS": 1039,
+				"DEATHS": 717,
+				"DIVS": 347,
+				"MARS": 626
+			},
+			"NOVEMBER": {
+				"BIRTHS": 920,
+				"DEATHS": 724,
+				"DIVS": 249,
+				"MARS": 540
+			},
+			"DECEMBER": {
+				"BIRTHS": 1016,
+				"DEATHS": 784,
+				"DIVS": 311,
+				"MARS": 547
+			},
+			"TOTAL": {
+				"BIRTHS": 11844,
+				"DEATHS": 8725,
+				"DIVS": 3685,
+				"MARS": 5956
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"BIRTHS": 380,
+				"DEATHS": 265,
+				"DIVS": 71,
+				"MARS": 106
+			},
+			"FEBRUARY": {
+				"BIRTHS": 323,
+				"DEATHS": 222,
+				"DIVS": 61,
+				"MARS": 91
+			},
+			"MARCH": {
+				"BIRTHS": 368,
+				"DEATHS": 232,
+				"DIVS": 76,
+				"MARS": 134
+			},
+			"APRIL": {
+				"BIRTHS": 354,
+				"DEATHS": 212,
+				"DIVS": 75,
+				"MARS": 148
+			},
+			"MAY": {
+				"BIRTHS": 364,
+				"DEATHS": 234,
+				"DIVS": 72,
+				"MARS": 90
+			},
+			"JUNE": {
+				"BIRTHS": 340,
+				"DEATHS": 220,
+				"DIVS": 59,
+				"MARS": 90
+			},
+			"JULY": {
+				"BIRTHS": 409,
+				"DEATHS": 196,
+				"DIVS": 74,
+				"MARS": 100
+			},
+			"AUGUST": {
+				"BIRTHS": 437,
+				"DEATHS": 205,
+				"DIVS": 77,
+				"MARS": 50
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 397,
+				"DEATHS": 215,
+				"DIVS": 74,
+				"MARS": 90
+			},
+			"OCTOBER": {
+				"BIRTHS": 392,
+				"DEATHS": 214,
+				"DIVS": 106,
+				"MARS": 129
+			},
+			"NOVEMBER": {
+				"BIRTHS": 344,
+				"DEATHS": 195,
+				"DIVS": 71,
+				"MARS": 119
+			},
+			"DECEMBER": {
+				"BIRTHS": 382,
+				"DEATHS": 219,
+				"DIVS": 93,
+				"MARS": 138
+			},
+			"TOTAL": {
+				"BIRTHS": 4490,
+				"DEATHS": 2629,
+				"DIVS": 909,
+				"MARS": 1285
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"BIRTHS": 47,
+				"DEATHS": 29,
+				"DIVS": 7,
+				"MARS": 7
+			},
+			"FEBRUARY": {
+				"BIRTHS": 35,
+				"DEATHS": 23,
+				"DIVS": 16,
+				"MARS": 15
+			},
+			"MARCH": {
+				"BIRTHS": 45,
+				"DEATHS": 26,
+				"DIVS": "*",
+				"MARS": 27
+			},
+			"APRIL": {
+				"BIRTHS": 45,
+				"DEATHS": 22,
+				"DIVS": "*",
+				"MARS": 19
+			},
+			"MAY": {
+				"BIRTHS": 46,
+				"DEATHS": 21,
+				"DIVS": 9,
+				"MARS": 24
+			},
+			"JUNE": {
+				"BIRTHS": 45,
+				"DEATHS": 18,
+				"DIVS": 7,
+				"MARS": 21
+			},
+			"JULY": {
+				"BIRTHS": 60,
+				"DEATHS": 19,
+				"DIVS": 8,
+				"MARS": 24
+			},
+			"AUGUST": {
+				"BIRTHS": 58,
+				"DEATHS": 23,
+				"DIVS": 10,
+				"MARS": 17
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 47,
+				"DEATHS": 18,
+				"DIVS": 10,
+				"MARS": 16
+			},
+			"OCTOBER": {
+				"BIRTHS": 54,
+				"DEATHS": 25,
+				"DIVS": 10,
+				"MARS": 15
+			},
+			"NOVEMBER": {
+				"BIRTHS": 55,
+				"DEATHS": 25,
+				"DIVS": 10,
+				"MARS": 16
+			},
+			"DECEMBER": {
+				"BIRTHS": 62,
+				"DEATHS": 26,
+				"DIVS": "*",
+				"MARS": 26
+			},
+			"TOTAL": {
+				"BIRTHS": 599,
+				"DEATHS": 275,
+				"DIVS": "100†",
+				"MARS": 227
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"BIRTHS": 173,
+				"DEATHS": 302,
+				"DIVS": 59,
+				"MARS": 77
+			},
+			"FEBRUARY": {
+				"BIRTHS": 139,
+				"DEATHS": 251,
+				"DIVS": 26,
+				"MARS": 70
+			},
+			"MARCH": {
+				"BIRTHS": 160,
+				"DEATHS": 217,
+				"DIVS": 64,
+				"MARS": 99
+			},
+			"APRIL": {
+				"BIRTHS": 166,
+				"DEATHS": 232,
+				"DIVS": 52,
+				"MARS": 80
+			},
+			"MAY": {
+				"BIRTHS": 140,
+				"DEATHS": 237,
+				"DIVS": 66,
+				"MARS": 132
+			},
+			"JUNE": {
+				"BIRTHS": 158,
+				"DEATHS": 219,
+				"DIVS": 64,
+				"MARS": 130
+			},
+			"JULY": {
+				"BIRTHS": 182,
+				"DEATHS": 215,
+				"DIVS": 50,
+				"MARS": 118
+			},
+			"AUGUST": {
+				"BIRTHS": 175,
+				"DEATHS": 210,
+				"DIVS": 80,
+				"MARS": 87
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 159,
+				"DEATHS": 211,
+				"DIVS": 60,
+				"MARS": 150
+			},
+			"OCTOBER": {
+				"BIRTHS": 179,
+				"DEATHS": 217,
+				"DIVS": 83,
+				"MARS": 158
+			},
+			"NOVEMBER": {
+				"BIRTHS": 154,
+				"DEATHS": 208,
+				"DIVS": 37,
+				"MARS": 98
+			},
+			"DECEMBER": {
+				"BIRTHS": 158,
+				"DEATHS": 253,
+				"DIVS": 44,
+				"MARS": 139
+			},
+			"TOTAL": {
+				"BIRTHS": 1943,
+				"DEATHS": 2772,
+				"DIVS": 685,
+				"MARS": 1338
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"BIRTHS": 259,
+				"DEATHS": 158,
+				"DIVS": 74,
+				"MARS": 46
+			},
+			"FEBRUARY": {
+				"BIRTHS": 241,
+				"DEATHS": 126,
+				"DIVS": "85",
+				"MARS": 120
+			},
+			"MARCH": {
+				"BIRTHS": 247,
+				"DEATHS": 111,
+				"DIVS": 64,
+				"MARS": 131
+			},
+			"APRIL": {
+				"BIRTHS": 201,
+				"DEATHS": 128,
+				"DIVS": 102,
+				"MARS": 92
+			},
+			"MAY": {
+				"BIRTHS": 257,
+				"DEATHS": 104,
+				"DIVS": 33,
+				"MARS": 88
+			},
+			"JUNE": {
+				"BIRTHS": 238,
+				"DEATHS": 109,
+				"DIVS": 54,
+				"MARS": 111
+			},
+			"JULY": {
+				"BIRTHS": 260,
+				"DEATHS": 121,
+				"DIVS": 93,
+				"MARS": 89
+			},
+			"AUGUST": {
+				"BIRTHS": 277,
+				"DEATHS": 118,
+				"DIVS": 64,
+				"MARS": 75
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 273,
+				"DEATHS": 103,
+				"DIVS": 62,
+				"MARS": 74
+			},
+			"OCTOBER": {
+				"BIRTHS": 241,
+				"DEATHS": 106,
+				"DIVS": 56,
+				"MARS": 87
+			},
+			"NOVEMBER": {
+				"BIRTHS": 272,
+				"DEATHS": 122,
+				"DIVS": 68,
+				"MARS": 102
+			},
+			"DECEMBER": {
+				"BIRTHS": 292,
+				"DEATHS": 119,
+				"DIVS": 88,
+				"MARS": 128
+			},
+			"TOTAL": {
+				"BIRTHS": 3058,
+				"DEATHS": 1425,
+				"DIVS": 758,
+				"MARS": 1143
+			}
+		},
+		"UNKNOWN": {
+			"JANUARY": {
+				"BIRTHS": 8,
+				"DEATHS": 17
+			},
+			"FEBRUARY": {
+				"DEATHS": 16
+			},
+			"MARCH": {
+				"DEATHS": 12
+			},
+			"APRIL": {
+				"DEATHS": 19
+			},
+			"MAY": {
+				"DEATHS": 12
+			},
+			"JUNE": {
+				"DEATHS": 17
+			},
+			"JULY": {
+				"DEATHS": 13
+			},
+			"AUGUST": {
+				"DEATHS": 20
+			},
+			"SEPTEMBER": {
+				"DEATHS": 13
+			},
+			"OCTOBER": {
+				"DEATHS": 17
+			},
+			"NOVEMBER": {
+				"DEATHS": 21
+			},
+			"DECEMBER": {
+				"DEATHS": 14
+			}
+		}
+	},
+	"2015": {
+		"ARIZONA": {
+			"JANUARY": {
+				"BIRTHS": 7169,
+				"DEATHS": 5028,
+				"DIVS": "2,280†",
+				"MARS": "3,230†"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 6660,
+				"DEATHS": 4267,
+				"DIVS": "1,940†",
+				"MARS": 2734
+			},
+			"MARCH": {
+				"BIRTHS": 7175,
+				"DEATHS": 4819,
+				"DIVS": "2,270†",
+				"MARS": "4,080†"
+			},
+			"APRIL": {
+				"BIRTHS": 6613,
+				"DEATHS": 4547,
+				"DIVS": "2,260†",
+				"MARS": "4,030†"
+			},
+			"MAY": {
+				"BIRTHS": 6814,
+				"DEATHS": 4527,
+				"DIVS": "2,150†",
+				"MARS": "3,500†"
+			},
+			"JUNE": {
+				"BIRTHS": 6770,
+				"DEATHS": 4396,
+				"DIVS": "1,900†",
+				"MARS": 3682
+			},
+			"JULY": {
+				"BIRTHS": 7030,
+				"DEATHS": 4338,
+				"DIVS": "1,930†",
+				"MARS": "2,730†"
+			},
+			"AUGUST": {
+				"BIRTHS": 7372,
+				"DEATHS": 4338,
+				"DIVS": "2,080†",
+				"MARS": "2,290†"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 7685,
+				"DEATHS": 4183,
+				"DIVS": "1,960†",
+				"MARS": "2,760†"
+			},
+			"OCTOBER": {
+				"BIRTHS": 7487,
+				"DEATHS": 4284,
+				"DIVS": "2,080†",
+				"MARS": 4170
+			},
+			"NOVEMBER": {
+				"BIRTHS": 6940,
+				"DEATHS": 4543,
+				"DIVS": "1,640†",
+				"MARS": 3664
+			},
+			"DECEMBER": {
+				"BIRTHS": 7309,
+				"DEATHS": 4882,
+				"DIVS": "1,930†",
+				"MARS": 3564
+			},
+			"TOTAL": {
+				"BIRTHS": 85024,
+				"DEATHS": 54152,
+				"DIVS": 24434,
+				"MARS": 40439
+			}
+		},
+		"APACHE": {
+			"JANUARY": {
+				"BIRTHS": 98,
+				"DEATHS": 68,
+				"DIVS": "*",
+				"MARS": 13
+			},
+			"FEBRUARY": {
+				"BIRTHS": 86,
+				"DEATHS": 59,
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"MARCH": {
+				"BIRTHS": 70,
+				"DEATHS": 51,
+				"DIVS": 13,
+				"MARS": 15
+			},
+			"APRIL": {
+				"BIRTHS": 52,
+				"DEATHS": 40,
+				"DIVS": "*",
+				"MARS": 23
+			},
+			"MAY": {
+				"BIRTHS": 71,
+				"DEATHS": 49,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"JUNE": {
+				"BIRTHS": 80,
+				"DEATHS": 50,
+				"DIVS": "*",
+				"MARS": 24
+			},
+			"JULY": {
+				"BIRTHS": 86,
+				"DEATHS": 59,
+				"DIVS": 9,
+				"MARS": 25
+			},
+			"AUGUST": {
+				"BIRTHS": 77,
+				"DEATHS": 57,
+				"DIVS": "*",
+				"MARS": 22
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 83,
+				"DEATHS": 47,
+				"DIVS": 8,
+				"MARS": 12
+			},
+			"OCTOBER": {
+				"BIRTHS": 86,
+				"DEATHS": 63,
+				"DIVS": 9,
+				"MARS": 19
+			},
+			"NOVEMBER": {
+				"BIRTHS": 65,
+				"DEATHS": 60,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"DECEMBER": {
+				"BIRTHS": 99,
+				"DEATHS": 43,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"TOTAL": {
+				"BIRTHS": 953,
+				"DEATHS": 646,
+				"DIVS": "70†",
+				"MARS": 208
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"BIRTHS": 151,
+				"DEATHS": 127,
+				"DIVS": 48,
+				"MARS": 41
+			},
+			"FEBRUARY": {
+				"BIRTHS": 126,
+				"DEATHS": 92,
+				"DIVS": 40,
+				"MARS": 46
+			},
+			"MARCH": {
+				"BIRTHS": 122,
+				"DEATHS": 112,
+				"DIVS": 37,
+				"MARS": 78
+			},
+			"APRIL": {
+				"BIRTHS": 126,
+				"DEATHS": 115,
+				"DIVS": 34,
+				"MARS": 101
+			},
+			"MAY": {
+				"BIRTHS": 116,
+				"DEATHS": 117,
+				"DIVS": 41,
+				"MARS": 72
+			},
+			"JUNE": {
+				"BIRTHS": 121,
+				"DEATHS": 111,
+				"DIVS": 42,
+				"MARS": 57
+			},
+			"JULY": {
+				"BIRTHS": 129,
+				"DEATHS": 118,
+				"DIVS": 43,
+				"MARS": 81
+			},
+			"AUGUST": {
+				"BIRTHS": 141,
+				"DEATHS": 93,
+				"DIVS": 42,
+				"MARS": 47
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 143,
+				"DEATHS": 91,
+				"DIVS": 34,
+				"MARS": 74
+			},
+			"OCTOBER": {
+				"BIRTHS": 121,
+				"DEATHS": 103,
+				"DIVS": 42,
+				"MARS": 92
+			},
+			"NOVEMBER": {
+				"BIRTHS": 116,
+				"DEATHS": 116,
+				"DIVS": 34,
+				"MARS": 56
+			},
+			"DECEMBER": {
+				"BIRTHS": 154,
+				"DEATHS": 110,
+				"DIVS": 27,
+				"MARS": 53
+			},
+			"TOTAL": {
+				"BIRTHS": 1566,
+				"DEATHS": 1305,
+				"DIVS": 464,
+				"MARS": 798
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"BIRTHS": 126,
+				"DEATHS": 71,
+				"DIVS": 38,
+				"MARS": 62
+			},
+			"FEBRUARY": {
+				"BIRTHS": 134,
+				"DEATHS": 79,
+				"DIVS": 25,
+				"MARS": 44
+			},
+			"MARCH": {
+				"BIRTHS": 135,
+				"DEATHS": 73,
+				"DIVS": 26,
+				"MARS": 76
+			},
+			"APRIL": {
+				"BIRTHS": 131,
+				"DEATHS": 74,
+				"DIVS": 22,
+				"MARS": 60
+			},
+			"MAY": {
+				"BIRTHS": 139,
+				"DEATHS": 62,
+				"DIVS": 30,
+				"MARS": 92
+			},
+			"JUNE": {
+				"BIRTHS": 134,
+				"DEATHS": 62,
+				"DIVS": 20,
+				"MARS": 143
+			},
+			"JULY": {
+				"BIRTHS": 129,
+				"DEATHS": 58,
+				"DIVS": 33,
+				"MARS": 82
+			},
+			"AUGUST": {
+				"BIRTHS": 139,
+				"DEATHS": 50,
+				"DIVS": 37,
+				"MARS": 93
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 144,
+				"DEATHS": 66,
+				"DIVS": 26,
+				"MARS": 106
+			},
+			"OCTOBER": {
+				"BIRTHS": 135,
+				"DEATHS": 76,
+				"DIVS": 40,
+				"MARS": 122
+			},
+			"NOVEMBER": {
+				"BIRTHS": 116,
+				"DEATHS": 68,
+				"DIVS": 34,
+				"MARS": 69
+			},
+			"DECEMBER": {
+				"BIRTHS": 113,
+				"DEATHS": 75,
+				"DIVS": 34,
+				"MARS": 80
+			},
+			"TOTAL": {
+				"BIRTHS": 1575,
+				"DEATHS": 814,
+				"DIVS": 365,
+				"MARS": 1029
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"BIRTHS": 50,
+				"DEATHS": 68,
+				"DIVS": 7,
+				"MARS": 19
+			},
+			"FEBRUARY": {
+				"BIRTHS": 40,
+				"DEATHS": 57,
+				"DIVS": 11,
+				"MARS": 25
+			},
+			"MARCH": {
+				"BIRTHS": 49,
+				"DEATHS": 79,
+				"DIVS": 6,
+				"MARS": 18
+			},
+			"APRIL": {
+				"BIRTHS": 42,
+				"DEATHS": 68,
+				"DIVS": 10,
+				"MARS": 34
+			},
+			"MAY": {
+				"BIRTHS": 34,
+				"DEATHS": 83,
+				"DIVS": "*",
+				"MARS": 26
+			},
+			"JUNE": {
+				"BIRTHS": 53,
+				"DEATHS": 62,
+				"DIVS": 10,
+				"MARS": 23
+			},
+			"JULY": {
+				"BIRTHS": 53,
+				"DEATHS": 66,
+				"DIVS": 19,
+				"MARS": 19
+			},
+			"AUGUST": {
+				"BIRTHS": 60,
+				"DEATHS": 62,
+				"DIVS": 9,
+				"MARS": 21
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 54,
+				"DEATHS": 49,
+				"DIVS": 13,
+				"MARS": 34
+			},
+			"OCTOBER": {
+				"BIRTHS": 47,
+				"DEATHS": 59,
+				"DIVS": 14,
+				"MARS": 29
+			},
+			"NOVEMBER": {
+				"BIRTHS": 47,
+				"DEATHS": 72,
+				"DIVS": 7,
+				"MARS": 24
+			},
+			"DECEMBER": {
+				"BIRTHS": 51,
+				"DEATHS": 89,
+				"DIVS": 10,
+				"MARS": 18
+			},
+			"TOTAL": {
+				"BIRTHS": 580,
+				"DEATHS": 814,
+				"DIVS": "120†",
+				"MARS": 290
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"BIRTHS": 46,
+				"DEATHS": 20,
+				"DIVS": 17,
+				"MARS": 32
+			},
+			"FEBRUARY": {
+				"BIRTHS": 53,
+				"DEATHS": 22,
+				"DIVS": 16,
+				"MARS": 24
+			},
+			"MARCH": {
+				"BIRTHS": 35,
+				"DEATHS": 23,
+				"DIVS": 24,
+				"MARS": 22
+			},
+			"APRIL": {
+				"BIRTHS": 45,
+				"DEATHS": 22,
+				"DIVS": 6,
+				"MARS": 17
+			},
+			"MAY": {
+				"BIRTHS": 47,
+				"DEATHS": 21,
+				"DIVS": 11,
+				"MARS": 36
+			},
+			"JUNE": {
+				"BIRTHS": 58,
+				"DEATHS": 24,
+				"DIVS": 8,
+				"MARS": 51
+			},
+			"JULY": {
+				"BIRTHS": 59,
+				"DEATHS": 19,
+				"DIVS": 15,
+				"MARS": 20
+			},
+			"AUGUST": {
+				"BIRTHS": 46,
+				"DEATHS": 22,
+				"DIVS": 18,
+				"MARS": 19
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 46,
+				"DEATHS": 24,
+				"DIVS": 14,
+				"MARS": 15
+			},
+			"OCTOBER": {
+				"BIRTHS": 50,
+				"DEATHS": 19,
+				"DIVS": 14,
+				"MARS": 37
+			},
+			"NOVEMBER": {
+				"BIRTHS": 49,
+				"DEATHS": 15,
+				"DIVS": 12,
+				"MARS": 17
+			},
+			"DECEMBER": {
+				"BIRTHS": 46,
+				"DEATHS": 20,
+				"DIVS": 7,
+				"MARS": 34
+			},
+			"TOTAL": {
+				"BIRTHS": 580,
+				"DEATHS": 251,
+				"DIVS": 162,
+				"MARS": 324
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"BIRTHS": 18,
+				"DEATHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 13,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"MARCH": {
+				"BIRTHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"APRIL": {
+				"BIRTHS": 21,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MAY": {
+				"BIRTHS": 10,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"JUNE": {
+				"BIRTHS": 14,
+				"DIVS": "*",
+				"MARS": 12
+			},
+			"JULY": {
+				"BIRTHS": 15,
+				"DEATHS": 8,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 8,
+				"DEATHS": 6,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 16,
+				"DEATHS": 10,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 10,
+				"DEATHS": 9,
+				"DIVS": 7,
+				"MARS": 8
+			},
+			"NOVEMBER": {
+				"BIRTHS": 10,
+				"DIVS": 7,
+				"MARS": 8
+			},
+			"DECEMBER": {
+				"BIRTHS": 10,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"TOTAL": {
+				"BIRTHS": 154,
+				"DEATHS": "70†",
+				"DIVS": "50†",
+				"MARS": "70†"
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"BIRTHS": 12,
+				"DEATHS": 22,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"FEBRUARY": {
+				"BIRTHS": 12,
+				"DEATHS": 19,
+				"DIVS": "*",
+				"MARS": 11
+			},
+			"MARCH": {
+				"BIRTHS": 26,
+				"DEATHS": 22,
+				"DIVS": "*",
+				"MARS": 16
+			},
+			"APRIL": {
+				"BIRTHS": 21,
+				"DEATHS": 29,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"MAY": {
+				"BIRTHS": 14,
+				"DEATHS": 26,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"JUNE": {
+				"BIRTHS": 16,
+				"DEATHS": 16,
+				"DIVS": "*",
+				"MARS": 11
+			},
+			"JULY": {
+				"BIRTHS": 22,
+				"DEATHS": 14,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 22,
+				"DEATHS": 26,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 8,
+				"DEATHS": 8,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"OCTOBER": {
+				"BIRTHS": 15,
+				"DEATHS": 20,
+				"DIVS": "*",
+				"MARS": 11
+			},
+			"NOVEMBER": {
+				"BIRTHS": 15,
+				"DEATHS": 27,
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"DECEMBER": {
+				"BIRTHS": 16,
+				"DEATHS": 25,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"TOTAL": {
+				"BIRTHS": 199,
+				"DEATHS": 254,
+				"DIVS": "30†",
+				"MARS": "110†"
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"BIRTHS": 4587,
+				"DEATHS": 2674,
+				"DIVS": 1618,
+				"MARS": 2181
+			},
+			"FEBRUARY": {
+				"BIRTHS": 4237,
+				"DEATHS": 2259,
+				"DIVS": 1271,
+				"MARS": 1749
+			},
+			"MARCH": {
+				"BIRTHS": 4705,
+				"DEATHS": 2546,
+				"DIVS": 1551,
+				"MARS": 2613
+			},
+			"APRIL": {
+				"BIRTHS": 4251,
+				"DEATHS": 2387,
+				"DIVS": 1607,
+				"MARS": 2642
+			},
+			"MAY": {
+				"BIRTHS": 4381,
+				"DEATHS": 2388,
+				"DIVS": 1513,
+				"MARS": 2133
+			},
+			"JUNE": {
+				"BIRTHS": 4300,
+				"DEATHS": 2353,
+				"DIVS": 1197,
+				"MARS": 2193
+			},
+			"JULY": {
+				"BIRTHS": 4481,
+				"DEATHS": 2337,
+				"DIVS": 1316,
+				"MARS": 1586
+			},
+			"AUGUST": {
+				"BIRTHS": 4731,
+				"DEATHS": 2377,
+				"DIVS": 1375,
+				"MARS": 1341
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 4991,
+				"DEATHS": 2237,
+				"DIVS": 1302,
+				"MARS": 1592
+			},
+			"OCTOBER": {
+				"BIRTHS": 4769,
+				"DEATHS": 2309,
+				"DIVS": 1292,
+				"MARS": 2662
+			},
+			"NOVEMBER": {
+				"BIRTHS": 4448,
+				"DEATHS": 2452,
+				"DIVS": 1064,
+				"MARS": 2474
+			},
+			"DECEMBER": {
+				"BIRTHS": 4719,
+				"DEATHS": 2626,
+				"DIVS": 1218,
+				"MARS": 2288
+			},
+			"TOTAL": {
+				"BIRTHS": 54600,
+				"DEATHS": 28945,
+				"DIVS": 16324,
+				"MARS": 25454
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"BIRTHS": 175,
+				"DEATHS": 295,
+				"DIVS": 50,
+				"MARS": 89
+			},
+			"FEBRUARY": {
+				"BIRTHS": 131,
+				"DEATHS": 250,
+				"DIVS": 44,
+				"MARS": 85
+			},
+			"MARCH": {
+				"BIRTHS": 154,
+				"DEATHS": 289,
+				"DIVS": 62,
+				"MARS": 128
+			},
+			"APRIL": {
+				"BIRTHS": 143,
+				"DEATHS": 258,
+				"DIVS": 56,
+				"MARS": 137
+			},
+			"MAY": {
+				"BIRTHS": 148,
+				"DEATHS": 239,
+				"DIVS": 39,
+				"MARS": 128
+			},
+			"JUNE": {
+				"BIRTHS": 147,
+				"DEATHS": 244,
+				"DIVS": 58,
+				"MARS": 114
+			},
+			"JULY": {
+				"BIRTHS": 159,
+				"DEATHS": 229,
+				"DIVS": 60,
+				"MARS": 106
+			},
+			"AUGUST": {
+				"BIRTHS": 142,
+				"DEATHS": 225,
+				"DIVS": 44,
+				"MARS": 80
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 163,
+				"DEATHS": 245,
+				"DIVS": 48,
+				"MARS": 114
+			},
+			"OCTOBER": {
+				"BIRTHS": 172,
+				"DEATHS": 233,
+				"DIVS": 43,
+				"MARS": 91
+			},
+			"NOVEMBER": {
+				"BIRTHS": 167,
+				"DEATHS": 252,
+				"DIVS": 34,
+				"MARS": 121
+			},
+			"DECEMBER": {
+				"BIRTHS": 144,
+				"DEATHS": 265,
+				"DIVS": 41,
+				"MARS": 100
+			},
+			"TOTAL": {
+				"BIRTHS": 1845,
+				"DEATHS": 3024,
+				"DIVS": 579,
+				"MARS": 1293
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"BIRTHS": 117,
+				"DEATHS": 78,
+				"DIVS": 12,
+				"MARS": 56
+			},
+			"FEBRUARY": {
+				"BIRTHS": 116,
+				"DEATHS": 66,
+				"DIVS": 13,
+				"MARS": 17
+			},
+			"MARCH": {
+				"BIRTHS": 131,
+				"DEATHS": 81,
+				"DIVS": 22,
+				"MARS": 55
+			},
+			"APRIL": {
+				"BIRTHS": 111,
+				"DEATHS": 65,
+				"DIVS": 20,
+				"MARS": 32
+			},
+			"MAY": {
+				"BIRTHS": 134,
+				"DEATHS": 81,
+				"DIVS": 18,
+				"MARS": 62
+			},
+			"JUNE": {
+				"BIRTHS": 117,
+				"DEATHS": 85,
+				"DIVS": 18,
+				"MARS": 62
+			},
+			"JULY": {
+				"BIRTHS": 151,
+				"DEATHS": 86,
+				"DIVS": 25,
+				"MARS": 95
+			},
+			"AUGUST": {
+				"BIRTHS": 140,
+				"DEATHS": 71,
+				"DIVS": 23,
+				"MARS": 47
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 115,
+				"DEATHS": 60,
+				"DIVS": 9,
+				"MARS": 54
+			},
+			"OCTOBER": {
+				"BIRTHS": 137,
+				"DEATHS": 81,
+				"DIVS": 18,
+				"MARS": 38
+			},
+			"NOVEMBER": {
+				"BIRTHS": 119,
+				"DEATHS": 68,
+				"DIVS": 22,
+				"MARS": 49
+			},
+			"DECEMBER": {
+				"BIRTHS": 129,
+				"DEATHS": 85,
+				"DIVS": 14,
+				"MARS": 50
+			},
+			"TOTAL": {
+				"BIRTHS": 1517,
+				"DEATHS": 907,
+				"DIVS": 214,
+				"MARS": 617
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"BIRTHS": 951,
+				"DEATHS": 844,
+				"DIVS": 262,
+				"MARS": 478
+			},
+			"FEBRUARY": {
+				"BIRTHS": 886,
+				"DEATHS": 741,
+				"DIVS": 280,
+				"MARS": 409
+			},
+			"MARCH": {
+				"BIRTHS": 926,
+				"DEATHS": 826,
+				"DIVS": 275,
+				"MARS": 626
+			},
+			"APRIL": {
+				"BIRTHS": 930,
+				"DEATHS": 810,
+				"DIVS": 304,
+				"MARS": 596
+			},
+			"MAY": {
+				"BIRTHS": 940,
+				"DEATHS": 800,
+				"DIVS": 280,
+				"MARS": 525
+			},
+			"JUNE": {
+				"BIRTHS": 949,
+				"DEATHS": 770,
+				"DIVS": 309,
+				"MARS": 553
+			},
+			"JULY": {
+				"BIRTHS": 947,
+				"DEATHS": 718,
+				"DIVS": 208,
+				"MARS": 421
+			},
+			"AUGUST": {
+				"BIRTHS": 972,
+				"DEATHS": 674,
+				"DIVS": 291,
+				"MARS": 335
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 1040,
+				"DEATHS": 739,
+				"DIVS": 302,
+				"MARS": 463
+			},
+			"OCTOBER": {
+				"BIRTHS": 1042,
+				"DEATHS": 714,
+				"DIVS": 348,
+				"MARS": 624
+			},
+			"NOVEMBER": {
+				"BIRTHS": 942,
+				"DEATHS": 783,
+				"DIVS": 230,
+				"MARS": 453
+			},
+			"DECEMBER": {
+				"BIRTHS": 951,
+				"DEATHS": 822,
+				"DIVS": 333,
+				"MARS": 520
+			},
+			"TOTAL": {
+				"BIRTHS": 11476,
+				"DEATHS": 9241,
+				"DIVS": 3422,
+				"MARS": 6003
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"BIRTHS": 377,
+				"DEATHS": 269,
+				"DIVS": 61,
+				"MARS": 88
+			},
+			"FEBRUARY": {
+				"BIRTHS": 356,
+				"DEATHS": 233,
+				"DIVS": 77,
+				"MARS": 94
+			},
+			"MARCH": {
+				"BIRTHS": 354,
+				"DEATHS": 259,
+				"DIVS": 70,
+				"MARS": 147
+			},
+			"APRIL": {
+				"BIRTHS": 350,
+				"DEATHS": 286,
+				"DIVS": 84,
+				"MARS": 137
+			},
+			"MAY": {
+				"BIRTHS": 349,
+				"DEATHS": 237,
+				"DIVS": 83,
+				"MARS": 109
+			},
+			"JUNE": {
+				"BIRTHS": 341,
+				"DEATHS": 220,
+				"DIVS": 81,
+				"MARS": 122
+			},
+			"JULY": {
+				"BIRTHS": 337,
+				"DEATHS": 239,
+				"DIVS": 91,
+				"MARS": 78
+			},
+			"AUGUST": {
+				"BIRTHS": 405,
+				"DEATHS": 248,
+				"DIVS": 64,
+				"MARS": 67
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 412,
+				"DEATHS": 244,
+				"DIVS": 57,
+				"MARS": 80
+			},
+			"OCTOBER": {
+				"BIRTHS": 395,
+				"DEATHS": 208,
+				"DIVS": 124,
+				"MARS": 132
+			},
+			"NOVEMBER": {
+				"BIRTHS": 370,
+				"DEATHS": 241,
+				"DIVS": 38,
+				"MARS": 125
+			},
+			"DECEMBER": {
+				"BIRTHS": 408,
+				"DEATHS": 284,
+				"DIVS": 76,
+				"MARS": 153
+			},
+			"TOTAL": {
+				"BIRTHS": 4454,
+				"DEATHS": 2968,
+				"DIVS": 906,
+				"MARS": 1332
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"BIRTHS": 34,
+				"DEATHS": 27,
+				"DIVS": 22,
+				"MARS": 11
+			},
+			"FEBRUARY": {
+				"BIRTHS": 47,
+				"DEATHS": 24,
+				"DIVS": 6,
+				"MARS": 28
+			},
+			"MARCH": {
+				"BIRTHS": 54,
+				"DEATHS": 26,
+				"DIVS": 14,
+				"MARS": 25
+			},
+			"APRIL": {
+				"BIRTHS": 49,
+				"DEATHS": 23,
+				"DIVS": 9,
+				"MARS": 25
+			},
+			"MAY": {
+				"BIRTHS": 52,
+				"DEATHS": 23,
+				"DIVS": 10,
+				"MARS": 32
+			},
+			"JUNE": {
+				"BIRTHS": 49,
+				"DEATHS": 19,
+				"DIVS": 13,
+				"MARS": 36
+			},
+			"JULY": {
+				"BIRTHS": 58,
+				"DEATHS": 28,
+				"DIVS": 14,
+				"MARS": 17
+			},
+			"AUGUST": {
+				"BIRTHS": 56,
+				"DEATHS": 25,
+				"DIVS": 12,
+				"MARS": 21
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 53,
+				"DEATHS": 29,
+				"DIVS": 19,
+				"MARS": 22
+			},
+			"OCTOBER": {
+				"BIRTHS": 55,
+				"DEATHS": 24,
+				"DIVS": 11,
+				"MARS": 28
+			},
+			"NOVEMBER": {
+				"BIRTHS": 55,
+				"DEATHS": 19,
+				"DIVS": "*",
+				"MARS": 25
+			},
+			"DECEMBER": {
+				"BIRTHS": 59,
+				"DEATHS": 27,
+				"DIVS": 12,
+				"MARS": 18
+			},
+			"TOTAL": {
+				"BIRTHS": 621,
+				"DEATHS": 294,
+				"DIVS": "150†",
+				"MARS": 288
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"BIRTHS": 166,
+				"DEATHS": 281,
+				"DIVS": 36,
+				"MARS": 86
+			},
+			"FEBRUARY": {
+				"BIRTHS": 175,
+				"DEATHS": 244,
+				"DIVS": 33,
+				"MARS": 73
+			},
+			"MARCH": {
+				"BIRTHS": 162,
+				"DEATHS": 275,
+				"DIVS": 58,
+				"MARS": 88
+			},
+			"APRIL": {
+				"BIRTHS": 141,
+				"DEATHS": 226,
+				"DIVS": 65,
+				"MARS": 98
+			},
+			"MAY": {
+				"BIRTHS": 152,
+				"DEATHS": 239,
+				"DIVS": 62,
+				"MARS": 154
+			},
+			"JUNE": {
+				"BIRTHS": 162,
+				"DEATHS": 244,
+				"DIVS": 91,
+				"MARS": 175
+			},
+			"JULY": {
+				"BIRTHS": 149,
+				"DEATHS": 228,
+				"DIVS": 44,
+				"MARS": 120
+			},
+			"AUGUST": {
+				"BIRTHS": 158,
+				"DEATHS": 241,
+				"DIVS": 78,
+				"MARS": 105
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 141,
+				"DEATHS": 218,
+				"DIVS": 80,
+				"MARS": 112
+			},
+			"OCTOBER": {
+				"BIRTHS": 178,
+				"DEATHS": 256,
+				"DIVS": 64,
+				"MARS": 174
+			},
+			"NOVEMBER": {
+				"BIRTHS": 145,
+				"DEATHS": 228,
+				"DIVS": 62,
+				"MARS": 120
+			},
+			"DECEMBER": {
+				"BIRTHS": 148,
+				"DEATHS": 238,
+				"DIVS": 77,
+				"MARS": 122
+			},
+			"TOTAL": {
+				"BIRTHS": 1877,
+				"DEATHS": 2918,
+				"DIVS": 750,
+				"MARS": 1427
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"BIRTHS": 260,
+				"DEATHS": 150,
+				"DIVS": 100,
+				"MARS": 63
+			},
+			"FEBRUARY": {
+				"BIRTHS": 247,
+				"DEATHS": 97,
+				"DIVS": 115,
+				"MARS": 106
+			},
+			"MARCH": {
+				"BIRTHS": 242,
+				"DEATHS": 126,
+				"DIVS": 108,
+				"MARS": 168
+			},
+			"APRIL": {
+				"BIRTHS": 198,
+				"DEATHS": 122,
+				"DIVS": 32,
+				"MARS": 112
+			},
+			"MAY": {
+				"BIRTHS": 226,
+				"DEATHS": 131,
+				"DIVS": 53,
+				"MARS": 102
+			},
+			"JUNE": {
+				"BIRTHS": 228,
+				"DEATHS": 110,
+				"DIVS": 46,
+				"MARS": 106
+			},
+			"JULY": {
+				"BIRTHS": 255,
+				"DEATHS": 104,
+				"DIVS": 53,
+				"MARS": 74
+			},
+			"AUGUST": {
+				"BIRTHS": 274,
+				"DEATHS": 122,
+				"DIVS": 77,
+				"MARS": 83
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 275,
+				"DEATHS": 101,
+				"DIVS": 44,
+				"MARS": 74
+			},
+			"OCTOBER": {
+				"BIRTHS": 275,
+				"DEATHS": 99,
+				"DIVS": 54,
+				"MARS": 103
+			},
+			"NOVEMBER": {
+				"BIRTHS": 276,
+				"DEATHS": 117,
+				"DIVS": 78,
+				"MARS": 102
+			},
+			"DECEMBER": {
+				"BIRTHS": 261,
+				"DEATHS": 148,
+				"DIVS": 73,
+				"MARS": 102
+			},
+			"TOTAL": {
+				"BIRTHS": 3017,
+				"DEATHS": 1427,
+				"DIVS": 833,
+				"MARS": 1195
+			}
+		},
+		"UNKNOWN": {
+			"JANUARY": {
+				"BIRTHS": "*",
+				"DEATHS": 25
+			},
+			"FEBRUARY": {
+				"DEATHS": 20
+			},
+			"MARCH": {
+				"DEATHS": 26
+			},
+			"APRIL": {
+				"DEATHS": 21
+			},
+			"MAY": {
+				"DEATHS": 26
+			},
+			"JUNE": {
+				"DEATHS": 25
+			},
+			"JULY": {
+				"DEATHS": 27
+			},
+			"AUGUST": {
+				"DEATHS": 39
+			},
+			"SEPTEMBER": {
+				"DEATHS": 15
+			},
+			"OCTOBER": {
+				"DEATHS": 11
+			},
+			"NOVEMBER": {
+				"DEATHS": 20
+			},
+			"DECEMBER": {
+				"DEATHS": 20
+			}
+		}
+	},
+	"2016": {
+		"ARIZONA": {
+			"JANUARY": {
+				"BIRTHS": 7053,
+				"DEATHS": 5119,
+				"DIVS": "1,970†",
+				"MARS": "2,730†"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 6729,
+				"DEATHS": 5135,
+				"DIVS": "1,910†",
+				"MARS": "2,950†"
+			},
+			"MARCH": {
+				"BIRTHS": 6830,
+				"DEATHS": 5387,
+				"DIVS": "1,800†",
+				"MARS": "4,310†"
+			},
+			"APRIL": {
+				"BIRTHS": 6558,
+				"DEATHS": 4689,
+				"DIVS": "1,870†",
+				"MARS": 4001
+			},
+			"MAY": {
+				"BIRTHS": 6724,
+				"DEATHS": 4603,
+				"DIVS": "1,910†",
+				"MARS": 3557
+			},
+			"JUNE": {
+				"BIRTHS": 6754,
+				"DEATHS": 4464,
+				"DIVS": "1,900†",
+				"MARS": 3775
+			},
+			"JULY": {
+				"BIRTHS": 7045,
+				"DEATHS": 4496,
+				"DIVS": "1,890†",
+				"MARS": "2,630†"
+			},
+			"AUGUST": {
+				"BIRTHS": 7711,
+				"DEATHS": 4432,
+				"DIVS": "2,210†",
+				"MARS": 2472
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 7687,
+				"DEATHS": 4253,
+				"DIVS": "1,830†",
+				"MARS": "2,870†"
+			},
+			"OCTOBER": {
+				"BIRTHS": 7192,
+				"DEATHS": 4501,
+				"DIVS": "1,720†",
+				"MARS": 4018
+			},
+			"NOVEMBER": {
+				"BIRTHS": 6898,
+				"DEATHS": 4518,
+				"DIVS": "2,290†",
+				"MARS": 4133
+			},
+			"DECEMBER": {
+				"BIRTHS": 7223,
+				"DEATHS": 4883,
+				"DIVS": "2,140†",
+				"MARS": 3656
+			},
+			"TOTAL": {
+				"BIRTHS": 84404,
+				"DEATHS": 56480,
+				"DIVS": 23442,
+				"MARS": 41105
+			}
+		},
+		"APACHE": {
+			"JANUARY": {
+				"BIRTHS": 76,
+				"DEATHS": 55,
+				"DIVS": "*",
+				"MARS": 11
+			},
+			"FEBRUARY": {
+				"BIRTHS": 79,
+				"DEATHS": 69,
+				"DIVS": 8,
+				"MARS": 16
+			},
+			"MARCH": {
+				"BIRTHS": 97,
+				"DEATHS": 63,
+				"DIVS": "*",
+				"MARS": 16
+			},
+			"APRIL": {
+				"BIRTHS": 79,
+				"DEATHS": 55,
+				"DIVS": "*",
+				"MARS": 13
+			},
+			"MAY": {
+				"BIRTHS": 86,
+				"DEATHS": 46,
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"JUNE": {
+				"BIRTHS": 90,
+				"DEATHS": 54,
+				"DIVS": 6,
+				"MARS": 13
+			},
+			"JULY": {
+				"BIRTHS": 75,
+				"DEATHS": 51,
+				"DIVS": "*",
+				"MARS": 19
+			},
+			"AUGUST": {
+				"BIRTHS": 109,
+				"DEATHS": 66,
+				"DIVS": 6,
+				"MARS": 22
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 93,
+				"DEATHS": 47,
+				"DIVS": "*",
+				"MARS": 11
+			},
+			"OCTOBER": {
+				"BIRTHS": 88,
+				"DEATHS": 47,
+				"DIVS": 6,
+				"MARS": 23
+			},
+			"NOVEMBER": {
+				"BIRTHS": 71,
+				"DEATHS": 47,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"DECEMBER": {
+				"BIRTHS": 79,
+				"DEATHS": 53,
+				"DIVS": 8,
+				"MARS": 21
+			},
+			"TOTAL": {
+				"BIRTHS": 1022,
+				"DEATHS": 653,
+				"DIVS": "60†",
+				"MARS": 196
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"BIRTHS": 124,
+				"DEATHS": 128,
+				"DIVS": 28,
+				"MARS": 61
+			},
+			"FEBRUARY": {
+				"BIRTHS": 123,
+				"DEATHS": 119,
+				"DIVS": 34,
+				"MARS": 45
+			},
+			"MARCH": {
+				"BIRTHS": 122,
+				"DEATHS": 139,
+				"DIVS": 37,
+				"MARS": 66
+			},
+			"APRIL": {
+				"BIRTHS": 129,
+				"DEATHS": 106,
+				"DIVS": 32,
+				"MARS": 60
+			},
+			"MAY": {
+				"BIRTHS": 128,
+				"DEATHS": 107,
+				"DIVS": 34,
+				"MARS": 69
+			},
+			"JUNE": {
+				"BIRTHS": 116,
+				"DEATHS": 96,
+				"DIVS": 28,
+				"MARS": 70
+			},
+			"JULY": {
+				"BIRTHS": 133,
+				"DEATHS": 84,
+				"DIVS": 34,
+				"MARS": 68
+			},
+			"AUGUST": {
+				"BIRTHS": 138,
+				"DEATHS": 106,
+				"DIVS": 47,
+				"MARS": 51
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 122,
+				"DEATHS": 101,
+				"DIVS": 31,
+				"MARS": 57
+			},
+			"OCTOBER": {
+				"BIRTHS": 133,
+				"DEATHS": 119,
+				"DIVS": 43,
+				"MARS": 84
+			},
+			"NOVEMBER": {
+				"BIRTHS": 129,
+				"DEATHS": 104,
+				"DIVS": 26,
+				"MARS": 60
+			},
+			"DECEMBER": {
+				"BIRTHS": 134,
+				"DEATHS": 133,
+				"DIVS": 42,
+				"MARS": 55
+			},
+			"TOTAL": {
+				"BIRTHS": 1531,
+				"DEATHS": 1342,
+				"DIVS": 416,
+				"MARS": 746
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"BIRTHS": 134,
+				"DEATHS": 77,
+				"DIVS": 27,
+				"MARS": 50
+			},
+			"FEBRUARY": {
+				"BIRTHS": 124,
+				"DEATHS": 73,
+				"DIVS": 24,
+				"MARS": 48
+			},
+			"MARCH": {
+				"BIRTHS": 156,
+				"DEATHS": 64,
+				"DIVS": 49,
+				"MARS": 78
+			},
+			"APRIL": {
+				"BIRTHS": 110,
+				"DEATHS": 67,
+				"DIVS": 30,
+				"MARS": 81
+			},
+			"MAY": {
+				"BIRTHS": 118,
+				"DEATHS": 78,
+				"DIVS": 24,
+				"MARS": 69
+			},
+			"JUNE": {
+				"BIRTHS": 144,
+				"DEATHS": 75,
+				"DIVS": 28,
+				"MARS": 137
+			},
+			"JULY": {
+				"BIRTHS": 140,
+				"DEATHS": 55,
+				"DIVS": 42,
+				"MARS": 87
+			},
+			"AUGUST": {
+				"BIRTHS": 144,
+				"DEATHS": 74,
+				"DIVS": 34,
+				"MARS": 104
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 130,
+				"DEATHS": 70,
+				"DIVS": 31,
+				"MARS": 104
+			},
+			"OCTOBER": {
+				"BIRTHS": 136,
+				"DEATHS": 77,
+				"DIVS": 19,
+				"MARS": 121
+			},
+			"NOVEMBER": {
+				"BIRTHS": 132,
+				"DEATHS": 84,
+				"DIVS": 23,
+				"MARS": 71
+			},
+			"DECEMBER": {
+				"BIRTHS": 147,
+				"DEATHS": 63,
+				"DIVS": 34,
+				"MARS": 57
+			},
+			"TOTAL": {
+				"BIRTHS": 1615,
+				"DEATHS": 857,
+				"DIVS": 365,
+				"MARS": 1007
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"BIRTHS": 42,
+				"DEATHS": 74,
+				"DIVS": 11,
+				"MARS": 11
+			},
+			"FEBRUARY": {
+				"BIRTHS": 57,
+				"DEATHS": 83,
+				"DIVS": 13,
+				"MARS": 26
+			},
+			"MARCH": {
+				"BIRTHS": 34,
+				"DEATHS": 72,
+				"DIVS": 11,
+				"MARS": 20
+			},
+			"APRIL": {
+				"BIRTHS": 46,
+				"DEATHS": 64,
+				"DIVS": 22,
+				"MARS": 34
+			},
+			"MAY": {
+				"BIRTHS": 42,
+				"DEATHS": 53,
+				"DIVS": 15,
+				"MARS": 29
+			},
+			"JUNE": {
+				"BIRTHS": 47,
+				"DEATHS": 75,
+				"DIVS": 9,
+				"MARS": 26
+			},
+			"JULY": {
+				"BIRTHS": 71,
+				"DEATHS": 63,
+				"DIVS": 12,
+				"MARS": 28
+			},
+			"AUGUST": {
+				"BIRTHS": 50,
+				"DEATHS": 83,
+				"DIVS": 14,
+				"MARS": 27
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 59,
+				"DEATHS": 77,
+				"DIVS": 21,
+				"MARS": 22
+			},
+			"OCTOBER": {
+				"BIRTHS": 49,
+				"DEATHS": 50,
+				"DIVS": "*",
+				"MARS": 33
+			},
+			"NOVEMBER": {
+				"BIRTHS": 51,
+				"DEATHS": 60,
+				"DIVS": 6,
+				"MARS": 23
+			},
+			"DECEMBER": {
+				"BIRTHS": 45,
+				"DEATHS": 78,
+				"DIVS": 20,
+				"MARS": 15
+			},
+			"TOTAL": {
+				"BIRTHS": 593,
+				"DEATHS": 832,
+				"DIVS": "160†",
+				"MARS": 294
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"BIRTHS": 53,
+				"DEATHS": 35,
+				"DIVS": 15,
+				"MARS": 20
+			},
+			"FEBRUARY": {
+				"BIRTHS": 49,
+				"DEATHS": 25,
+				"DIVS": 6,
+				"MARS": 19
+			},
+			"MARCH": {
+				"BIRTHS": 38,
+				"DEATHS": 36,
+				"DIVS": 8,
+				"MARS": 27
+			},
+			"APRIL": {
+				"BIRTHS": 54,
+				"DEATHS": 23,
+				"DIVS": 12,
+				"MARS": 10
+			},
+			"MAY": {
+				"BIRTHS": 52,
+				"DEATHS": 22,
+				"DIVS": 9,
+				"MARS": 43
+			},
+			"JUNE": {
+				"BIRTHS": 35,
+				"DEATHS": 21,
+				"DIVS": 14,
+				"MARS": 33
+			},
+			"JULY": {
+				"BIRTHS": 49,
+				"DEATHS": 22,
+				"DIVS": 12,
+				"MARS": 30
+			},
+			"AUGUST": {
+				"BIRTHS": 53,
+				"DEATHS": 16,
+				"DIVS": 19,
+				"MARS": 16
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 45,
+				"DEATHS": 22,
+				"DIVS": 16,
+				"MARS": 28
+			},
+			"OCTOBER": {
+				"BIRTHS": 47,
+				"DEATHS": 16,
+				"DIVS": 16,
+				"MARS": 27
+			},
+			"NOVEMBER": {
+				"BIRTHS": 42,
+				"DEATHS": 20,
+				"DIVS": 10,
+				"MARS": 28
+			},
+			"DECEMBER": {
+				"BIRTHS": 41,
+				"DEATHS": 20,
+				"DIVS": 14,
+				"MARS": 33
+			},
+			"TOTAL": {
+				"BIRTHS": 558,
+				"DEATHS": 278,
+				"DIVS": 151,
+				"MARS": 314
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"BIRTHS": 8,
+				"DEATHS": 7,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 14,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MARCH": {
+				"BIRTHS": 17,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"APRIL": {
+				"BIRTHS": 14,
+				"DIVS": 0,
+				"MARS": 9
+			},
+			"MAY": {
+				"BIRTHS": 10,
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"JUNE": {
+				"BIRTHS": 9,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"JULY": {
+				"BIRTHS": 10,
+				"DIVS": 7,
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 9,
+				"DEATHS": 6,
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 16,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 17,
+				"DIVS": 0,
+				"MARS": 6
+			},
+			"NOVEMBER": {
+				"BIRTHS": 12,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"DECEMBER": {
+				"BIRTHS": 13,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"TOTAL": {
+				"BIRTHS": 149,
+				"DEATHS": "50†",
+				"DIVS": "40†",
+				"MARS": "70†"
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"BIRTHS": 12,
+				"DEATHS": 27,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"FEBRUARY": {
+				"BIRTHS": 20,
+				"DEATHS": 23,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"MARCH": {
+				"BIRTHS": 13,
+				"DEATHS": 25,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"APRIL": {
+				"BIRTHS": 21,
+				"DEATHS": 25,
+				"DIVS": "*",
+				"MARS": 15
+			},
+			"MAY": {
+				"BIRTHS": 18,
+				"DEATHS": 15,
+				"DIVS": 6,
+				"MARS": 12
+			},
+			"JUNE": {
+				"BIRTHS": 23,
+				"DEATHS": 22,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"JULY": {
+				"BIRTHS": 18,
+				"DEATHS": 29,
+				"DIVS": 6,
+				"MARS": 8
+			},
+			"AUGUST": {
+				"BIRTHS": 25,
+				"DEATHS": 25,
+				"DIVS": "*",
+				"MARS": 8
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 17,
+				"DEATHS": 16,
+				"DIVS": 8,
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 15,
+				"DEATHS": 16,
+				"DIVS": 0,
+				"MARS": 15
+			},
+			"NOVEMBER": {
+				"BIRTHS": 19,
+				"DEATHS": 21,
+				"DIVS": 6,
+				"MARS": 12
+			},
+			"DECEMBER": {
+				"BIRTHS": 22,
+				"DEATHS": 26,
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"TOTAL": {
+				"BIRTHS": 223,
+				"DEATHS": 270,
+				"DIVS": "40†",
+				"MARS": "130†"
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"BIRTHS": 4512,
+				"DEATHS": 2736,
+				"DIVS": 1338,
+				"MARS": 1803
+			},
+			"FEBRUARY": {
+				"BIRTHS": 4332,
+				"DEATHS": 2780,
+				"DIVS": 1226,
+				"MARS": 1910
+			},
+			"MARCH": {
+				"BIRTHS": 4398,
+				"DEATHS": 2845,
+				"DIVS": 1063,
+				"MARS": 2843
+			},
+			"APRIL": {
+				"BIRTHS": 4160,
+				"DEATHS": 2527,
+				"DIVS": 1286,
+				"MARS": 2645
+			},
+			"MAY": {
+				"BIRTHS": 4370,
+				"DEATHS": 2579,
+				"DIVS": 1302,
+				"MARS": 2256
+			},
+			"JUNE": {
+				"BIRTHS": 4358,
+				"DEATHS": 2389,
+				"DIVS": 1262,
+				"MARS": 2344
+			},
+			"JULY": {
+				"BIRTHS": 4469,
+				"DEATHS": 2397,
+				"DIVS": 1253,
+				"MARS": 1531
+			},
+			"AUGUST": {
+				"BIRTHS": 4885,
+				"DEATHS": 2378,
+				"DIVS": 1399,
+				"MARS": 1467
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 4919,
+				"DEATHS": 2262,
+				"DIVS": 1199,
+				"MARS": 1706
+			},
+			"OCTOBER": {
+				"BIRTHS": 4584,
+				"DEATHS": 2429,
+				"DIVS": 1119,
+				"MARS": 2566
+			},
+			"NOVEMBER": {
+				"BIRTHS": 4404,
+				"DEATHS": 2419,
+				"DIVS": 1668,
+				"MARS": 2792
+			},
+			"DECEMBER": {
+				"BIRTHS": 4630,
+				"DEATHS": 2570,
+				"DIVS": 1482,
+				"MARS": 2431
+			},
+			"TOTAL": {
+				"BIRTHS": 54021,
+				"DEATHS": 30311,
+				"DIVS": 15597,
+				"MARS": 26294
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"BIRTHS": 143,
+				"DEATHS": 294,
+				"DIVS": 49,
+				"MARS": 73
+			},
+			"FEBRUARY": {
+				"BIRTHS": 117,
+				"DEATHS": 286,
+				"DIVS": 44,
+				"MARS": 93
+			},
+			"MARCH": {
+				"BIRTHS": 132,
+				"DEATHS": 291,
+				"DIVS": 44,
+				"MARS": 111
+			},
+			"APRIL": {
+				"BIRTHS": 169,
+				"DEATHS": 246,
+				"DIVS": 45,
+				"MARS": 102
+			},
+			"MAY": {
+				"BIRTHS": 133,
+				"DEATHS": 260,
+				"DIVS": 50,
+				"MARS": 123
+			},
+			"JUNE": {
+				"BIRTHS": 166,
+				"DEATHS": 255,
+				"DIVS": 48,
+				"MARS": 139
+			},
+			"JULY": {
+				"BIRTHS": 148,
+				"DEATHS": 241,
+				"DIVS": 31,
+				"MARS": 100
+			},
+			"AUGUST": {
+				"BIRTHS": 198,
+				"DEATHS": 256,
+				"DIVS": 49,
+				"MARS": 95
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 156,
+				"DEATHS": 245,
+				"DIVS": 39,
+				"MARS": 106
+			},
+			"OCTOBER": {
+				"BIRTHS": 126,
+				"DEATHS": 262,
+				"DIVS": 29,
+				"MARS": 140
+			},
+			"NOVEMBER": {
+				"BIRTHS": 158,
+				"DEATHS": 256,
+				"DIVS": 41,
+				"MARS": 96
+			},
+			"DECEMBER": {
+				"BIRTHS": 157,
+				"DEATHS": 289,
+				"DIVS": 33,
+				"MARS": 103
+			},
+			"TOTAL": {
+				"BIRTHS": 1803,
+				"DEATHS": 3181,
+				"DIVS": 502,
+				"MARS": 1281
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"BIRTHS": 127,
+				"DEATHS": 83,
+				"DIVS": 22,
+				"MARS": 31
+			},
+			"FEBRUARY": {
+				"BIRTHS": 122,
+				"DEATHS": 89,
+				"DIVS": 21,
+				"MARS": 11
+			},
+			"MARCH": {
+				"BIRTHS": 130,
+				"DEATHS": 106,
+				"DIVS": 15,
+				"MARS": 50
+			},
+			"APRIL": {
+				"BIRTHS": 123,
+				"DEATHS": 85,
+				"DIVS": 22,
+				"MARS": 18
+			},
+			"MAY": {
+				"BIRTHS": 134,
+				"DEATHS": 79,
+				"DIVS": 14,
+				"MARS": 31
+			},
+			"JUNE": {
+				"BIRTHS": 123,
+				"DEATHS": 81,
+				"DIVS": 19,
+				"MARS": 38
+			},
+			"JULY": {
+				"BIRTHS": 125,
+				"DEATHS": 87,
+				"DIVS": 16,
+				"MARS": 65
+			},
+			"AUGUST": {
+				"BIRTHS": 127,
+				"DEATHS": 69,
+				"DIVS": 20,
+				"MARS": 35
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 150,
+				"DEATHS": 88,
+				"DIVS": 10,
+				"MARS": 64
+			},
+			"OCTOBER": {
+				"BIRTHS": 105,
+				"DEATHS": 79,
+				"DIVS": 19,
+				"MARS": 27
+			},
+			"NOVEMBER": {
+				"BIRTHS": 112,
+				"DEATHS": 73,
+				"DIVS": 27,
+				"MARS": 26
+			},
+			"DECEMBER": {
+				"BIRTHS": 120,
+				"DEATHS": 91,
+				"DIVS": 12,
+				"MARS": 18
+			},
+			"TOTAL": {
+				"BIRTHS": 1498,
+				"DEATHS": 1010,
+				"DIVS": 217,
+				"MARS": 414
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"BIRTHS": 931,
+				"DEATHS": 871,
+				"DIVS": 268,
+				"MARS": 382
+			},
+			"FEBRUARY": {
+				"BIRTHS": 892,
+				"DEATHS": 880,
+				"DIVS": 294,
+				"MARS": 427
+			},
+			"MARCH": {
+				"BIRTHS": 903,
+				"DEATHS": 961,
+				"DIVS": 304,
+				"MARS": 664
+			},
+			"APRIL": {
+				"BIRTHS": 876,
+				"DEATHS": 828,
+				"DIVS": 259,
+				"MARS": 558
+			},
+			"MAY": {
+				"BIRTHS": 877,
+				"DEATHS": 703,
+				"DIVS": 251,
+				"MARS": 531
+			},
+			"JUNE": {
+				"BIRTHS": 896,
+				"DEATHS": 774,
+				"DIVS": 271,
+				"MARS": 563
+			},
+			"JULY": {
+				"BIRTHS": 980,
+				"DEATHS": 767,
+				"DIVS": 248,
+				"MARS": 385
+			},
+			"AUGUST": {
+				"BIRTHS": 1049,
+				"DEATHS": 707,
+				"DIVS": 362,
+				"MARS": 345
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 1071,
+				"DEATHS": 662,
+				"DIVS": 253,
+				"MARS": 455
+			},
+			"OCTOBER": {
+				"BIRTHS": 1003,
+				"DEATHS": 749,
+				"DIVS": 219,
+				"MARS": 537
+			},
+			"NOVEMBER": {
+				"BIRTHS": 935,
+				"DEATHS": 766,
+				"DIVS": 297,
+				"MARS": 603
+			},
+			"DECEMBER": {
+				"BIRTHS": 990,
+				"DEATHS": 824,
+				"DIVS": 272,
+				"MARS": 550
+			},
+			"TOTAL": {
+				"BIRTHS": 11403,
+				"DEATHS": 9492,
+				"DIVS": 3298,
+				"MARS": 6000
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"BIRTHS": 381,
+				"DEATHS": 283,
+				"DIVS": 75,
+				"MARS": 100
+			},
+			"FEBRUARY": {
+				"BIRTHS": 361,
+				"DEATHS": 242,
+				"DIVS": 70,
+				"MARS": 109
+			},
+			"MARCH": {
+				"BIRTHS": 363,
+				"DEATHS": 268,
+				"DIVS": 73,
+				"MARS": 147
+			},
+			"APRIL": {
+				"BIRTHS": 355,
+				"DEATHS": 255,
+				"DIVS": 71,
+				"MARS": 161
+			},
+			"MAY": {
+				"BIRTHS": 339,
+				"DEATHS": 240,
+				"DIVS": 57,
+				"MARS": 115
+			},
+			"JUNE": {
+				"BIRTHS": 333,
+				"DEATHS": 207,
+				"DIVS": 79,
+				"MARS": 110
+			},
+			"JULY": {
+				"BIRTHS": 366,
+				"DEATHS": 261,
+				"DIVS": 58,
+				"MARS": 89
+			},
+			"AUGUST": {
+				"BIRTHS": 392,
+				"DEATHS": 231,
+				"DIVS": 85,
+				"MARS": 86
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 429,
+				"DEATHS": 246,
+				"DIVS": 66,
+				"MARS": 73
+			},
+			"OCTOBER": {
+				"BIRTHS": 405,
+				"DEATHS": 248,
+				"DIVS": 91,
+				"MARS": 126
+			},
+			"NOVEMBER": {
+				"BIRTHS": 371,
+				"DEATHS": 245,
+				"DIVS": 53,
+				"MARS": 157
+			},
+			"DECEMBER": {
+				"BIRTHS": 376,
+				"DEATHS": 265,
+				"DIVS": 78,
+				"MARS": 113
+			},
+			"TOTAL": {
+				"BIRTHS": 4471,
+				"DEATHS": 2991,
+				"DIVS": 856,
+				"MARS": 1386
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"BIRTHS": 66,
+				"DEATHS": 30,
+				"DIVS": 16,
+				"MARS": 16
+			},
+			"FEBRUARY": {
+				"BIRTHS": 54,
+				"DEATHS": 26,
+				"DIVS": 11,
+				"MARS": 18
+			},
+			"MARCH": {
+				"BIRTHS": 55,
+				"DEATHS": 28,
+				"DIVS": 13,
+				"MARS": 20
+			},
+			"APRIL": {
+				"BIRTHS": 50,
+				"DEATHS": 22,
+				"DIVS": 12,
+				"MARS": 36
+			},
+			"MAY": {
+				"BIRTHS": 42,
+				"DEATHS": 20,
+				"DIVS": 13,
+				"MARS": 25
+			},
+			"JUNE": {
+				"BIRTHS": 50,
+				"DEATHS": 24,
+				"DIVS": 8,
+				"MARS": 25
+			},
+			"JULY": {
+				"BIRTHS": 52,
+				"DEATHS": 29,
+				"DIVS": 15,
+				"MARS": 14
+			},
+			"AUGUST": {
+				"BIRTHS": 64,
+				"DEATHS": 21,
+				"DIVS": 15,
+				"MARS": 14
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 50,
+				"DEATHS": 28,
+				"DIVS": 12,
+				"MARS": 22
+			},
+			"OCTOBER": {
+				"BIRTHS": 62,
+				"DEATHS": 24,
+				"DIVS": 18,
+				"MARS": 23
+			},
+			"NOVEMBER": {
+				"BIRTHS": 44,
+				"DEATHS": 23,
+				"DIVS": 9,
+				"MARS": 15
+			},
+			"DECEMBER": {
+				"BIRTHS": 53,
+				"DEATHS": 26,
+				"DIVS": 9,
+				"MARS": 25
+			},
+			"TOTAL": {
+				"BIRTHS": 642,
+				"DEATHS": 301,
+				"DIVS": 151,
+				"MARS": 253
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"BIRTHS": 166,
+				"DEATHS": 256,
+				"DIVS": 52,
+				"MARS": 79
+			},
+			"FEBRUARY": {
+				"BIRTHS": 157,
+				"DEATHS": 260,
+				"DIVS": 53,
+				"MARS": 89
+			},
+			"MARCH": {
+				"BIRTHS": 153,
+				"DEATHS": 299,
+				"DIVS": 73,
+				"MARS": 121
+			},
+			"APRIL": {
+				"BIRTHS": 150,
+				"DEATHS": 214,
+				"DIVS": 50,
+				"MARS": 128
+			},
+			"MAY": {
+				"BIRTHS": 164,
+				"DEATHS": 244,
+				"DIVS": 69,
+				"MARS": 132
+			},
+			"JUNE": {
+				"BIRTHS": 142,
+				"DEATHS": 232,
+				"DIVS": 53,
+				"MARS": 162
+			},
+			"JULY": {
+				"BIRTHS": 149,
+				"DEATHS": 242,
+				"DIVS": 68,
+				"MARS": 131
+			},
+			"AUGUST": {
+				"BIRTHS": 154,
+				"DEATHS": 244,
+				"DIVS": 73,
+				"MARS": 112
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 147,
+				"DEATHS": 224,
+				"DIVS": 62,
+				"MARS": 142
+			},
+			"OCTOBER": {
+				"BIRTHS": 163,
+				"DEATHS": 229,
+				"DIVS": 69,
+				"MARS": 178
+			},
+			"NOVEMBER": {
+				"BIRTHS": 164,
+				"DEATHS": 242,
+				"DIVS": 45,
+				"MARS": 122
+			},
+			"DECEMBER": {
+				"BIRTHS": 159,
+				"DEATHS": 269,
+				"DIVS": 89,
+				"MARS": 95
+			},
+			"TOTAL": {
+				"BIRTHS": 1868,
+				"DEATHS": 2955,
+				"DIVS": 756,
+				"MARS": 1491
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"BIRTHS": 278,
+				"DEATHS": 147,
+				"DIVS": 67,
+				"MARS": 80
+			},
+			"FEBRUARY": {
+				"BIRTHS": 228,
+				"DEATHS": 146,
+				"DIVS": 101,
+				"MARS": 125
+			},
+			"MARCH": {
+				"BIRTHS": 219,
+				"DEATHS": 161,
+				"DIVS": 100,
+				"MARS": 131
+			},
+			"APRIL": {
+				"BIRTHS": 222,
+				"DEATHS": 131,
+				"DIVS": 24,
+				"MARS": 131
+			},
+			"MAY": {
+				"BIRTHS": 211,
+				"DEATHS": 110,
+				"DIVS": 57,
+				"MARS": 98
+			},
+			"JUNE": {
+				"BIRTHS": 221,
+				"DEATHS": 117,
+				"DIVS": 70,
+				"MARS": 103
+			},
+			"JULY": {
+				"BIRTHS": 260,
+				"DEATHS": 117,
+				"DIVS": 85,
+				"MARS": 77
+			},
+			"AUGUST": {
+				"BIRTHS": 314,
+				"DEATHS": 112,
+				"DIVS": 84,
+				"MARS": 83
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 283,
+				"DEATHS": 125,
+				"DIVS": 77,
+				"MARS": 72
+			},
+			"OCTOBER": {
+				"BIRTHS": 258,
+				"DEATHS": 102,
+				"DIVS": 66,
+				"MARS": 112
+			},
+			"NOVEMBER": {
+				"BIRTHS": 253,
+				"DEATHS": 107,
+				"DIVS": 64,
+				"MARS": 108
+			},
+			"DECEMBER": {
+				"BIRTHS": 257,
+				"DEATHS": 131,
+				"DIVS": 40,
+				"MARS": 114
+			},
+			"TOTAL": {
+				"BIRTHS": 3004,
+				"DEATHS": 1506,
+				"DIVS": 835,
+				"MARS": 1234
+			}
+		},
+		"UNKNOWN": {
+			"JANUARY": {
+				"BIRTHS": 0,
+				"DEATHS": 16
+			},
+			"FEBRUARY": {
+				"DEATHS": 30
+			},
+			"MARCH": {
+				"DEATHS": 24
+			},
+			"APRIL": {
+				"DEATHS": 37
+			},
+			"MAY": {
+				"DEATHS": 43
+			},
+			"JUNE": {
+				"DEATHS": 39
+			},
+			"JULY": {
+				"DEATHS": 48
+			},
+			"AUGUST": {
+				"DEATHS": 38
+			},
+			"SEPTEMBER": {
+				"DEATHS": 36
+			},
+			"OCTOBER": {
+				"DEATHS": 51
+			},
+			"NOVEMBER": {
+				"DEATHS": 47
+			},
+			"DECEMBER": {
+				"DEATHS": 40
+			}
+		}
+	},
+	"2017": {
+		"ARIZONA": {
+			"JANUARY": {
+				"BIRTHS": 6931,
+				"DEATHS": 5111,
+				"DIVS": "2,380†",
+				"MARS": "3,490†"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 6147,
+				"DEATHS": 4514,
+				"DIVS": "1,890†",
+				"MARS": "2,340†"
+			},
+			"MARCH": {
+				"BIRTHS": 6774,
+				"DEATHS": 5070,
+				"DIVS": "2,070†",
+				"MARS": 5027
+			},
+			"APRIL": {
+				"BIRTHS": 6285,
+				"DEATHS": 4854,
+				"DIVS": "2,050†",
+				"MARS": 3713
+			},
+			"MAY": {
+				"BIRTHS": 6507,
+				"DEATHS": 4867,
+				"DIVS": 2529,
+				"MARS": "3,930†"
+			},
+			"JUNE": {
+				"BIRTHS": 6613,
+				"DEATHS": 4782,
+				"DIVS": "2,230†",
+				"MARS": "3,380†"
+			},
+			"JULY": {
+				"BIRTHS": 6964,
+				"DEATHS": 4739,
+				"DIVS": "2,000†",
+				"MARS": "2,600†"
+			},
+			"AUGUST": {
+				"BIRTHS": 7402,
+				"DEATHS": 4534,
+				"DIVS": "2,260†",
+				"MARS": "2,500†"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 7200,
+				"DEATHS": 4423,
+				"DIVS": "1,820†",
+				"MARS": "2,760†"
+			},
+			"OCTOBER": {
+				"BIRTHS": 7299,
+				"DEATHS": 4548,
+				"DIVS": "2,220†",
+				"MARS": 4226
+			},
+			"NOVEMBER": {
+				"BIRTHS": 6791,
+				"DEATHS": 4547,
+				"DIVS": "1,430†",
+				"MARS": "4,130†"
+			},
+			"DECEMBER": {
+				"BIRTHS": 6751,
+				"DEATHS": 5272,
+				"DIVS": "1,560†",
+				"MARS": "2,850†"
+			},
+			"TOTAL": {
+				"BIRTHS": 81664,
+				"DEATHS": 57261,
+				"DIVS": 24430,
+				"MARS": 40939
+			}
+		},
+		"APACHE": {
+			"JANUARY": {
+				"BIRTHS": 78,
+				"DEATHS": 69,
+				"DIVS": 8,
+				"MARS": 21
+			},
+			"FEBRUARY": {
+				"BIRTHS": 77,
+				"DEATHS": 43,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"MARCH": {
+				"BIRTHS": 76,
+				"DEATHS": 62,
+				"DIVS": 6,
+				"MARS": 23
+			},
+			"APRIL": {
+				"BIRTHS": 71,
+				"DEATHS": 71,
+				"DIVS": 6,
+				"MARS": 8
+			},
+			"MAY": {
+				"BIRTHS": 72,
+				"DEATHS": 55,
+				"DIVS": 6,
+				"MARS": 9
+			},
+			"JUNE": {
+				"BIRTHS": 82,
+				"DEATHS": 63,
+				"DIVS": "*",
+				"MARS": 23
+			},
+			"JULY": {
+				"BIRTHS": 76,
+				"DEATHS": 64,
+				"DIVS": 6,
+				"MARS": 17
+			},
+			"AUGUST": {
+				"BIRTHS": 91,
+				"DEATHS": 53,
+				"DIVS": 9,
+				"MARS": 14
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 90,
+				"DEATHS": 59,
+				"DIVS": "*",
+				"MARS": 19
+			},
+			"OCTOBER": {
+				"BIRTHS": 83,
+				"DEATHS": 46,
+				"DIVS": "*",
+				"MARS": 16
+			},
+			"NOVEMBER": {
+				"BIRTHS": 68,
+				"DEATHS": 44,
+				"DIVS": 9,
+				"MARS": 11
+			},
+			"DECEMBER": {
+				"BIRTHS": 82,
+				"DEATHS": 60,
+				"DIVS": 8,
+				"MARS": 8
+			},
+			"TOTAL": {
+				"BIRTHS": 946,
+				"DEATHS": 689,
+				"DIVS": "70†",
+				"MARS": 178
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"BIRTHS": 91,
+				"DEATHS": 105,
+				"DIVS": 35,
+				"MARS": 45
+			},
+			"FEBRUARY": {
+				"BIRTHS": 95,
+				"DEATHS": 109,
+				"DIVS": 39,
+				"MARS": 48
+			},
+			"MARCH": {
+				"BIRTHS": 99,
+				"DEATHS": 120,
+				"DIVS": 46,
+				"MARS": 68
+			},
+			"APRIL": {
+				"BIRTHS": 107,
+				"DEATHS": 121,
+				"DIVS": 30,
+				"MARS": 61
+			},
+			"MAY": {
+				"BIRTHS": 111,
+				"DEATHS": 98,
+				"DIVS": 50,
+				"MARS": 65
+			},
+			"JUNE": {
+				"BIRTHS": 117,
+				"DEATHS": 119,
+				"DIVS": 40,
+				"MARS": 67
+			},
+			"JULY": {
+				"BIRTHS": 141,
+				"DEATHS": 118,
+				"DIVS": 42,
+				"MARS": 77
+			},
+			"AUGUST": {
+				"BIRTHS": 102,
+				"DEATHS": 99,
+				"DIVS": 0,
+				"MARS": 25
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 99,
+				"DEATHS": 105,
+				"DIVS": 0,
+				"MARS": 61
+			},
+			"OCTOBER": {
+				"BIRTHS": 128,
+				"DEATHS": 114,
+				"DIVS": 0,
+				"MARS": 37
+			},
+			"NOVEMBER": {
+				"BIRTHS": 121,
+				"DEATHS": 101,
+				"DIVS": 0,
+				"MARS": 25
+			},
+			"DECEMBER": {
+				"BIRTHS": 119,
+				"DEATHS": 135,
+				"DIVS": "*",
+				"MARS": 51
+			},
+			"TOTAL": {
+				"BIRTHS": 1330,
+				"DEATHS": 1344,
+				"DIVS": "280†",
+				"MARS": 630
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"BIRTHS": 126,
+				"DEATHS": 90,
+				"DIVS": 23,
+				"MARS": 68
+			},
+			"FEBRUARY": {
+				"BIRTHS": 114,
+				"DEATHS": 69,
+				"DIVS": 31,
+				"MARS": 43
+			},
+			"MARCH": {
+				"BIRTHS": 120,
+				"DEATHS": 64,
+				"DIVS": 34,
+				"MARS": 72
+			},
+			"APRIL": {
+				"BIRTHS": 139,
+				"DEATHS": 67,
+				"DIVS": 21,
+				"MARS": 48
+			},
+			"MAY": {
+				"BIRTHS": 143,
+				"DEATHS": 80,
+				"DIVS": 28,
+				"MARS": 99
+			},
+			"JUNE": {
+				"BIRTHS": 115,
+				"DEATHS": 78,
+				"DIVS": 29,
+				"MARS": 114
+			},
+			"JULY": {
+				"BIRTHS": 137,
+				"DEATHS": 60,
+				"DIVS": 30,
+				"MARS": 102
+			},
+			"AUGUST": {
+				"BIRTHS": 135,
+				"DEATHS": 58,
+				"DIVS": 39,
+				"MARS": 93
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 115,
+				"DEATHS": 72,
+				"DIVS": 31,
+				"MARS": 99
+			},
+			"OCTOBER": {
+				"BIRTHS": 122,
+				"DEATHS": 67,
+				"DIVS": 32,
+				"MARS": 140
+			},
+			"NOVEMBER": {
+				"BIRTHS": 114,
+				"DEATHS": 76,
+				"DIVS": 33,
+				"MARS": 67
+			},
+			"DECEMBER": {
+				"BIRTHS": 126,
+				"DEATHS": 78,
+				"DIVS": 31,
+				"MARS": 56
+			},
+			"TOTAL": {
+				"BIRTHS": 1506,
+				"DEATHS": 859,
+				"DIVS": 362,
+				"MARS": 1001
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"BIRTHS": 38,
+				"DEATHS": 51,
+				"DIVS": 13,
+				"MARS": 33
+			},
+			"FEBRUARY": {
+				"BIRTHS": 38,
+				"DEATHS": 74,
+				"DIVS": 14,
+				"MARS": 13
+			},
+			"MARCH": {
+				"BIRTHS": 43,
+				"DEATHS": 71,
+				"DIVS": 10,
+				"MARS": 37
+			},
+			"APRIL": {
+				"BIRTHS": 47,
+				"DEATHS": 56,
+				"DIVS": 9,
+				"MARS": 21
+			},
+			"MAY": {
+				"BIRTHS": 53,
+				"DEATHS": 67,
+				"DIVS": 9,
+				"MARS": 29
+			},
+			"JUNE": {
+				"BIRTHS": 47,
+				"DEATHS": 54,
+				"DIVS": 14,
+				"MARS": 20
+			},
+			"JULY": {
+				"BIRTHS": 49,
+				"DEATHS": 62,
+				"DIVS": 8,
+				"MARS": 22
+			},
+			"AUGUST": {
+				"BIRTHS": 56,
+				"DEATHS": 52,
+				"DIVS": 12,
+				"MARS": 22
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 46,
+				"DEATHS": 50,
+				"DIVS": 12,
+				"MARS": 24
+			},
+			"OCTOBER": {
+				"BIRTHS": 45,
+				"DEATHS": 66,
+				"DIVS": 9,
+				"MARS": 44
+			},
+			"NOVEMBER": {
+				"BIRTHS": 33,
+				"DEATHS": 48,
+				"DIVS": 7,
+				"MARS": 22
+			},
+			"DECEMBER": {
+				"BIRTHS": 46,
+				"DEATHS": 72,
+				"DIVS": 6,
+				"MARS": 16
+			},
+			"TOTAL": {
+				"BIRTHS": 541,
+				"DEATHS": 723,
+				"DIVS": 123,
+				"MARS": 303
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"BIRTHS": 43,
+				"DEATHS": 31,
+				"DIVS": 14,
+				"MARS": 0
+			},
+			"FEBRUARY": {
+				"BIRTHS": 48,
+				"DEATHS": 21,
+				"DIVS": 17,
+				"MARS": 21
+			},
+			"MARCH": {
+				"BIRTHS": 43,
+				"DEATHS": 32,
+				"DIVS": 12,
+				"MARS": 19
+			},
+			"APRIL": {
+				"BIRTHS": 42,
+				"DEATHS": 30,
+				"DIVS": 13,
+				"MARS": 34
+			},
+			"MAY": {
+				"BIRTHS": 45,
+				"DEATHS": 24,
+				"DIVS": 6,
+				"MARS": 18
+			},
+			"JUNE": {
+				"BIRTHS": 46,
+				"DEATHS": 16,
+				"DIVS": 10,
+				"MARS": 35
+			},
+			"JULY": {
+				"BIRTHS": 41,
+				"DEATHS": 24,
+				"DIVS": 13,
+				"MARS": 27
+			},
+			"AUGUST": {
+				"BIRTHS": 50,
+				"DEATHS": 33,
+				"DIVS": 16,
+				"MARS": 40
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 47,
+				"DEATHS": 20,
+				"DIVS": 11,
+				"MARS": 29
+			},
+			"OCTOBER": {
+				"BIRTHS": 42,
+				"DEATHS": 25,
+				"DIVS": 18,
+				"MARS": 46
+			},
+			"NOVEMBER": {
+				"BIRTHS": 36,
+				"DEATHS": 27,
+				"DIVS": 9,
+				"MARS": 26
+			},
+			"DECEMBER": {
+				"BIRTHS": 47,
+				"DEATHS": 22,
+				"DIVS": 18,
+				"MARS": 15
+			},
+			"TOTAL": {
+				"BIRTHS": 530,
+				"DEATHS": 305,
+				"DIVS": 157,
+				"MARS": 310
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"BIRTHS": 17,
+				"DEATHS": 8,
+				"DIVS": 7,
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MARCH": {
+				"BIRTHS": 15,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"APRIL": {
+				"BIRTHS": 12,
+				"DEATHS": 10,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"MAY": {
+				"BIRTHS": 16,
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"JUNE": {
+				"BIRTHS": 12,
+				"DEATHS": 6,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"JULY": {
+				"BIRTHS": 8,
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 8,
+				"DEATHS": 6,
+				"DIVS": 6,
+				"MARS": "*"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 20,
+				"DEATHS": 7,
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 15,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"NOVEMBER": {
+				"BIRTHS": 12,
+				"DEATHS": 7,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"DECEMBER": {
+				"BIRTHS": 12,
+				"DEATHS": 8,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"TOTAL": {
+				"BIRTHS": 156,
+				"DEATHS": "70†",
+				"DIVS": "30†",
+				"MARS": "60†"
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"BIRTHS": 19,
+				"DEATHS": 19,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"FEBRUARY": {
+				"BIRTHS": 18,
+				"DEATHS": 26,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"MARCH": {
+				"BIRTHS": 14,
+				"DEATHS": 33,
+				"DIVS": 6,
+				"MARS": 12
+			},
+			"APRIL": {
+				"BIRTHS": 12,
+				"DEATHS": 27,
+				"DIVS": "*",
+				"MARS": 11
+			},
+			"MAY": {
+				"BIRTHS": 16,
+				"DEATHS": 20,
+				"DIVS": 9,
+				"MARS": 8
+			},
+			"JUNE": {
+				"BIRTHS": 9,
+				"DEATHS": 31,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"JULY": {
+				"BIRTHS": 19,
+				"DEATHS": 37,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 18,
+				"DEATHS": 27,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 11,
+				"DEATHS": 23,
+				"DIVS": 6,
+				"MARS": 8
+			},
+			"OCTOBER": {
+				"BIRTHS": 24,
+				"DEATHS": 20,
+				"DIVS": 6,
+				"MARS": 16
+			},
+			"NOVEMBER": {
+				"BIRTHS": 19,
+				"DEATHS": 29,
+				"DIVS": 8,
+				"MARS": 10
+			},
+			"DECEMBER": {
+				"BIRTHS": 15,
+				"DEATHS": 28,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"TOTAL": {
+				"BIRTHS": 194,
+				"DEATHS": 320,
+				"DIVS": "50†",
+				"MARS": "110†"
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"BIRTHS": 4514,
+				"DEATHS": 2731,
+				"DIVS": 1666,
+				"MARS": 2321
+			},
+			"FEBRUARY": {
+				"BIRTHS": 3945,
+				"DEATHS": 2412,
+				"DIVS": 1429,
+				"MARS": 1503
+			},
+			"MARCH": {
+				"BIRTHS": 4380,
+				"DEATHS": 2673,
+				"DIVS": 1448,
+				"MARS": 3506
+			},
+			"APRIL": {
+				"BIRTHS": 4022,
+				"DEATHS": 2597,
+				"DIVS": 1430,
+				"MARS": 2392
+			},
+			"MAY": {
+				"BIRTHS": 4140,
+				"DEATHS": 2618,
+				"DIVS": 1862,
+				"MARS": 2584
+			},
+			"JUNE": {
+				"BIRTHS": 4263,
+				"DEATHS": 2547,
+				"DIVS": 1605,
+				"MARS": 2092
+			},
+			"JULY": {
+				"BIRTHS": 4390,
+				"DEATHS": 2566,
+				"DIVS": 1346,
+				"MARS": 1554
+			},
+			"AUGUST": {
+				"BIRTHS": 4779,
+				"DEATHS": 2487,
+				"DIVS": 1453,
+				"MARS": 1540
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 4670,
+				"DEATHS": 2383,
+				"DIVS": 1180,
+				"MARS": 1704
+			},
+			"OCTOBER": {
+				"BIRTHS": 4704,
+				"DEATHS": 2501,
+				"DIVS": 1544,
+				"MARS": 2722
+			},
+			"NOVEMBER": {
+				"BIRTHS": 4355,
+				"DEATHS": 2458,
+				"DIVS": 961,
+				"MARS": 2819
+			},
+			"DECEMBER": {
+				"BIRTHS": 4308,
+				"DEATHS": 2825,
+				"DIVS": 954,
+				"MARS": 1892
+			},
+			"TOTAL": {
+				"BIRTHS": 52470,
+				"DEATHS": 30798,
+				"DIVS": 16878,
+				"MARS": 26629
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"BIRTHS": 157,
+				"DEATHS": 312,
+				"DIVS": 41,
+				"MARS": 96
+			},
+			"FEBRUARY": {
+				"BIRTHS": 129,
+				"DEATHS": 237,
+				"DIVS": 20,
+				"MARS": 68
+			},
+			"MARCH": {
+				"BIRTHS": 132,
+				"DEATHS": 297,
+				"DIVS": 46,
+				"MARS": 105
+			},
+			"APRIL": {
+				"BIRTHS": 138,
+				"DEATHS": 257,
+				"DIVS": 33,
+				"MARS": 138
+			},
+			"MAY": {
+				"BIRTHS": 139,
+				"DEATHS": 276,
+				"DIVS": 29,
+				"MARS": 115
+			},
+			"JUNE": {
+				"BIRTHS": 153,
+				"DEATHS": 280,
+				"DIVS": 21,
+				"MARS": 105
+			},
+			"JULY": {
+				"BIRTHS": 154,
+				"DEATHS": 275,
+				"DIVS": 32,
+				"MARS": 140
+			},
+			"AUGUST": {
+				"BIRTHS": 183,
+				"DEATHS": 242,
+				"DIVS": 53,
+				"MARS": 54
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 149,
+				"DEATHS": 230,
+				"DIVS": 33,
+				"MARS": 105
+			},
+			"OCTOBER": {
+				"BIRTHS": 140,
+				"DEATHS": 227,
+				"DIVS": 44,
+				"MARS": 147
+			},
+			"NOVEMBER": {
+				"BIRTHS": 144,
+				"DEATHS": 243,
+				"DIVS": 27,
+				"MARS": 126
+			},
+			"DECEMBER": {
+				"BIRTHS": 116,
+				"DEATHS": 268,
+				"DIVS": 49,
+				"MARS": 78
+			},
+			"TOTAL": {
+				"BIRTHS": 1734,
+				"DEATHS": 3144,
+				"DIVS": 428,
+				"MARS": 1277
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"BIRTHS": 103,
+				"DEATHS": 88,
+				"DIVS": 20,
+				"MARS": 75
+			},
+			"FEBRUARY": {
+				"BIRTHS": 125,
+				"DEATHS": 78,
+				"DIVS": "19",
+				"MARS": 20
+			},
+			"MARCH": {
+				"BIRTHS": 108,
+				"DEATHS": 96,
+				"DIVS": 23,
+				"MARS": 52
+			},
+			"APRIL": {
+				"BIRTHS": 141,
+				"DEATHS": 90,
+				"DIVS": 16,
+				"MARS": 17
+			},
+			"MAY": {
+				"BIRTHS": 116,
+				"DEATHS": 90,
+				"DIVS": 22,
+				"MARS": 38
+			},
+			"JUNE": {
+				"BIRTHS": 119,
+				"DEATHS": 88,
+				"DIVS": 25,
+				"MARS": 17
+			},
+			"JULY": {
+				"BIRTHS": 132,
+				"DEATHS": 71,
+				"DIVS": 30,
+				"MARS": 90
+			},
+			"AUGUST": {
+				"BIRTHS": 133,
+				"DEATHS": 82,
+				"DIVS": 28,
+				"MARS": 43
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 124,
+				"DEATHS": 89,
+				"DIVS": 21,
+				"MARS": 44
+			},
+			"OCTOBER": {
+				"BIRTHS": 131,
+				"DEATHS": 101,
+				"DIVS": 24,
+				"MARS": 39
+			},
+			"NOVEMBER": {
+				"BIRTHS": 128,
+				"DEATHS": 78,
+				"DIVS": 19,
+				"MARS": 54
+			},
+			"DECEMBER": {
+				"BIRTHS": 147,
+				"DEATHS": 108,
+				"DIVS": 19,
+				"MARS": 0
+			},
+			"TOTAL": {
+				"BIRTHS": 1507,
+				"DEATHS": 1059,
+				"DIVS": 247,
+				"MARS": 489
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"BIRTHS": 902,
+				"DEATHS": 880,
+				"DIVS": 301,
+				"MARS": 482
+			},
+			"FEBRUARY": {
+				"BIRTHS": 820,
+				"DEATHS": 759,
+				"DIVS": 268,
+				"MARS": 291
+			},
+			"MARCH": {
+				"BIRTHS": 945,
+				"DEATHS": 840,
+				"DIVS": 171,
+				"MARS": 677
+			},
+			"APRIL": {
+				"BIRTHS": 806,
+				"DEATHS": 805,
+				"DIVS": 279,
+				"MARS": 557
+			},
+			"MAY": {
+				"BIRTHS": 894,
+				"DEATHS": 831,
+				"DIVS": 287,
+				"MARS": 541
+			},
+			"JUNE": {
+				"BIRTHS": 842,
+				"DEATHS": 798,
+				"DIVS": 291,
+				"MARS": 567
+			},
+			"JULY": {
+				"BIRTHS": 956,
+				"DEATHS": 744,
+				"DIVS": 270,
+				"MARS": 263
+			},
+			"AUGUST": {
+				"BIRTHS": 981,
+				"DEATHS": 719,
+				"DIVS": 339,
+				"MARS": 367
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 1001,
+				"DEATHS": 743,
+				"DIVS": 296,
+				"MARS": 353
+			},
+			"OCTOBER": {
+				"BIRTHS": 950,
+				"DEATHS": 748,
+				"DIVS": 292,
+				"MARS": 574
+			},
+			"NOVEMBER": {
+				"BIRTHS": 921,
+				"DEATHS": 787,
+				"DIVS": 161,
+				"MARS": 593
+			},
+			"DECEMBER": {
+				"BIRTHS": 952,
+				"DEATHS": 873,
+				"DIVS": 270,
+				"MARS": 390
+			},
+			"TOTAL": {
+				"BIRTHS": 10970,
+				"DEATHS": 9527,
+				"DIVS": 3225,
+				"MARS": 5655
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"BIRTHS": 384,
+				"DEATHS": 267,
+				"DIVS": 83,
+				"MARS": 143
+			},
+			"FEBRUARY": {
+				"BIRTHS": 322,
+				"DEATHS": 261,
+				"DIVS": "70",
+				"MARS": 103
+			},
+			"MARCH": {
+				"BIRTHS": 343,
+				"DEATHS": 275,
+				"DIVS": 68,
+				"MARS": 177
+			},
+			"APRIL": {
+				"BIRTHS": 335,
+				"DEATHS": 262,
+				"DIVS": 69,
+				"MARS": 128
+			},
+			"MAY": {
+				"BIRTHS": 321,
+				"DEATHS": 257,
+				"DIVS": 75,
+				"MARS": 111
+			},
+			"JUNE": {
+				"BIRTHS": 381,
+				"DEATHS": 277,
+				"DIVS": 76,
+				"MARS": 81
+			},
+			"JULY": {
+				"BIRTHS": 380,
+				"DEATHS": 243,
+				"DIVS": 89,
+				"MARS": 94
+			},
+			"AUGUST": {
+				"BIRTHS": 374,
+				"DEATHS": 255,
+				"DIVS": 101,
+				"MARS": 78
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 374,
+				"DEATHS": 227,
+				"DIVS": 67,
+				"MARS": 93
+			},
+			"OCTOBER": {
+				"BIRTHS": 393,
+				"DEATHS": 247,
+				"DIVS": 74,
+				"MARS": 130
+			},
+			"NOVEMBER": {
+				"BIRTHS": 411,
+				"DEATHS": 241,
+				"DIVS": 50,
+				"MARS": 169
+			},
+			"DECEMBER": {
+				"BIRTHS": 366,
+				"DEATHS": 298,
+				"DIVS": 77,
+				"MARS": 121
+			},
+			"TOTAL": {
+				"BIRTHS": 4384,
+				"DEATHS": 3110,
+				"DIVS": 829,
+				"MARS": 1428
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"BIRTHS": 49,
+				"DEATHS": 23,
+				"DIVS": 8,
+				"MARS": 15
+			},
+			"FEBRUARY": {
+				"BIRTHS": 45,
+				"DEATHS": 30,
+				"DIVS": 14,
+				"MARS": 24
+			},
+			"MARCH": {
+				"BIRTHS": 58,
+				"DEATHS": 16,
+				"DIVS": 7,
+				"MARS": 18
+			},
+			"APRIL": {
+				"BIRTHS": 49,
+				"DEATHS": 30,
+				"DIVS": 10,
+				"MARS": 26
+			},
+			"MAY": {
+				"BIRTHS": 61,
+				"DEATHS": 24,
+				"DIVS": 15,
+				"MARS": 28
+			},
+			"JUNE": {
+				"BIRTHS": 47,
+				"DEATHS": 30,
+				"DIVS": 8,
+				"MARS": 16
+			},
+			"JULY": {
+				"BIRTHS": 63,
+				"DEATHS": 32,
+				"DIVS": 6,
+				"MARS": 26
+			},
+			"AUGUST": {
+				"BIRTHS": 60,
+				"DEATHS": 20,
+				"DIVS": 7,
+				"MARS": 20
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 46,
+				"DEATHS": 22,
+				"DIVS": 22,
+				"MARS": 13
+			},
+			"OCTOBER": {
+				"BIRTHS": 52,
+				"DEATHS": 23,
+				"DIVS": "*",
+				"MARS": 20
+			},
+			"NOVEMBER": {
+				"BIRTHS": 44,
+				"DEATHS": 16,
+				"DIVS": 15,
+				"MARS": 12
+			},
+			"DECEMBER": {
+				"BIRTHS": 59,
+				"DEATHS": 31,
+				"DIVS": 7,
+				"MARS": 10
+			},
+			"TOTAL": {
+				"BIRTHS": 633,
+				"DEATHS": 297,
+				"DIVS": "120†",
+				"MARS": 228
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"BIRTHS": 153,
+				"DEATHS": 266,
+				"DIVS": 43,
+				"MARS": 84
+			},
+			"FEBRUARY": {
+				"BIRTHS": 155,
+				"DEATHS": 249,
+				"DIVS": 48,
+				"MARS": 75
+			},
+			"MARCH": {
+				"BIRTHS": 153,
+				"DEATHS": 298,
+				"DIVS": 83,
+				"MARS": 127
+			},
+			"APRIL": {
+				"BIRTHS": 139,
+				"DEATHS": 270,
+				"DIVS": 60,
+				"MARS": 122
+			},
+			"MAY": {
+				"BIRTHS": 169,
+				"DEATHS": 262,
+				"DIVS": 94,
+				"MARS": 143
+			},
+			"JUNE": {
+				"BIRTHS": 141,
+				"DEATHS": 238,
+				"DIVS": 58,
+				"MARS": 131
+			},
+			"JULY": {
+				"BIRTHS": 148,
+				"DEATHS": 254,
+				"DIVS": 74,
+				"MARS": 91
+			},
+			"AUGUST": {
+				"BIRTHS": 161,
+				"DEATHS": 229,
+				"DIVS": 70,
+				"MARS": 110
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 140,
+				"DEATHS": 254,
+				"DIVS": 64,
+				"MARS": 127
+			},
+			"OCTOBER": {
+				"BIRTHS": 180,
+				"DEATHS": 235,
+				"DIVS": 60,
+				"MARS": 171
+			},
+			"NOVEMBER": {
+				"BIRTHS": 131,
+				"DEATHS": 256,
+				"DIVS": 62,
+				"MARS": 114
+			},
+			"DECEMBER": {
+				"BIRTHS": 126,
+				"DEATHS": 303,
+				"DIVS": 78,
+				"MARS": 101
+			},
+			"TOTAL": {
+				"BIRTHS": 1796,
+				"DEATHS": 3114,
+				"DIVS": 794,
+				"MARS": 1396
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"BIRTHS": 256,
+				"DEATHS": 140,
+				"DIVS": 117,
+				"MARS": 90
+			},
+			"FEBRUARY": {
+				"BIRTHS": 206,
+				"DEATHS": 116,
+				"DIVS": "69",
+				"MARS": 104
+			},
+			"MARCH": {
+				"BIRTHS": 243,
+				"DEATHS": 151,
+				"DIVS": 105,
+				"MARS": 125
+			},
+			"APRIL": {
+				"BIRTHS": 224,
+				"DEATHS": 121,
+				"DIVS": 66,
+				"MARS": 141
+			},
+			"MAY": {
+				"BIRTHS": 210,
+				"DEATHS": 120,
+				"DIVS": 37,
+				"MARS": 135
+			},
+			"JUNE": {
+				"BIRTHS": 238,
+				"DEATHS": 107,
+				"DIVS": 50,
+				"MARS": 94
+			},
+			"JULY": {
+				"BIRTHS": 268,
+				"DEATHS": 127,
+				"DIVS": 48,
+				"MARS": 91
+			},
+			"AUGUST": {
+				"BIRTHS": 271,
+				"DEATHS": 110,
+				"DIVS": 125,
+				"MARS": 80
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 267,
+				"DEATHS": 107,
+				"DIVS": 68,
+				"MARS": 83
+			},
+			"OCTOBER": {
+				"BIRTHS": 290,
+				"DEATHS": 115,
+				"DIVS": 109,
+				"MARS": 115
+			},
+			"NOVEMBER": {
+				"BIRTHS": 254,
+				"DEATHS": 124,
+				"DIVS": 67,
+				"MARS": 83
+			},
+			"DECEMBER": {
+				"BIRTHS": 229,
+				"DEATHS": 153,
+				"DIVS": 33,
+				"MARS": 101
+			},
+			"TOTAL": {
+				"BIRTHS": 2956,
+				"DEATHS": 1491,
+				"DIVS": 825,
+				"MARS": 1242
+			}
+		},
+		"UNKNOWN": {
+			"JANUARY": {
+				"BIRTHS": "*",
+				"DEATHS": 31
+			},
+			"FEBRUARY": {
+				"DEATHS": 27
+			},
+			"MARCH": {
+				"DEATHS": 39
+			},
+			"APRIL": {
+				"DEATHS": 40
+			},
+			"MAY": {
+				"DEATHS": 43
+			},
+			"JUNE": {
+				"DEATHS": 50
+			},
+			"JULY": {
+				"DEATHS": 59
+			},
+			"AUGUST": {
+				"DEATHS": 62
+			},
+			"SEPTEMBER": {
+				"DEATHS": 32
+			},
+			"OCTOBER": {
+				"DEATHS": 11
+			},
+			"NOVEMBER": {
+				"DEATHS": 12
+			},
+			"DECEMBER": {
+				"DEATHS": 10
+			}
+		}
+	},
+	"2018": {
+		"ARIZONA": {
+			"JANUARY": {
+				"BIRTHS": 6706,
+				"DEATHS": 6219,
+				"DIVS": "1,830†",
+				"MARS": "3,330†"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 6177,
+				"DEATHS": 4832,
+				"DIVS": "1,550†",
+				"MARS": "2,580†"
+			},
+			"MARCH": {
+				"BIRTHS": 6614,
+				"DEATHS": 5353,
+				"DIVS": "1,830†",
+				"MARS": "3,860†"
+			},
+			"APRIL": {
+				"BIRTHS": 6129,
+				"DEATHS": 4922,
+				"DIVS": "1,740†",
+				"MARS": "4,100†"
+			},
+			"MAY": {
+				"BIRTHS": 6409,
+				"DEATHS": 4768,
+				"DIVS": "1,860†",
+				"MARS": "3,850†"
+			},
+			"JUNE": {
+				"BIRTHS": 6473,
+				"DEATHS": 4666,
+				"DIVS": 1713,
+				"MARS": "3,010†"
+			},
+			"JULY": {
+				"BIRTHS": 6835,
+				"DEATHS": 4761,
+				"DIVS": "1,800†",
+				"MARS": "2,490†"
+			},
+			"AUGUST": {
+				"BIRTHS": 7294,
+				"DEATHS": 4647,
+				"DIVS": "1,950†",
+				"MARS": "2,510†"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 7108,
+				"DEATHS": 4505,
+				"DIVS": "1,500†",
+				"MARS": "2,600†"
+			},
+			"OCTOBER": {
+				"BIRTHS": 7144,
+				"DEATHS": 4619,
+				"DIVS": "2,010†",
+				"MARS": "3,810†"
+			},
+			"NOVEMBER": {
+				"BIRTHS": 6815,
+				"DEATHS": 4706,
+				"DIVS": "1,700†",
+				"MARS": 4286
+			},
+			"DECEMBER": {
+				"BIRTHS": 6835,
+				"DEATHS": 5208,
+				"DIVS": "1,710†",
+				"MARS": "3,270†"
+			},
+			"TOTAL": {
+				"BIRTHS": 80539,
+				"DEATHS": 59206,
+				"DIVS": 21187,
+				"MARS": 39691
+			}
+		},
+		"APACHE": {
+			"JANUARY": {
+				"BIRTHS": 68,
+				"DEATHS": 59,
+				"DIVS": 6,
+				"MARS": 12
+			},
+			"FEBRUARY": {
+				"BIRTHS": 82,
+				"DEATHS": 54,
+				"DIVS": 6,
+				"MARS": 7
+			},
+			"MARCH": {
+				"BIRTHS": 81,
+				"DEATHS": 54,
+				"DIVS": "*",
+				"MARS": 12
+			},
+			"APRIL": {
+				"BIRTHS": 56,
+				"DEATHS": 59,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MAY": {
+				"BIRTHS": 71,
+				"DEATHS": 53,
+				"DIVS": 8,
+				"MARS": 13
+			},
+			"JUNE": {
+				"BIRTHS": 85,
+				"DEATHS": 63,
+				"DIVS": 11,
+				"MARS": 17
+			},
+			"JULY": {
+				"BIRTHS": 62,
+				"DEATHS": 52,
+				"DIVS": 8,
+				"MARS": 17
+			},
+			"AUGUST": {
+				"BIRTHS": 92,
+				"DEATHS": 59,
+				"DIVS": 9,
+				"MARS": 25
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 83,
+				"DEATHS": 58,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 82,
+				"DEATHS": 52,
+				"DIVS": 13,
+				"MARS": 13
+			},
+			"NOVEMBER": {
+				"BIRTHS": 72,
+				"DEATHS": 64,
+				"DIVS": "*",
+				"MARS": 9
+			},
+			"DECEMBER": {
+				"BIRTHS": 76,
+				"DEATHS": 65,
+				"DIVS": "*",
+				"MARS": 8
+			},
+			"TOTAL": {
+				"BIRTHS": 910,
+				"DEATHS": 692,
+				"DIVS": "80†",
+				"MARS": "140†"
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"BIRTHS": 91,
+				"DEATHS": 142,
+				"DIVS": 0,
+				"MARS": 29
+			},
+			"FEBRUARY": {
+				"BIRTHS": 106,
+				"DEATHS": 120,
+				"DIVS": 33,
+				"MARS": 47
+			},
+			"MARCH": {
+				"BIRTHS": 125,
+				"DEATHS": 125,
+				"DIVS": 41,
+				"MARS": 60
+			},
+			"APRIL": {
+				"BIRTHS": 97,
+				"DEATHS": 118,
+				"DIVS": 37,
+				"MARS": 60
+			},
+			"MAY": {
+				"BIRTHS": 103,
+				"DEATHS": 116,
+				"DIVS": 48,
+				"MARS": 58
+			},
+			"JUNE": {
+				"BIRTHS": 108,
+				"DEATHS": 98,
+				"DIVS": 38,
+				"MARS": 73
+			},
+			"JULY": {
+				"BIRTHS": 108,
+				"DEATHS": 110,
+				"DIVS": 39,
+				"MARS": 55
+			},
+			"AUGUST": {
+				"BIRTHS": 119,
+				"DEATHS": 98,
+				"DIVS": 39,
+				"MARS": 72
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 122,
+				"DEATHS": 100,
+				"DIVS": 14,
+				"MARS": 49
+			},
+			"OCTOBER": {
+				"BIRTHS": 125,
+				"DEATHS": 113,
+				"DIVS": 53,
+				"MARS": 69
+			},
+			"NOVEMBER": {
+				"BIRTHS": 127,
+				"DEATHS": 95,
+				"DIVS": 33,
+				"MARS": 61
+			},
+			"DECEMBER": {
+				"BIRTHS": 117,
+				"DEATHS": 125,
+				"DIVS": 34,
+				"MARS": 55
+			},
+			"TOTAL": {
+				"BIRTHS": 1348,
+				"DEATHS": 1360,
+				"DIVS": 409,
+				"MARS": 688
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"BIRTHS": 118,
+				"DEATHS": 99,
+				"DIVS": 30,
+				"MARS": 56
+			},
+			"FEBRUARY": {
+				"BIRTHS": 127,
+				"DEATHS": 72,
+				"DIVS": 32,
+				"MARS": 46
+			},
+			"MARCH": {
+				"BIRTHS": 155,
+				"DEATHS": 82,
+				"DIVS": 32,
+				"MARS": 83
+			},
+			"APRIL": {
+				"BIRTHS": 94,
+				"DEATHS": 63,
+				"DIVS": 20,
+				"MARS": 73
+			},
+			"MAY": {
+				"BIRTHS": 133,
+				"DEATHS": 64,
+				"DIVS": 25,
+				"MARS": 82
+			},
+			"JUNE": {
+				"BIRTHS": 127,
+				"DEATHS": 68,
+				"DIVS": 19,
+				"MARS": 107
+			},
+			"JULY": {
+				"BIRTHS": 116,
+				"DEATHS": 71,
+				"DIVS": 25,
+				"MARS": 84
+			},
+			"AUGUST": {
+				"BIRTHS": 134,
+				"DEATHS": 59,
+				"DIVS": 25,
+				"MARS": 96
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 158,
+				"DEATHS": 57,
+				"DIVS": 34,
+				"MARS": 98
+			},
+			"OCTOBER": {
+				"BIRTHS": 112,
+				"DEATHS": 49,
+				"DIVS": 40,
+				"MARS": 137
+			},
+			"NOVEMBER": {
+				"BIRTHS": 112,
+				"DEATHS": 84,
+				"DIVS": 22,
+				"MARS": 72
+			},
+			"DECEMBER": {
+				"BIRTHS": 114,
+				"DEATHS": 90,
+				"DIVS": 34,
+				"MARS": 58
+			},
+			"TOTAL": {
+				"BIRTHS": 1500,
+				"DEATHS": 858,
+				"DIVS": 338,
+				"MARS": 992
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"BIRTHS": 38,
+				"DEATHS": 87,
+				"DIVS": 7,
+				"MARS": 27
+			},
+			"FEBRUARY": {
+				"BIRTHS": 36,
+				"DEATHS": 59,
+				"DIVS": 8,
+				"MARS": 18
+			},
+			"MARCH": {
+				"BIRTHS": 44,
+				"DEATHS": 76,
+				"DIVS": 15,
+				"MARS": 23
+			},
+			"APRIL": {
+				"BIRTHS": 36,
+				"DEATHS": 62,
+				"DIVS": 14,
+				"MARS": 28
+			},
+			"MAY": {
+				"BIRTHS": 37,
+				"DEATHS": 58,
+				"DIVS": 12,
+				"MARS": 29
+			},
+			"JUNE": {
+				"BIRTHS": 51,
+				"DEATHS": 58,
+				"DIVS": 17,
+				"MARS": 27
+			},
+			"JULY": {
+				"BIRTHS": 36,
+				"DEATHS": 58,
+				"DIVS": 10,
+				"MARS": 23
+			},
+			"AUGUST": {
+				"BIRTHS": 45,
+				"DEATHS": 43,
+				"DIVS": 9,
+				"MARS": 22
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 52,
+				"DEATHS": 46,
+				"DIVS": 9,
+				"MARS": 30
+			},
+			"OCTOBER": {
+				"BIRTHS": 44,
+				"DEATHS": 63,
+				"DIVS": 10,
+				"MARS": 28
+			},
+			"NOVEMBER": {
+				"BIRTHS": 30,
+				"DEATHS": 70,
+				"DIVS": 6,
+				"MARS": 20
+			},
+			"DECEMBER": {
+				"BIRTHS": 48,
+				"DEATHS": 74,
+				"DIVS": 10,
+				"MARS": 18
+			},
+			"TOTAL": {
+				"BIRTHS": 497,
+				"DEATHS": 754,
+				"DIVS": 127,
+				"MARS": 293
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"BIRTHS": 42,
+				"DEATHS": 43,
+				"DIVS": 16,
+				"MARS": 30
+			},
+			"FEBRUARY": {
+				"BIRTHS": 42,
+				"DEATHS": 26,
+				"DIVS": 7,
+				"MARS": 29
+			},
+			"MARCH": {
+				"BIRTHS": 46,
+				"DEATHS": 32,
+				"DIVS": 12,
+				"MARS": 22
+			},
+			"APRIL": {
+				"BIRTHS": 37,
+				"DEATHS": 21,
+				"DIVS": 9,
+				"MARS": 38
+			},
+			"MAY": {
+				"BIRTHS": 40,
+				"DEATHS": 25,
+				"DIVS": 8,
+				"MARS": 29
+			},
+			"JUNE": {
+				"BIRTHS": 43,
+				"DEATHS": 24,
+				"DIVS": 11,
+				"MARS": 29
+			},
+			"JULY": {
+				"BIRTHS": 36,
+				"DEATHS": 23,
+				"DIVS": 11,
+				"MARS": 12
+			},
+			"AUGUST": {
+				"BIRTHS": 43,
+				"DEATHS": 31,
+				"DIVS": 11,
+				"MARS": 18
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 57,
+				"DEATHS": 30,
+				"DIVS": 9,
+				"MARS": 31
+			},
+			"OCTOBER": {
+				"BIRTHS": 47,
+				"DEATHS": 24,
+				"DIVS": 11,
+				"MARS": 23
+			},
+			"NOVEMBER": {
+				"BIRTHS": 39,
+				"DEATHS": 28,
+				"DIVS": 9,
+				"MARS": 30
+			},
+			"DECEMBER": {
+				"BIRTHS": 41,
+				"DEATHS": 29,
+				"DIVS": 11,
+				"MARS": 9
+			},
+			"TOTAL": {
+				"BIRTHS": 513,
+				"DEATHS": 336,
+				"DIVS": 125,
+				"MARS": 300
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"BIRTHS": 9,
+				"DEATHS": 7,
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 8,
+				"DEATHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MARCH": {
+				"BIRTHS": 14,
+				"DEATHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"APRIL": {
+				"BIRTHS": 11,
+				"DEATHS": 7,
+				"DIVS": 0,
+				"MARS": 7
+			},
+			"MAY": {
+				"BIRTHS": 16,
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"JUNE": {
+				"BIRTHS": 11,
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"JULY": {
+				"BIRTHS": 13,
+				"DEATHS": 7,
+				"DIVS": 9,
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 12,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 10,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"NOVEMBER": {
+				"BIRTHS": 8,
+				"DEATHS": 6,
+				"DIVS": 6,
+				"MARS": 8
+			},
+			"DECEMBER": {
+				"BIRTHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"TOTAL": {
+				"BIRTHS": 130,
+				"DEATHS": "70†",
+				"DIVS": "30†",
+				"MARS": "50†"
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"BIRTHS": 20,
+				"DEATHS": 30,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 13,
+				"DEATHS": 28,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"MARCH": {
+				"BIRTHS": 18,
+				"DEATHS": 28,
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"APRIL": {
+				"BIRTHS": 14,
+				"DEATHS": 28,
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"MAY": {
+				"BIRTHS": 24,
+				"DEATHS": 31,
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"JUNE": {
+				"BIRTHS": 14,
+				"DEATHS": 22,
+				"DIVS": 6,
+				"MARS": "*"
+			},
+			"JULY": {
+				"BIRTHS": 18,
+				"DEATHS": 25,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 13,
+				"DEATHS": 24,
+				"DIVS": 6,
+				"MARS": 9
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 16,
+				"DEATHS": 35,
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 12,
+				"DEATHS": 22,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"NOVEMBER": {
+				"BIRTHS": 13,
+				"DEATHS": 21,
+				"DIVS": "*",
+				"MARS": 12
+			},
+			"DECEMBER": {
+				"BIRTHS": 12,
+				"DEATHS": 23,
+				"DIVS": 7,
+				"MARS": 9
+			},
+			"TOTAL": {
+				"BIRTHS": 187,
+				"DEATHS": 317,
+				"DIVS": "50†",
+				"MARS": "90†"
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"BIRTHS": 4266,
+				"DEATHS": 3368,
+				"DIVS": 1227,
+				"MARS": 2275
+			},
+			"FEBRUARY": {
+				"BIRTHS": 3979,
+				"DEATHS": 2619,
+				"DIVS": 935,
+				"MARS": 1741
+			},
+			"MARCH": {
+				"BIRTHS": 4175,
+				"DEATHS": 2913,
+				"DIVS": 1142,
+				"MARS": 2534
+			},
+			"APRIL": {
+				"BIRTHS": 3956,
+				"DEATHS": 2691,
+				"DIVS": 1151,
+				"MARS": 2657
+			},
+			"MAY": {
+				"BIRTHS": 4136,
+				"DEATHS": 2575,
+				"DIVS": 1176,
+				"MARS": 2523
+			},
+			"JUNE": {
+				"BIRTHS": 4132,
+				"DEATHS": 2592,
+				"DIVS": 1129,
+				"MARS": 1850
+			},
+			"JULY": {
+				"BIRTHS": 4430,
+				"DEATHS": 2589,
+				"DIVS": 1121,
+				"MARS": 1607
+			},
+			"AUGUST": {
+				"BIRTHS": 4610,
+				"DEATHS": 2577,
+				"DIVS": 1237,
+				"MARS": 1484
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 4508,
+				"DEATHS": 2383,
+				"DIVS": 1000,
+				"MARS": 1510
+			},
+			"OCTOBER": {
+				"BIRTHS": 4695,
+				"DEATHS": 2512,
+				"DIVS": 1212,
+				"MARS": 2471
+			},
+			"NOVEMBER": {
+				"BIRTHS": 4390,
+				"DEATHS": 2492,
+				"DIVS": 1098,
+				"MARS": 2903
+			},
+			"DECEMBER": {
+				"BIRTHS": 4424,
+				"DEATHS": 2780,
+				"DIVS": 1001,
+				"MARS": 2150
+			},
+			"TOTAL": {
+				"BIRTHS": 51701,
+				"DEATHS": 32091,
+				"DIVS": 13429,
+				"MARS": 25705
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"BIRTHS": 155,
+				"DEATHS": 374,
+				"DIVS": 29,
+				"MARS": 81
+			},
+			"FEBRUARY": {
+				"BIRTHS": 132,
+				"DEATHS": 257,
+				"DIVS": 21,
+				"MARS": 79
+			},
+			"MARCH": {
+				"BIRTHS": 125,
+				"DEATHS": 331,
+				"DIVS": 42,
+				"MARS": 112
+			},
+			"APRIL": {
+				"BIRTHS": 166,
+				"DEATHS": 275,
+				"DIVS": 22,
+				"MARS": 133
+			},
+			"MAY": {
+				"BIRTHS": 127,
+				"DEATHS": 273,
+				"DIVS": 51,
+				"MARS": 132
+			},
+			"JUNE": {
+				"BIRTHS": 155,
+				"DEATHS": 252,
+				"DIVS": 30,
+				"MARS": 98
+			},
+			"JULY": {
+				"BIRTHS": 160,
+				"DEATHS": 270,
+				"DIVS": 50,
+				"MARS": 117
+			},
+			"AUGUST": {
+				"BIRTHS": 161,
+				"DEATHS": 249,
+				"DIVS": 34,
+				"MARS": 101
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 157,
+				"DEATHS": 262,
+				"DIVS": 25,
+				"MARS": 91
+			},
+			"OCTOBER": {
+				"BIRTHS": 165,
+				"DEATHS": 248,
+				"DIVS": 41,
+				"MARS": 140
+			},
+			"NOVEMBER": {
+				"BIRTHS": 149,
+				"DEATHS": 295,
+				"DIVS": 30,
+				"MARS": 128
+			},
+			"DECEMBER": {
+				"BIRTHS": 138,
+				"DEATHS": 301,
+				"DIVS": 34,
+				"MARS": 99
+			},
+			"TOTAL": {
+				"BIRTHS": 1790,
+				"DEATHS": 3387,
+				"DIVS": 409,
+				"MARS": 1311
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"BIRTHS": 122,
+				"DEATHS": 110,
+				"DIVS": 16,
+				"MARS": 16
+			},
+			"FEBRUARY": {
+				"BIRTHS": 110,
+				"DEATHS": 96,
+				"DIVS": 12,
+				"MARS": 15
+			},
+			"MARCH": {
+				"BIRTHS": 108,
+				"DEATHS": 110,
+				"DIVS": 14,
+				"MARS": 26
+			},
+			"APRIL": {
+				"BIRTHS": 106,
+				"DEATHS": 84,
+				"DIVS": 17,
+				"MARS": 28
+			},
+			"MAY": {
+				"BIRTHS": 117,
+				"DEATHS": 94,
+				"DIVS": 23,
+				"MARS": 26
+			},
+			"JUNE": {
+				"BIRTHS": 126,
+				"DEATHS": 93,
+				"DIVS": 12,
+				"MARS": 47
+			},
+			"JULY": {
+				"BIRTHS": 103,
+				"DEATHS": 96,
+				"DIVS": 20,
+				"MARS": 47
+			},
+			"AUGUST": {
+				"BIRTHS": 144,
+				"DEATHS": 86,
+				"DIVS": 24,
+				"MARS": 36
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 123,
+				"DEATHS": 81,
+				"DIVS": 19,
+				"MARS": 28
+			},
+			"OCTOBER": {
+				"BIRTHS": 115,
+				"DEATHS": 99,
+				"DIVS": 18,
+				"MARS": 8
+			},
+			"NOVEMBER": {
+				"BIRTHS": 86,
+				"DEATHS": 100,
+				"DIVS": 22,
+				"MARS": 22
+			},
+			"DECEMBER": {
+				"BIRTHS": 119,
+				"DEATHS": 88,
+				"DIVS": 22,
+				"MARS": 56
+			},
+			"TOTAL": {
+				"BIRTHS": 1379,
+				"DEATHS": 1137,
+				"DIVS": 219,
+				"MARS": 355
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"BIRTHS": 895,
+				"DEATHS": 1049,
+				"DIVS": 260,
+				"MARS": 491
+			},
+			"FEBRUARY": {
+				"BIRTHS": 826,
+				"DEATHS": 799,
+				"DIVS": 268,
+				"MARS": 291
+			},
+			"MARCH": {
+				"BIRTHS": 915,
+				"DEATHS": 822,
+				"DIVS": 263,
+				"MARS": 576
+			},
+			"APRIL": {
+				"BIRTHS": 818,
+				"DEATHS": 802,
+				"DIVS": 251,
+				"MARS": 605
+			},
+			"MAY": {
+				"BIRTHS": 869,
+				"DEATHS": 785,
+				"DIVS": 276,
+				"MARS": 537
+			},
+			"JUNE": {
+				"BIRTHS": 846,
+				"DEATHS": 751,
+				"DIVS": 283,
+				"MARS": 405
+			},
+			"JULY": {
+				"BIRTHS": 863,
+				"DEATHS": 777,
+				"DIVS": 280,
+				"MARS": 247
+			},
+			"AUGUST": {
+				"BIRTHS": 983,
+				"DEATHS": 772,
+				"DIVS": 328,
+				"MARS": 389
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 925,
+				"DEATHS": 806,
+				"DIVS": 215,
+				"MARS": 420
+			},
+			"OCTOBER": {
+				"BIRTHS": 903,
+				"DEATHS": 812,
+				"DIVS": 360,
+				"MARS": 480
+			},
+			"NOVEMBER": {
+				"BIRTHS": 906,
+				"DEATHS": 784,
+				"DIVS": 269,
+				"MARS": 615
+			},
+			"DECEMBER": {
+				"BIRTHS": 912,
+				"DEATHS": 887,
+				"DIVS": 327,
+				"MARS": 435
+			},
+			"TOTAL": {
+				"BIRTHS": 10661,
+				"DEATHS": 9846,
+				"DIVS": 3380,
+				"MARS": 5491
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"BIRTHS": 398,
+				"DEATHS": 300,
+				"DIVS": 90,
+				"MARS": 118
+			},
+			"FEBRUARY": {
+				"BIRTHS": 326,
+				"DEATHS": 263,
+				"DIVS": 70,
+				"MARS": 120
+			},
+			"MARCH": {
+				"BIRTHS": 382,
+				"DEATHS": 267,
+				"DIVS": 70,
+				"MARS": 172
+			},
+			"APRIL": {
+				"BIRTHS": 338,
+				"DEATHS": 263,
+				"DIVS": 71,
+				"MARS": 159
+			},
+			"MAY": {
+				"BIRTHS": 335,
+				"DEATHS": 274,
+				"DIVS": 79,
+				"MARS": 156
+			},
+			"JUNE": {
+				"BIRTHS": 344,
+				"DEATHS": 237,
+				"DIVS": 85,
+				"MARS": 98
+			},
+			"JULY": {
+				"BIRTHS": 395,
+				"DEATHS": 271,
+				"DIVS": 87,
+				"MARS": 93
+			},
+			"AUGUST": {
+				"BIRTHS": 420,
+				"DEATHS": 229,
+				"DIVS": 77,
+				"MARS": 64
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 398,
+				"DEATHS": 235,
+				"DIVS": 64,
+				"MARS": 87
+			},
+			"OCTOBER": {
+				"BIRTHS": 382,
+				"DEATHS": 238,
+				"DIVS": 79,
+				"MARS": 142
+			},
+			"NOVEMBER": {
+				"BIRTHS": 401,
+				"DEATHS": 274,
+				"DIVS": 86,
+				"MARS": 152
+			},
+			"DECEMBER": {
+				"BIRTHS": 379,
+				"DEATHS": 296,
+				"DIVS": 65,
+				"MARS": 103
+			},
+			"TOTAL": {
+				"BIRTHS": 4498,
+				"DEATHS": 3147,
+				"DIVS": 923,
+				"MARS": 1464
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"BIRTHS": 53,
+				"DEATHS": 21,
+				"DIVS": 6,
+				"MARS": 10
+			},
+			"FEBRUARY": {
+				"BIRTHS": 48,
+				"DEATHS": 14,
+				"DIVS": 12,
+				"MARS": 11
+			},
+			"MARCH": {
+				"BIRTHS": 57,
+				"DEATHS": 35,
+				"DIVS": 7,
+				"MARS": 20
+			},
+			"APRIL": {
+				"BIRTHS": 54,
+				"DEATHS": 24,
+				"DIVS": 13,
+				"MARS": 12
+			},
+			"MAY": {
+				"BIRTHS": 48,
+				"DEATHS": 25,
+				"DIVS": 15,
+				"MARS": 13
+			},
+			"JUNE": {
+				"BIRTHS": 48,
+				"DEATHS": 23,
+				"DIVS": 8,
+				"MARS": 16
+			},
+			"JULY": {
+				"BIRTHS": 55,
+				"DEATHS": 18,
+				"DIVS": 10,
+				"MARS": 12
+			},
+			"AUGUST": {
+				"BIRTHS": 54,
+				"DEATHS": 26,
+				"DIVS": 10,
+				"MARS": 9
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 50,
+				"DEATHS": 13,
+				"DIVS": 9,
+				"MARS": 10
+			},
+			"OCTOBER": {
+				"BIRTHS": 49,
+				"DEATHS": 26,
+				"DIVS": 18,
+				"MARS": 19
+			},
+			"NOVEMBER": {
+				"BIRTHS": 58,
+				"DEATHS": 18,
+				"DIVS": 7,
+				"MARS": 28
+			},
+			"DECEMBER": {
+				"BIRTHS": 43,
+				"DEATHS": 35,
+				"DIVS": 8,
+				"MARS": 22
+			},
+			"TOTAL": {
+				"BIRTHS": 617,
+				"DEATHS": 278,
+				"DIVS": 123,
+				"MARS": 182
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"BIRTHS": 153,
+				"DEATHS": 327,
+				"DIVS": 74,
+				"MARS": 92
+			},
+			"FEBRUARY": {
+				"BIRTHS": 127,
+				"DEATHS": 265,
+				"DIVS": 65,
+				"MARS": 65
+			},
+			"MARCH": {
+				"BIRTHS": 141,
+				"DEATHS": 291,
+				"DIVS": 75,
+				"MARS": 87
+			},
+			"APRIL": {
+				"BIRTHS": 148,
+				"DEATHS": 272,
+				"DIVS": 54,
+				"MARS": 122
+			},
+			"MAY": {
+				"BIRTHS": 155,
+				"DEATHS": 250,
+				"DIVS": 74,
+				"MARS": 136
+			},
+			"JUNE": {
+				"BIRTHS": 169,
+				"DEATHS": 243,
+				"DIVS": 40,
+				"MARS": 144
+			},
+			"JULY": {
+				"BIRTHS": 160,
+				"DEATHS": 241,
+				"DIVS": 75,
+				"MARS": 92
+			},
+			"AUGUST": {
+				"BIRTHS": 168,
+				"DEATHS": 247,
+				"DIVS": 67,
+				"MARS": 98
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 143,
+				"DEATHS": 257,
+				"DIVS": 45,
+				"MARS": 134
+			},
+			"OCTOBER": {
+				"BIRTHS": 138,
+				"DEATHS": 229,
+				"DIVS": 74,
+				"MARS": 164
+			},
+			"NOVEMBER": {
+				"BIRTHS": 128,
+				"DEATHS": 234,
+				"DIVS": 53,
+				"MARS": 102
+			},
+			"DECEMBER": {
+				"BIRTHS": 139,
+				"DEATHS": 265,
+				"DIVS": 100,
+				"MARS": 110
+			},
+			"TOTAL": {
+				"BIRTHS": 1769,
+				"DEATHS": 3121,
+				"DIVS": 796,
+				"MARS": 1346
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"BIRTHS": 275,
+				"DEATHS": 173,
+				"DIVS": 62,
+				"MARS": 83
+			},
+			"FEBRUARY": {
+				"BIRTHS": 213,
+				"DEATHS": 127,
+				"DIVS": 72,
+				"MARS": 98
+			},
+			"MARCH": {
+				"BIRTHS": 227,
+				"DEATHS": 154,
+				"DIVS": 104,
+				"MARS": 122
+			},
+			"APRIL": {
+				"BIRTHS": 198,
+				"DEATHS": 139,
+				"DIVS": 76,
+				"MARS": 159
+			},
+			"MAY": {
+				"BIRTHS": 198,
+				"DEATHS": 126,
+				"DIVS": 65,
+				"MARS": 105
+			},
+			"JUNE": {
+				"BIRTHS": 214,
+				"DEATHS": 121,
+				"DIVS": 24,
+				"MARS": 87
+			},
+			"JULY": {
+				"BIRTHS": 278,
+				"DEATHS": 137,
+				"DIVS": 55,
+				"MARS": 79
+			},
+			"AUGUST": {
+				"BIRTHS": 299,
+				"DEATHS": 127,
+				"DIVS": 70,
+				"MARS": 85
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 304,
+				"DEATHS": 134,
+				"DIVS": 46,
+				"MARS": 101
+			},
+			"OCTOBER": {
+				"BIRTHS": 265,
+				"DEATHS": 121,
+				"DIVS": 69,
+				"MARS": 104
+			},
+			"NOVEMBER": {
+				"BIRTHS": 296,
+				"DEATHS": 132,
+				"DIVS": 54,
+				"MARS": 124
+			},
+			"DECEMBER": {
+				"BIRTHS": 263,
+				"DEATHS": 140,
+				"DIVS": 53,
+				"MARS": 136
+			},
+			"TOTAL": {
+				"BIRTHS": 3030,
+				"DEATHS": 1631,
+				"DIVS": 750,
+				"MARS": 1283
+			}
+		},
+		"UNKNOWN": {
+			"JANUARY": {
+				"BIRTHS": "*",
+				"DEATHS": 30
+			},
+			"FEBRUARY": {
+				"DEATHS": 24
+			},
+			"MARCH": {
+				"DEATHS": 24
+			},
+			"APRIL": {
+				"DEATHS": 14
+			},
+			"MAY": {
+				"DEATHS": 14
+			},
+			"JUNE": {
+				"DEATHS": 17
+			},
+			"JULY": {
+				"DEATHS": 16
+			},
+			"AUGUST": {
+				"DEATHS": 17
+			},
+			"SEPTEMBER": {
+				"DEATHS": 6
+			},
+			"OCTOBER": {
+				"DEATHS": 8
+			},
+			"NOVEMBER": {
+				"DEATHS": 9
+			},
+			"DECEMBER": {
+				"DEATHS": 6
+			}
+		}
+	},
+	"2019": {
+		"ARIZONA": {
+			"JANUARY": {
+				"BIRTHS": 6812,
+				"DEATHS": 5599,
+				"DIVS": "1,790†",
+				"MARS": "3,540†"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 6073,
+				"DEATHS": 4724,
+				"DIVS": "1,440†",
+				"MARS": "2,560†"
+			},
+			"MARCH": {
+				"BIRTHS": 6659,
+				"DEATHS": 5375,
+				"DIVS": "1,540†",
+				"MARS": 3764
+			},
+			"APRIL": {
+				"BIRTHS": 6085,
+				"DEATHS": 5033,
+				"DIVS": "1,680†",
+				"MARS": 3903
+			},
+			"MAY": {
+				"BIRTHS": 6276,
+				"DEATHS": 5102,
+				"DIVS": "1,590†",
+				"MARS": 3265
+			},
+			"JUNE": {
+				"BIRTHS": 6158,
+				"DEATHS": 4689,
+				"DIVS": "1,610†",
+				"MARS": "2,940†"
+			},
+			"JULY": {
+				"BIRTHS": 6954,
+				"DEATHS": 4922,
+				"DIVS": "1,790†",
+				"MARS": "2,650†"
+			},
+			"AUGUST": {
+				"BIRTHS": 7198,
+				"DEATHS": 4845,
+				"DIVS": "1,890†",
+				"MARS": "2,250†"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 6857,
+				"DEATHS": 4752,
+				"DIVS": "1,980†",
+				"MARS": "2,500†"
+			},
+			"OCTOBER": {
+				"BIRTHS": 6873,
+				"DEATHS": 4844,
+				"DIVS": "2,140†",
+				"MARS": "4,270†"
+			},
+			"NOVEMBER": {
+				"BIRTHS": 6565,
+				"DEATHS": 5020,
+				"DIVS": "1,770†",
+				"MARS": "3,640†"
+			},
+			"DECEMBER": {
+				"BIRTHS": 6674,
+				"DEATHS": 5017,
+				"DIVS": "2,010†",
+				"MARS": "3,320†"
+			},
+			"TOTAL": {
+				"BIRTHS": 79184,
+				"DEATHS": 59922,
+				"DIVS": 21224,
+				"MARS": 38599
+			}
+		},
+		"APACHE": {
+			"JANUARY": {
+				"BIRTHS": 82,
+				"DEATHS": 75,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"FEBRUARY": {
+				"BIRTHS": 70,
+				"DEATHS": 57,
+				"DIVS": "*",
+				"MARS": 13
+			},
+			"MARCH": {
+				"BIRTHS": 67,
+				"DEATHS": 68,
+				"DIVS": 7,
+				"MARS": 8
+			},
+			"APRIL": {
+				"BIRTHS": 71,
+				"DEATHS": 59,
+				"DIVS": 9,
+				"MARS": 8
+			},
+			"MAY": {
+				"BIRTHS": 69,
+				"DEATHS": 51,
+				"DIVS": "*",
+				"MARS": 8
+			},
+			"JUNE": {
+				"BIRTHS": 67,
+				"DEATHS": 55,
+				"DIVS": "*",
+				"MARS": 15
+			},
+			"JULY": {
+				"BIRTHS": 89,
+				"DEATHS": 66,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"AUGUST": {
+				"BIRTHS": 75,
+				"DEATHS": 56,
+				"DIVS": "*",
+				"MARS": 19
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 60,
+				"DEATHS": 62,
+				"DIVS": 6,
+				"MARS": 14
+			},
+			"OCTOBER": {
+				"BIRTHS": 78,
+				"DEATHS": 53,
+				"DIVS": 6,
+				"MARS": 22
+			},
+			"NOVEMBER": {
+				"BIRTHS": 73,
+				"DEATHS": 57,
+				"DIVS": 7,
+				"MARS": 10
+			},
+			"DECEMBER": {
+				"BIRTHS": 71,
+				"DEATHS": 52,
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"TOTAL": {
+				"BIRTHS": 872,
+				"DEATHS": 711,
+				"DIVS": "60†",
+				"MARS": 148
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"BIRTHS": 114,
+				"DEATHS": 135,
+				"DIVS": 35,
+				"MARS": 45
+			},
+			"FEBRUARY": {
+				"BIRTHS": 90,
+				"DEATHS": 108,
+				"DIVS": 20,
+				"MARS": 50
+			},
+			"MARCH": {
+				"BIRTHS": 112,
+				"DEATHS": 137,
+				"DIVS": 26,
+				"MARS": 48
+			},
+			"APRIL": {
+				"BIRTHS": 98,
+				"DEATHS": 109,
+				"DIVS": 43,
+				"MARS": 68
+			},
+			"MAY": {
+				"BIRTHS": 105,
+				"DEATHS": 136,
+				"DIVS": 39,
+				"MARS": 22
+			},
+			"JUNE": {
+				"BIRTHS": 94,
+				"DEATHS": 115,
+				"DIVS": 39,
+				"MARS": 47
+			},
+			"JULY": {
+				"BIRTHS": 144,
+				"DEATHS": 108,
+				"DIVS": 31,
+				"MARS": 28
+			},
+			"AUGUST": {
+				"BIRTHS": 121,
+				"DEATHS": 99,
+				"DIVS": 38,
+				"MARS": 40
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 115,
+				"DEATHS": 102,
+				"DIVS": 28,
+				"MARS": 84
+			},
+			"OCTOBER": {
+				"BIRTHS": 121,
+				"DEATHS": 110,
+				"DIVS": 27,
+				"MARS": 37
+			},
+			"NOVEMBER": {
+				"BIRTHS": 101,
+				"DEATHS": 107,
+				"DIVS": 24,
+				"MARS": 12
+			},
+			"DECEMBER": {
+				"BIRTHS": 127,
+				"DEATHS": 136,
+				"DIVS": 35,
+				"MARS": 46
+			},
+			"TOTAL": {
+				"BIRTHS": 1342,
+				"DEATHS": 1402,
+				"DIVS": 385,
+				"MARS": 527
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"BIRTHS": 114,
+				"DEATHS": 75,
+				"DIVS": 23,
+				"MARS": 61
+			},
+			"FEBRUARY": {
+				"BIRTHS": 108,
+				"DEATHS": 61,
+				"DIVS": 22,
+				"MARS": 44
+			},
+			"MARCH": {
+				"BIRTHS": 110,
+				"DEATHS": 71,
+				"DIVS": 28,
+				"MARS": 53
+			},
+			"APRIL": {
+				"BIRTHS": 131,
+				"DEATHS": 57,
+				"DIVS": 28,
+				"MARS": 61
+			},
+			"MAY": {
+				"BIRTHS": 117,
+				"DEATHS": 68,
+				"DIVS": 29,
+				"MARS": 100
+			},
+			"JUNE": {
+				"BIRTHS": 106,
+				"DEATHS": 59,
+				"DIVS": 32,
+				"MARS": 46
+			},
+			"JULY": {
+				"BIRTHS": 116,
+				"DEATHS": 79,
+				"DIVS": 24,
+				"MARS": 101
+			},
+			"AUGUST": {
+				"BIRTHS": 124,
+				"DEATHS": 64,
+				"DIVS": 42,
+				"MARS": 65
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 99,
+				"DEATHS": 58,
+				"DIVS": 29,
+				"MARS": 87
+			},
+			"OCTOBER": {
+				"BIRTHS": 114,
+				"DEATHS": 74,
+				"DIVS": 33,
+				"MARS": 147
+			},
+			"NOVEMBER": {
+				"BIRTHS": 113,
+				"DEATHS": 85,
+				"DIVS": 24,
+				"MARS": 86
+			},
+			"DECEMBER": {
+				"BIRTHS": 116,
+				"DEATHS": 78,
+				"DIVS": 47,
+				"MARS": 44
+			},
+			"TOTAL": {
+				"BIRTHS": 1368,
+				"DEATHS": 829,
+				"DIVS": 361,
+				"MARS": 895
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"BIRTHS": 37,
+				"DEATHS": 77,
+				"DIVS": 12,
+				"MARS": 20
+			},
+			"FEBRUARY": {
+				"BIRTHS": 39,
+				"DEATHS": 62,
+				"DIVS": 10,
+				"MARS": 12
+			},
+			"MARCH": {
+				"BIRTHS": 34,
+				"DEATHS": 66,
+				"DIVS": 8,
+				"MARS": 25
+			},
+			"APRIL": {
+				"BIRTHS": 20,
+				"DEATHS": 73,
+				"DIVS": 11,
+				"MARS": 26
+			},
+			"MAY": {
+				"BIRTHS": 45,
+				"DEATHS": 70,
+				"DIVS": 12,
+				"MARS": 28
+			},
+			"JUNE": {
+				"BIRTHS": 43,
+				"DEATHS": 57,
+				"DIVS": 10,
+				"MARS": 33
+			},
+			"JULY": {
+				"BIRTHS": 39,
+				"DEATHS": 64,
+				"DIVS": 11,
+				"MARS": 25
+			},
+			"AUGUST": {
+				"BIRTHS": 45,
+				"DEATHS": 63,
+				"DIVS": 13,
+				"MARS": 21
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 44,
+				"DEATHS": 58,
+				"DIVS": 6,
+				"MARS": 20
+			},
+			"OCTOBER": {
+				"BIRTHS": 33,
+				"DEATHS": 71,
+				"DIVS": 8,
+				"MARS": 32
+			},
+			"NOVEMBER": {
+				"BIRTHS": 51,
+				"DEATHS": 81,
+				"DIVS": 13,
+				"MARS": 20
+			},
+			"DECEMBER": {
+				"BIRTHS": 42,
+				"DEATHS": 71,
+				"DIVS": "*",
+				"MARS": 28
+			},
+			"TOTAL": {
+				"BIRTHS": 472,
+				"DEATHS": 813,
+				"DIVS": "120†",
+				"MARS": 290
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"BIRTHS": 36,
+				"DEATHS": 35,
+				"DIVS": 12,
+				"MARS": 38
+			},
+			"FEBRUARY": {
+				"BIRTHS": 39,
+				"DEATHS": 24,
+				"DIVS": 15,
+				"MARS": 15
+			},
+			"MARCH": {
+				"BIRTHS": 39,
+				"DEATHS": 26,
+				"DIVS": 8,
+				"MARS": 25
+			},
+			"APRIL": {
+				"BIRTHS": 43,
+				"DEATHS": 17,
+				"DIVS": 14,
+				"MARS": 23
+			},
+			"MAY": {
+				"BIRTHS": 45,
+				"DEATHS": 21,
+				"DIVS": 7,
+				"MARS": 24
+			},
+			"JUNE": {
+				"BIRTHS": 38,
+				"DEATHS": 26,
+				"DIVS": 14,
+				"MARS": 25
+			},
+			"JULY": {
+				"BIRTHS": 37,
+				"DEATHS": 25,
+				"DIVS": 13,
+				"MARS": 26
+			},
+			"AUGUST": {
+				"BIRTHS": 41,
+				"DEATHS": 17,
+				"DIVS": 10,
+				"MARS": 25
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 51,
+				"DEATHS": 21,
+				"DIVS": 6,
+				"MARS": 17
+			},
+			"OCTOBER": {
+				"BIRTHS": 41,
+				"DEATHS": 19,
+				"DIVS": 14,
+				"MARS": 17
+			},
+			"NOVEMBER": {
+				"BIRTHS": 39,
+				"DEATHS": 28,
+				"DIVS": 8,
+				"MARS": 15
+			},
+			"DECEMBER": {
+				"BIRTHS": 45,
+				"DEATHS": 27,
+				"DIVS": "*",
+				"MARS": 42
+			},
+			"TOTAL": {
+				"BIRTHS": 494,
+				"DEATHS": 286,
+				"DIVS": "130†",
+				"MARS": 292
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"BIRTHS": 12,
+				"DEATHS": "*",
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 8,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MARCH": {
+				"BIRTHS": 7,
+				"DEATHS": 6,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"APRIL": {
+				"BIRTHS": 11,
+				"DEATHS": 7,
+				"DIVS": "*",
+				"MARS": 8
+			},
+			"MAY": {
+				"BIRTHS": 7,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"JUNE": {
+				"BIRTHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"JULY": {
+				"BIRTHS": 18,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"AUGUST": {
+				"BIRTHS": 12,
+				"DEATHS": 7,
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 14,
+				"DIVS": "*",
+				"MARS": 6
+			},
+			"OCTOBER": {
+				"BIRTHS": 11,
+				"DEATHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"DECEMBER": {
+				"BIRTHS": 9,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"TOTAL": {
+				"BIRTHS": "120†",
+				"DEATHS": "70†",
+				"DIVS": "30†",
+				"MARS": "50†"
+			},
+			"NOVEMBER": {
+				"DEATHS": 6,
+				"DIVS": "*",
+				"MARS": "*"
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"BIRTHS": 21,
+				"DEATHS": 34,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 10,
+				"DEATHS": 20,
+				"DIVS": 0,
+				"MARS": "*"
+			},
+			"MARCH": {
+				"BIRTHS": 14,
+				"DEATHS": 27,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"APRIL": {
+				"BIRTHS": 14,
+				"DEATHS": 18,
+				"DIVS": "*",
+				"MARS": 19
+			},
+			"MAY": {
+				"BIRTHS": 11,
+				"DEATHS": 27,
+				"DIVS": "*",
+				"MARS": 7
+			},
+			"JUNE": {
+				"BIRTHS": 17,
+				"DEATHS": 19,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"JULY": {
+				"BIRTHS": 11,
+				"DEATHS": 34,
+				"DIVS": "*",
+				"MARS": 8
+			},
+			"AUGUST": {
+				"BIRTHS": 14,
+				"DEATHS": 32,
+				"DIVS": "*",
+				"MARS": 13
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 13,
+				"DEATHS": 23,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"OCTOBER": {
+				"BIRTHS": 15,
+				"DEATHS": 22,
+				"DIVS": "*",
+				"MARS": 11
+			},
+			"NOVEMBER": {
+				"BIRTHS": 25,
+				"DEATHS": 27,
+				"DIVS": "*",
+				"MARS": 12
+			},
+			"DECEMBER": {
+				"BIRTHS": 22,
+				"DEATHS": 25,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"TOTAL": {
+				"BIRTHS": 187,
+				"DEATHS": 308,
+				"DIVS": "40†",
+				"MARS": "110†"
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"BIRTHS": 4361,
+				"DEATHS": 3012,
+				"DIVS": 1141,
+				"MARS": 2458
+			},
+			"FEBRUARY": {
+				"BIRTHS": 3952,
+				"DEATHS": 2540,
+				"DIVS": 971,
+				"MARS": 1680
+			},
+			"MARCH": {
+				"BIRTHS": 4319,
+				"DEATHS": 2924,
+				"DIVS": 978,
+				"MARS": 2527
+			},
+			"APRIL": {
+				"BIRTHS": 3870,
+				"DEATHS": 2755,
+				"DIVS": 1023,
+				"MARS": 2575
+			},
+			"MAY": {
+				"BIRTHS": 4044,
+				"DEATHS": 2755,
+				"DIVS": 1016,
+				"MARS": 2035
+			},
+			"JUNE": {
+				"BIRTHS": 4003,
+				"DEATHS": 2519,
+				"DIVS": 961,
+				"MARS": 1941
+			},
+			"JULY": {
+				"BIRTHS": 4478,
+				"DEATHS": 2656,
+				"DIVS": 1130,
+				"MARS": 1607
+			},
+			"AUGUST": {
+				"BIRTHS": 4639,
+				"DEATHS": 2602,
+				"DIVS": 1189,
+				"MARS": 1343
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 4426,
+				"DEATHS": 2627,
+				"DIVS": 1421,
+				"MARS": 1450
+			},
+			"OCTOBER": {
+				"BIRTHS": 4473,
+				"DEATHS": 2633,
+				"DIVS": 1510,
+				"MARS": 2706
+			},
+			"NOVEMBER": {
+				"BIRTHS": 4251,
+				"DEATHS": 2752,
+				"DIVS": 1184,
+				"MARS": 2419
+			},
+			"DECEMBER": {
+				"BIRTHS": 4218,
+				"DEATHS": 2740,
+				"DIVS": 1359,
+				"MARS": 2265
+			},
+			"TOTAL": {
+				"BIRTHS": 51034,
+				"DEATHS": 32515,
+				"DIVS": 13883,
+				"MARS": 25006
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"BIRTHS": 167,
+				"DEATHS": 322,
+				"DIVS": 25,
+				"MARS": 75
+			},
+			"FEBRUARY": {
+				"BIRTHS": 128,
+				"DEATHS": 272,
+				"DIVS": 38,
+				"MARS": 59
+			},
+			"MARCH": {
+				"BIRTHS": 141,
+				"DEATHS": 267,
+				"DIVS": 26,
+				"MARS": 88
+			},
+			"APRIL": {
+				"BIRTHS": 156,
+				"DEATHS": 281,
+				"DIVS": 40,
+				"MARS": 149
+			},
+			"MAY": {
+				"BIRTHS": 124,
+				"DEATHS": 308,
+				"DIVS": 41,
+				"MARS": 127
+			},
+			"JUNE": {
+				"BIRTHS": 130,
+				"DEATHS": 288,
+				"DIVS": 39,
+				"MARS": 100
+			},
+			"JULY": {
+				"BIRTHS": 151,
+				"DEATHS": 273,
+				"DIVS": 47,
+				"MARS": 95
+			},
+			"AUGUST": {
+				"BIRTHS": 164,
+				"DEATHS": 299,
+				"DIVS": 36,
+				"MARS": 65
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 145,
+				"DEATHS": 237,
+				"DIVS": 23,
+				"MARS": 124
+			},
+			"OCTOBER": {
+				"BIRTHS": 147,
+				"DEATHS": 252,
+				"DIVS": 25,
+				"MARS": 145
+			},
+			"NOVEMBER": {
+				"BIRTHS": 126,
+				"DEATHS": 272,
+				"DIVS": 38,
+				"MARS": 100
+			},
+			"DECEMBER": {
+				"BIRTHS": 144,
+				"DEATHS": 247,
+				"DIVS": 37,
+				"MARS": 105
+			},
+			"TOTAL": {
+				"BIRTHS": 1723,
+				"DEATHS": 3318,
+				"DIVS": 415,
+				"MARS": 1232
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"BIRTHS": 108,
+				"DEATHS": 129,
+				"DIVS": 25,
+				"MARS": 25
+			},
+			"FEBRUARY": {
+				"BIRTHS": 98,
+				"DEATHS": 106,
+				"DIVS": "14",
+				"MARS": 30
+			},
+			"MARCH": {
+				"BIRTHS": 109,
+				"DEATHS": 105,
+				"DIVS": 15,
+				"MARS": 19
+			},
+			"APRIL": {
+				"BIRTHS": 129,
+				"DEATHS": 106,
+				"DIVS": 15,
+				"MARS": 39
+			},
+			"MAY": {
+				"BIRTHS": 125,
+				"DEATHS": 89,
+				"DIVS": 21,
+				"MARS": 30
+			},
+			"JUNE": {
+				"BIRTHS": 122,
+				"DEATHS": 84,
+				"DIVS": 20,
+				"MARS": 18
+			},
+			"JULY": {
+				"BIRTHS": 122,
+				"DEATHS": 97,
+				"DIVS": 21,
+				"MARS": 38
+			},
+			"AUGUST": {
+				"BIRTHS": 136,
+				"DEATHS": 91,
+				"DIVS": 19,
+				"MARS": 52
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 105,
+				"DEATHS": 97,
+				"DIVS": 17,
+				"MARS": 75
+			},
+			"OCTOBER": {
+				"BIRTHS": 112,
+				"DEATHS": 104,
+				"DIVS": 15,
+				"MARS": 49
+			},
+			"NOVEMBER": {
+				"BIRTHS": 92,
+				"DEATHS": 93,
+				"DIVS": 15,
+				"MARS": 44
+			},
+			"DECEMBER": {
+				"BIRTHS": 97,
+				"DEATHS": 91,
+				"DIVS": 19,
+				"MARS": 10
+			},
+			"TOTAL": {
+				"BIRTHS": 1355,
+				"DEATHS": 1192,
+				"DIVS": 202,
+				"MARS": 429
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"BIRTHS": 893,
+				"DEATHS": 916,
+				"DIVS": 293,
+				"MARS": 496
+			},
+			"FEBRUARY": {
+				"BIRTHS": 785,
+				"DEATHS": 808,
+				"DIVS": 215,
+				"MARS": 335
+			},
+			"MARCH": {
+				"BIRTHS": 876,
+				"DEATHS": 924,
+				"DIVS": 245,
+				"MARS": 555
+			},
+			"APRIL": {
+				"BIRTHS": 813,
+				"DEATHS": 833,
+				"DIVS": 270,
+				"MARS": 528
+			},
+			"MAY": {
+				"BIRTHS": 837,
+				"DEATHS": 843,
+				"DIVS": 239,
+				"MARS": 494
+			},
+			"JUNE": {
+				"BIRTHS": 831,
+				"DEATHS": 741,
+				"DIVS": 262,
+				"MARS": 371
+			},
+			"JULY": {
+				"BIRTHS": 862,
+				"DEATHS": 854,
+				"DIVS": 277,
+				"MARS": 388
+			},
+			"AUGUST": {
+				"BIRTHS": 938,
+				"DEATHS": 813,
+				"DIVS": 324,
+				"MARS": 352
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 892,
+				"DEATHS": 769,
+				"DIVS": 245,
+				"MARS": 322
+			},
+			"OCTOBER": {
+				"BIRTHS": 901,
+				"DEATHS": 795,
+				"DIVS": 326,
+				"MARS": 607
+			},
+			"NOVEMBER": {
+				"BIRTHS": 816,
+				"DEATHS": 827,
+				"DIVS": 218,
+				"MARS": 535
+			},
+			"DECEMBER": {
+				"BIRTHS": 916,
+				"DEATHS": 820,
+				"DIVS": 284,
+				"MARS": 389
+			},
+			"TOTAL": {
+				"BIRTHS": 10360,
+				"DEATHS": 9943,
+				"DIVS": 3198,
+				"MARS": 5372
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"BIRTHS": 398,
+				"DEATHS": 277,
+				"DIVS": 103,
+				"MARS": 117
+			},
+			"FEBRUARY": {
+				"BIRTHS": 341,
+				"DEATHS": 282,
+				"DIVS": 68,
+				"MARS": 126
+			},
+			"MARCH": {
+				"BIRTHS": 364,
+				"DEATHS": 281,
+				"DIVS": 70,
+				"MARS": 141
+			},
+			"APRIL": {
+				"BIRTHS": 328,
+				"DEATHS": 279,
+				"DIVS": 78,
+				"MARS": 135
+			},
+			"MAY": {
+				"BIRTHS": 341,
+				"DEATHS": 308,
+				"DIVS": 70,
+				"MARS": 131
+			},
+			"JUNE": {
+				"BIRTHS": 332,
+				"DEATHS": 286,
+				"DIVS": 81,
+				"MARS": 88
+			},
+			"JULY": {
+				"BIRTHS": 386,
+				"DEATHS": 246,
+				"DIVS": 95,
+				"MARS": 88
+			},
+			"AUGUST": {
+				"BIRTHS": 402,
+				"DEATHS": 279,
+				"DIVS": 100,
+				"MARS": 76
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 404,
+				"DEATHS": 251,
+				"DIVS": 68,
+				"MARS": 94
+			},
+			"OCTOBER": {
+				"BIRTHS": 393,
+				"DEATHS": 258,
+				"DIVS": 73,
+				"MARS": 153
+			},
+			"NOVEMBER": {
+				"BIRTHS": 401,
+				"DEATHS": 292,
+				"DIVS": 81,
+				"MARS": 149
+			},
+			"DECEMBER": {
+				"BIRTHS": 402,
+				"DEATHS": 291,
+				"DIVS": 86,
+				"MARS": 128
+			},
+			"TOTAL": {
+				"BIRTHS": 4492,
+				"DEATHS": 3330,
+				"DIVS": 973,
+				"MARS": 1426
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"BIRTHS": 60,
+				"DEATHS": 28,
+				"DIVS": 18,
+				"MARS": 19
+			},
+			"FEBRUARY": {
+				"BIRTHS": 50,
+				"DEATHS": 20,
+				"DIVS": 9,
+				"MARS": 16
+			},
+			"MARCH": {
+				"BIRTHS": 44,
+				"DEATHS": 31,
+				"DIVS": 9,
+				"MARS": 11
+			},
+			"APRIL": {
+				"BIRTHS": 47,
+				"DEATHS": 21,
+				"DIVS": 16,
+				"MARS": 16
+			},
+			"MAY": {
+				"BIRTHS": 42,
+				"DEATHS": 33,
+				"DIVS": 11,
+				"MARS": 18
+			},
+			"JUNE": {
+				"BIRTHS": 47,
+				"DEATHS": 42,
+				"DIVS": 12,
+				"MARS": 12
+			},
+			"JULY": {
+				"BIRTHS": 57,
+				"DEATHS": 25,
+				"DIVS": 8,
+				"MARS": 21
+			},
+			"AUGUST": {
+				"BIRTHS": 52,
+				"DEATHS": 28,
+				"DIVS": 12,
+				"MARS": 22
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 45,
+				"DEATHS": 34,
+				"DIVS": 15,
+				"MARS": 8
+			},
+			"OCTOBER": {
+				"BIRTHS": 56,
+				"DEATHS": 22,
+				"DIVS": 17,
+				"MARS": 25
+			},
+			"NOVEMBER": {
+				"BIRTHS": 54,
+				"DEATHS": 24,
+				"DIVS": 9,
+				"MARS": 6
+			},
+			"DECEMBER": {
+				"BIRTHS": 44,
+				"DEATHS": 27,
+				"DIVS": 13,
+				"MARS": 19
+			},
+			"TOTAL": {
+				"BIRTHS": 598,
+				"DEATHS": 335,
+				"DIVS": 149,
+				"MARS": 193
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"BIRTHS": 152,
+				"DEATHS": 294,
+				"DIVS": 54,
+				"MARS": 74
+			},
+			"FEBRUARY": {
+				"BIRTHS": 135,
+				"DEATHS": 219,
+				"DIVS": 58,
+				"MARS": 66
+			},
+			"MARCH": {
+				"BIRTHS": 165,
+				"DEATHS": 269,
+				"DIVS": 61,
+				"MARS": 77
+			},
+			"APRIL": {
+				"BIRTHS": 146,
+				"DEATHS": 273,
+				"DIVS": 85,
+				"MARS": 127
+			},
+			"MAY": {
+				"BIRTHS": 132,
+				"DEATHS": 250,
+				"DIVS": 40,
+				"MARS": 138
+			},
+			"JUNE": {
+				"BIRTHS": 129,
+				"DEATHS": 249,
+				"DIVS": 79,
+				"MARS": 133
+			},
+			"JULY": {
+				"BIRTHS": 162,
+				"DEATHS": 237,
+				"DIVS": 55,
+				"MARS": 112
+			},
+			"AUGUST": {
+				"BIRTHS": 157,
+				"DEATHS": 260,
+				"DIVS": 73,
+				"MARS": 88
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 177,
+				"DEATHS": 243,
+				"DIVS": 61,
+				"MARS": 95
+			},
+			"OCTOBER": {
+				"BIRTHS": 145,
+				"DEATHS": 260,
+				"DIVS": 43,
+				"MARS": 189
+			},
+			"NOVEMBER": {
+				"BIRTHS": 142,
+				"DEATHS": 242,
+				"DIVS": 92,
+				"MARS": 123
+			},
+			"DECEMBER": {
+				"BIRTHS": 158,
+				"DEATHS": 265,
+				"DIVS": 97,
+				"MARS": 95
+			},
+			"TOTAL": {
+				"BIRTHS": 1800,
+				"DEATHS": 3061,
+				"DIVS": 798,
+				"MARS": 1317
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"BIRTHS": 257,
+				"DEATHS": 173,
+				"DIVS": 37,
+				"MARS": 92
+			},
+			"FEBRUARY": {
+				"BIRTHS": 219,
+				"DEATHS": 136,
+				"DIVS": "41",
+				"MARS": 114
+			},
+			"MARCH": {
+				"BIRTHS": 257,
+				"DEATHS": 165,
+				"DIVS": 52,
+				"MARS": 171
+			},
+			"APRIL": {
+				"BIRTHS": 205,
+				"DEATHS": 133,
+				"DIVS": 39,
+				"MARS": 121
+			},
+			"MAY": {
+				"BIRTHS": 228,
+				"DEATHS": 123,
+				"DIVS": 56,
+				"MARS": 97
+			},
+			"JUNE": {
+				"BIRTHS": 190,
+				"DEATHS": 127,
+				"DIVS": 57,
+				"MARS": 98
+			},
+			"JULY": {
+				"BIRTHS": 280,
+				"DEATHS": 126,
+				"DIVS": 67,
+				"MARS": 95
+			},
+			"AUGUST": {
+				"BIRTHS": 273,
+				"DEATHS": 115,
+				"DIVS": 20,
+				"MARS": 67
+			},
+			"SEPTEMBER": {
+				"BIRTHS": 266,
+				"DEATHS": 147,
+				"DIVS": 49,
+				"MARS": 102
+			},
+			"OCTOBER": {
+				"BIRTHS": 233,
+				"DEATHS": 146,
+				"DIVS": 34,
+				"MARS": 121
+			},
+			"NOVEMBER": {
+				"BIRTHS": 273,
+				"DEATHS": 112,
+				"DIVS": 55,
+				"MARS": 105
+			},
+			"DECEMBER": {
+				"BIRTHS": 263,
+				"DEATHS": 128,
+				"DIVS": 14,
+				"MARS": 129
+			},
+			"TOTAL": {
+				"BIRTHS": 2944,
+				"DEATHS": 1631,
+				"DIVS": 480,
+				"MARS": 1312
+			}
+		},
+		"UNKNOWN": {
+			"JANUARY": {
+				"BIRTHS": 0,
+				"DEATHS": 12
+			},
+			"FEBRUARY": {
+				"DEATHS": 6
+			},
+			"MARCH": {
+				"DEATHS": 8
+			},
+			"APRIL": {
+				"DEATHS": 12
+			},
+			"MAY": {
+				"DEATHS": 17
+			},
+			"JUNE": {
+				"DEATHS": 17
+			},
+			"JULY": {
+				"DEATHS": 27
+			},
+			"AUGUST": {
+				"DEATHS": 20
+			},
+			"SEPTEMBER": {
+				"DEATHS": 18
+			},
+			"OCTOBER": {
+				"DEATHS": 16
+			},
+			"NOVEMBER": {
+				"DEATHS": 15
+			},
+			"DECEMBER": {
+				"DEATHS": 14
+			}
+		}
+	},
+	"2020": {
+		"ARIZONA": {
+			"JANUARY": {
+				"BIRTHS": 6684,
+				"DEATHS": 5664,
+				"DIVS": "2,400†",
+				"MARS": "3,130†"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 6254,
+				"DEATHS": 5235,
+				"DIVS": "1,810†",
+				"MARS": "2,820†"
+			},
+			"MARCH": {
+				"BIRTHS": 6330,
+				"DEATHS": 5532,
+				"DIVS": "1,710†",
+				"MARS": 4015
+			},
+			"TOTAL": {
+				"BIRTHS": 19268,
+				"DEATHS": 16431,
+				"DIVS": 5916,
+				"MARS": 9963
+			},
+			"APRIL": {
+				"DIVS": "-",
+				"MARS": "-"
+			},
+			"MAY": {
+				"DIVS": "-",
+				"MARS": "-"
+			},
+			"JUNE": {
+				"DIVS": "-",
+				"MARS": "-"
+			},
+			"JULY": {
+				"DIVS": "-",
+				"MARS": "-"
+			},
+			"AUGUST": {
+				"DIVS": "-",
+				"MARS": "-"
+			},
+			"SEPTEMBER": {
+				"DIVS": "-",
+				"MARS": "-"
+			},
+			"OCTOBER": {
+				"DIVS": "-",
+				"MARS": "-"
+			},
+			"NOVEMBER": {
+				"DIVS": "-",
+				"MARS": "-"
+			},
+			"DECEMBER": {
+				"DIVS": "-",
+				"MARS": "-"
+			}
+		},
+		"APACHE": {
+			"JANUARY": {
+				"BIRTHS": 68,
+				"DEATHS": 53,
+				"DIVS": "*",
+				"MARS": 12
+			},
+			"FEBRUARY": {
+				"BIRTHS": 64,
+				"DEATHS": 46,
+				"DIVS": 9,
+				"MARS": "*"
+			},
+			"MARCH": {
+				"BIRTHS": 42,
+				"DEATHS": 57,
+				"DIVS": "*",
+				"MARS": 11
+			},
+			"TOTAL": {
+				"BIRTHS": 174,
+				"DEATHS": 156,
+				"DIVS": "20†",
+				"MARS": "30†"
+			}
+		},
+		"COCHISE": {
+			"JANUARY": {
+				"BIRTHS": 109,
+				"DEATHS": 114,
+				"DIVS": 26,
+				"MARS": 71
+			},
+			"FEBRUARY": {
+				"BIRTHS": 101,
+				"DEATHS": 134,
+				"DIVS": 26,
+				"MARS": 53
+			},
+			"MARCH": {
+				"BIRTHS": 122,
+				"DEATHS": 104,
+				"DIVS": 28,
+				"MARS": 59
+			},
+			"TOTAL": {
+				"BIRTHS": 332,
+				"DEATHS": 352,
+				"DIVS": 80,
+				"MARS": 183
+			}
+		},
+		"COCONINO": {
+			"JANUARY": {
+				"BIRTHS": 112,
+				"DEATHS": 84,
+				"DIVS": 23,
+				"MARS": 69
+			},
+			"FEBRUARY": {
+				"BIRTHS": 89,
+				"DEATHS": 70,
+				"DIVS": 35,
+				"MARS": 41
+			},
+			"MARCH": {
+				"BIRTHS": 99,
+				"DEATHS": 95,
+				"DIVS": 27,
+				"MARS": 76
+			},
+			"TOTAL": {
+				"BIRTHS": 300,
+				"DEATHS": 249,
+				"DIVS": 85,
+				"MARS": 186
+			}
+		},
+		"GILA": {
+			"JANUARY": {
+				"BIRTHS": 45,
+				"DEATHS": 65,
+				"DIVS": 11,
+				"MARS": 23
+			},
+			"FEBRUARY": {
+				"BIRTHS": 39,
+				"DEATHS": 75,
+				"DIVS": 8,
+				"MARS": 18
+			},
+			"MARCH": {
+				"BIRTHS": 37,
+				"DEATHS": 68,
+				"DIVS": 9,
+				"MARS": 22
+			},
+			"TOTAL": {
+				"BIRTHS": 121,
+				"DEATHS": 208,
+				"DIVS": 28,
+				"MARS": 63
+			}
+		},
+		"GRAHAM": {
+			"JANUARY": {
+				"BIRTHS": 40,
+				"DEATHS": 31,
+				"DIVS": 10,
+				"MARS": 20
+			},
+			"FEBRUARY": {
+				"BIRTHS": 45,
+				"DEATHS": 30,
+				"DIVS": 10,
+				"MARS": 12
+			},
+			"MARCH": {
+				"BIRTHS": 31,
+				"DEATHS": 32,
+				"DIVS": 15,
+				"MARS": 18
+			},
+			"TOTAL": {
+				"BIRTHS": 116,
+				"DIVS": 35,
+				"MARS": 50
+			}
+		},
+		"GREENLEE": {
+			"JANUARY": {
+				"BIRTHS": 11,
+				"DEATHS": 6,
+				"DIVS": 6,
+				"MARS": 6
+			},
+			"FEBRUARY": {
+				"BIRTHS": 10,
+				"DEATHS": 7,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"MARCH": {
+				"BIRTHS": 7,
+				"DEATHS": 8,
+				"DIVS": "*",
+				"MARS": 10
+			},
+			"TOTAL": {
+				"BIRTHS": 28,
+				"DEATHS": 21,
+				"DIVS": "20†",
+				"MARS": "20†"
+			}
+		},
+		"LA PAZ": {
+			"JANUARY": {
+				"BIRTHS": 15,
+				"DEATHS": 32,
+				"DIVS": "*",
+				"MARS": "*"
+			},
+			"FEBRUARY": {
+				"BIRTHS": 15,
+				"DEATHS": 17,
+				"DIVS": "*",
+				"MARS": 14
+			},
+			"MARCH": {
+				"BIRTHS": 12,
+				"DEATHS": 31,
+				"DIVS": "*",
+				"MARS": 17
+			},
+			"TOTAL": {
+				"BIRTHS": 42,
+				"DEATHS": 80,
+				"DIVS": "10†",
+				"MARS": "40†"
+			}
+		},
+		"MARICOPA": {
+			"JANUARY": {
+				"BIRTHS": 4319,
+				"DEATHS": 3093,
+				"DIVS": 1693,
+				"MARS": 2053
+			},
+			"FEBRUARY": {
+				"BIRTHS": 4004,
+				"DEATHS": 2834,
+				"DIVS": 1362,
+				"MARS": 1892
+			},
+			"MARCH": {
+				"BIRTHS": 4066,
+				"DEATHS": 2958,
+				"DIVS": 1130,
+				"MARS": 2741
+			},
+			"TOTAL": {
+				"BIRTHS": 12389,
+				"DEATHS": 8885,
+				"DIVS": 4185,
+				"MARS": 6686
+			}
+		},
+		"MOHAVE": {
+			"JANUARY": {
+				"BIRTHS": 135,
+				"DEATHS": 307,
+				"DIVS": 38,
+				"MARS": 45
+			},
+			"FEBRUARY": {
+				"BIRTHS": 135,
+				"DEATHS": 286,
+				"DIVS": 27,
+				"MARS": 19
+			},
+			"MARCH": {
+				"BIRTHS": 125,
+				"DEATHS": 294,
+				"DIVS": 30,
+				"MARS": 16
+			},
+			"TOTAL": {
+				"BIRTHS": 395,
+				"DEATHS": 887,
+				"DIVS": 95,
+				"MARS": 80
+			}
+		},
+		"NAVAJO": {
+			"JANUARY": {
+				"BIRTHS": 102,
+				"DEATHS": 93,
+				"DIVS": 16,
+				"MARS": 21
+			},
+			"FEBRUARY": {
+				"BIRTHS": 88,
+				"DEATHS": 124
+			},
+			"MARCH": {
+				"BIRTHS": 104,
+				"DEATHS": 124
+			},
+			"TOTAL": {
+				"BIRTHS": 294,
+				"DEATHS": 341,
+				"DIVS": 16,
+				"MARS": 21
+			}
+		},
+		"PIMA": {
+			"JANUARY": {
+				"BIRTHS": 869,
+				"DEATHS": 931,
+				"DIVS": 293,
+				"MARS": 496
+			},
+			"FEBRUARY": {
+				"BIRTHS": 807,
+				"DEATHS": 860,
+				"DIVS": 184,
+				"MARS": 416
+			},
+			"MARCH": {
+				"BIRTHS": 848,
+				"DEATHS": 938,
+				"DIVS": 244,
+				"MARS": 555
+			},
+			"TOTAL": {
+				"BIRTHS": 2524,
+				"DEATHS": 2729,
+				"DIVS": 721,
+				"MARS": 1467
+			}
+		},
+		"PINAL": {
+			"JANUARY": {
+				"BIRTHS": 393,
+				"DEATHS": 347,
+				"DIVS": 104,
+				"MARS": 111
+			},
+			"FEBRUARY": {
+				"BIRTHS": 408,
+				"DEATHS": 291,
+				"DIVS": 61,
+				"MARS": 130
+			},
+			"MARCH": {
+				"BIRTHS": 391,
+				"DEATHS": 336,
+				"DIVS": 95,
+				"MARS": 177
+			},
+			"TOTAL": {
+				"BIRTHS": 1192,
+				"DEATHS": 974,
+				"DIVS": 260,
+				"MARS": 418
+			}
+		},
+		"SANTA CRUZ": {
+			"JANUARY": {
+				"BIRTHS": 47,
+				"DEATHS": 23,
+				"DIVS": 10,
+				"MARS": 14
+			},
+			"FEBRUARY": {
+				"BIRTHS": 54,
+				"DEATHS": 28,
+				"DIVS": 12,
+				"MARS": 10
+			},
+			"MARCH": {
+				"BIRTHS": 51,
+				"DEATHS": 40,
+				"DIVS": 9,
+				"MARS": 15
+			},
+			"TOTAL": {
+				"BIRTHS": 152,
+				"DEATHS": 91,
+				"DIVS": 31,
+				"MARS": 39
+			}
+		},
+		"YAVAPAI": {
+			"JANUARY": {
+				"BIRTHS": 150,
+				"DEATHS": 300,
+				"DIVS": 58,
+				"MARS": 82
+			},
+			"FEBRUARY": {
+				"BIRTHS": 142,
+				"DEATHS": 273,
+				"DIVS": 63,
+				"MARS": 79
+			},
+			"MARCH": {
+				"BIRTHS": 138,
+				"DEATHS": 277,
+				"DIVS": 47,
+				"MARS": 126
+			},
+			"TOTAL": {
+				"BIRTHS": 430,
+				"DEATHS": 850,
+				"DIVS": 168,
+				"MARS": 287
+			}
+		},
+		"YUMA": {
+			"JANUARY": {
+				"BIRTHS": 267,
+				"DEATHS": 168,
+				"DIVS": 103,
+				"MARS": 98
+			},
+			"FEBRUARY": {
+				"BIRTHS": 253,
+				"DEATHS": 150,
+				"DIVS": "46",
+				"MARS": 131
+			},
+			"MARCH": {
+				"BIRTHS": 257,
+				"DEATHS": 162,
+				"DIVS": 67,
+				"MARS": 172
+			},
+			"TOTAL": {
+				"BIRTHS": 777,
+				"DEATHS": 480,
+				"DIVS": 170,
+				"MARS": 401
+			}
+		},
+		"UNKNOWN": {
+			"JANUARY": {
+				"BIRTHS": "*",
+				"DEATHS": 17
+			},
+			"FEBRUARY": {
+				"DEATHS": 10
+			},
+			"MARCH": {
+				"DEATHS": 8
+			}
+		}
+	},
+	"TYPE": "ALL"
+}

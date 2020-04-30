@@ -1,0 +1,33 @@
+{
+  "name": "azvitalstats",
+  "version": "0.1.0",
+  "description": "Public health data from Arizona Department of Public Health",
+  "main": "extract-all.js",
+  "dependencies": {
+    "@gridsome/transformer-json": "^0.2.1",
+    "download-file": "^0.1.5",
+    "glob": "^7.1.6",
+    "gridsome": "^0.7.14",
+    "lodash.assignin": "^4.2.0",
+    "lodash.foreach": "^4.5.0",
+    "lodash.keyby": "^4.6.0",
+    "lodash.mapkeys": "^4.6.0",
+    "lodash.mapvalues": "^4.6.0",
+    "lodash.merge": "^4.6.2",
+    "lodash.sum": "^4.0.2",
+    "lodash.values": "^4.3.0",
+    "xlsx": "^0.15.6"
+  },
+  "scripts": {
+    "download:latest": "node --experimental-modules download-latest.mjs",
+    "extract:latest": "node --experimental-modules extract-latest.mjs",
+    "extract:all": "node --experimental-modules extract-all.mjs",
+    "combine": "node --experimental-modules combine.mjs"
+  },
+  "author": "Dave Ryan",
+  "license": "MIT",
+  "devDependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "gridsome-plugin-tailwindcss": "^2.2.48"
+  }
+}

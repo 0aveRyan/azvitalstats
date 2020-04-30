@@ -1,0 +1,326 @@
+{
+	"ARIZONA": {
+		"REGION": "ARIZONA",
+		"JANUARY": 6931,
+		"FEBRUARY": 6147,
+		"MARCH": 6774,
+		"APRIL": 6285,
+		"MAY": 6507,
+		"JUNE": 6613,
+		"JULY": 6964,
+		"AUGUST": 7402,
+		"SEPTEMBER": 7200,
+		"OCTOBER": 7299,
+		"NOVEMBER": 6791,
+		"DECEMBER": 6751,
+		"TOTAL": 81664
+	},
+	"APACHE": {
+		"REGION": "APACHE",
+		"JANUARY": 78,
+		"FEBRUARY": 77,
+		"MARCH": 76,
+		"APRIL": 71,
+		"MAY": 72,
+		"JUNE": 82,
+		"JULY": 76,
+		"AUGUST": 91,
+		"SEPTEMBER": 90,
+		"OCTOBER": 83,
+		"NOVEMBER": 68,
+		"DECEMBER": 82,
+		"TOTAL": 946
+	},
+	"COCHISE": {
+		"REGION": "COCHISE",
+		"JANUARY": 91,
+		"FEBRUARY": 95,
+		"MARCH": 99,
+		"APRIL": 107,
+		"MAY": 111,
+		"JUNE": 117,
+		"JULY": 141,
+		"AUGUST": 102,
+		"SEPTEMBER": 99,
+		"OCTOBER": 128,
+		"NOVEMBER": 121,
+		"DECEMBER": 119,
+		"TOTAL": 1330
+	},
+	"COCONINO": {
+		"REGION": "COCONINO",
+		"JANUARY": 126,
+		"FEBRUARY": 114,
+		"MARCH": 120,
+		"APRIL": 139,
+		"MAY": 143,
+		"JUNE": 115,
+		"JULY": 137,
+		"AUGUST": 135,
+		"SEPTEMBER": 115,
+		"OCTOBER": 122,
+		"NOVEMBER": 114,
+		"DECEMBER": 126,
+		"TOTAL": 1506
+	},
+	"GILA": {
+		"REGION": "GILA",
+		"JANUARY": 38,
+		"FEBRUARY": 38,
+		"MARCH": 43,
+		"APRIL": 47,
+		"MAY": 53,
+		"JUNE": 47,
+		"JULY": 49,
+		"AUGUST": 56,
+		"SEPTEMBER": 46,
+		"OCTOBER": 45,
+		"NOVEMBER": 33,
+		"DECEMBER": 46,
+		"TOTAL": 541
+	},
+	"GRAHAM": {
+		"REGION": "GRAHAM",
+		"JANUARY": 43,
+		"FEBRUARY": 48,
+		"MARCH": 43,
+		"APRIL": 42,
+		"MAY": 45,
+		"JUNE": 46,
+		"JULY": 41,
+		"AUGUST": 50,
+		"SEPTEMBER": 47,
+		"OCTOBER": 42,
+		"NOVEMBER": 36,
+		"DECEMBER": 47,
+		"TOTAL": 530
+	},
+	"GREENLEE": {
+		"REGION": "GREENLEE",
+		"JANUARY": 17,
+		"FEBRUARY": 9,
+		"MARCH": 15,
+		"APRIL": 12,
+		"MAY": 16,
+		"JUNE": 12,
+		"JULY": 8,
+		"AUGUST": 8,
+		"SEPTEMBER": 20,
+		"OCTOBER": 15,
+		"NOVEMBER": 12,
+		"DECEMBER": 12,
+		"TOTAL": 156
+	},
+	"LA PAZ": {
+		"REGION": "LA PAZ",
+		"JANUARY": 19,
+		"FEBRUARY": 18,
+		"MARCH": 14,
+		"APRIL": 12,
+		"MAY": 16,
+		"JUNE": 9,
+		"JULY": 19,
+		"AUGUST": 18,
+		"SEPTEMBER": 11,
+		"OCTOBER": 24,
+		"NOVEMBER": 19,
+		"DECEMBER": 15,
+		"TOTAL": 194
+	},
+	"MARICOPA": {
+		"REGION": "MARICOPA",
+		"JANUARY": 4514,
+		"FEBRUARY": 3945,
+		"MARCH": 4380,
+		"APRIL": 4022,
+		"MAY": 4140,
+		"JUNE": 4263,
+		"JULY": 4390,
+		"AUGUST": 4779,
+		"SEPTEMBER": 4670,
+		"OCTOBER": 4704,
+		"NOVEMBER": 4355,
+		"DECEMBER": 4308,
+		"TOTAL": 52470
+	},
+	"MOHAVE": {
+		"REGION": "MOHAVE",
+		"JANUARY": 157,
+		"FEBRUARY": 129,
+		"MARCH": 132,
+		"APRIL": 138,
+		"MAY": 139,
+		"JUNE": 153,
+		"JULY": 154,
+		"AUGUST": 183,
+		"SEPTEMBER": 149,
+		"OCTOBER": 140,
+		"NOVEMBER": 144,
+		"DECEMBER": 116,
+		"TOTAL": 1734
+	},
+	"NAVAJO": {
+		"REGION": "NAVAJO",
+		"JANUARY": 103,
+		"FEBRUARY": 125,
+		"MARCH": 108,
+		"APRIL": 141,
+		"MAY": 116,
+		"JUNE": 119,
+		"JULY": 132,
+		"AUGUST": 133,
+		"SEPTEMBER": 124,
+		"OCTOBER": 131,
+		"NOVEMBER": 128,
+		"DECEMBER": 147,
+		"TOTAL": 1507
+	},
+	"PIMA": {
+		"REGION": "PIMA",
+		"JANUARY": 902,
+		"FEBRUARY": 820,
+		"MARCH": 945,
+		"APRIL": 806,
+		"MAY": 894,
+		"JUNE": 842,
+		"JULY": 956,
+		"AUGUST": 981,
+		"SEPTEMBER": 1001,
+		"OCTOBER": 950,
+		"NOVEMBER": 921,
+		"DECEMBER": 952,
+		"TOTAL": 10970
+	},
+	"PINAL": {
+		"REGION": "PINAL",
+		"JANUARY": 384,
+		"FEBRUARY": 322,
+		"MARCH": 343,
+		"APRIL": 335,
+		"MAY": 321,
+		"JUNE": 381,
+		"JULY": 380,
+		"AUGUST": 374,
+		"SEPTEMBER": 374,
+		"OCTOBER": 393,
+		"NOVEMBER": 411,
+		"DECEMBER": 366,
+		"TOTAL": 4384
+	},
+	"SANTA CRUZ": {
+		"REGION": "SANTA CRUZ",
+		"JANUARY": 49,
+		"FEBRUARY": 45,
+		"MARCH": 58,
+		"APRIL": 49,
+		"MAY": 61,
+		"JUNE": 47,
+		"JULY": 63,
+		"AUGUST": 60,
+		"SEPTEMBER": 46,
+		"OCTOBER": 52,
+		"NOVEMBER": 44,
+		"DECEMBER": 59,
+		"TOTAL": 633
+	},
+	"YAVAPAI": {
+		"REGION": "YAVAPAI",
+		"JANUARY": 153,
+		"FEBRUARY": 155,
+		"MARCH": 153,
+		"APRIL": 139,
+		"MAY": 169,
+		"JUNE": 141,
+		"JULY": 148,
+		"AUGUST": 161,
+		"SEPTEMBER": 140,
+		"OCTOBER": 180,
+		"NOVEMBER": 131,
+		"DECEMBER": 126,
+		"TOTAL": 1796
+	},
+	"YUMA": {
+		"REGION": "YUMA",
+		"JANUARY": 256,
+		"FEBRUARY": 206,
+		"MARCH": 243,
+		"APRIL": 224,
+		"MAY": 210,
+		"JUNE": 238,
+		"JULY": 268,
+		"AUGUST": 271,
+		"SEPTEMBER": 267,
+		"OCTOBER": 290,
+		"NOVEMBER": 254,
+		"DECEMBER": 229,
+		"TOTAL": 2956
+	},
+	"UNKNOWN": {
+		"REGION": "UNKNOWN",
+		"JANUARY": "*"
+	},
+	"TYPE": "BIRTHS",
+	"YEAR": 2017,
+	"NOTES": "Notes: * Cell suppressed due to non-zero count less than 6; † Sum rounded to nearest tens unit due to non-zero addend less than 6; The above table reflects the data collection and data entry as of 6/18/2018.",
+	"VALIDATION": {
+		"JANUARY": {
+			"MATCHES": false,
+			"REPORTED": 6931,
+			"CALCULATED": "6930*"
+		},
+		"FEBRUARY": {
+			"MATCHES": false,
+			"REPORTED": 6147,
+			"CALCULATED": 6146
+		},
+		"MARCH": {
+			"MATCHES": false,
+			"REPORTED": 6774,
+			"CALCULATED": 6772
+		},
+		"APRIL": {
+			"MATCHES": false,
+			"REPORTED": 6285,
+			"CALCULATED": 6284
+		},
+		"MAY": {
+			"MATCHES": false,
+			"REPORTED": 6507,
+			"CALCULATED": 6506
+		},
+		"JUNE": {
+			"MATCHES": false,
+			"REPORTED": 6613,
+			"CALCULATED": 6612
+		},
+		"JULY": {
+			"MATCHES": false,
+			"REPORTED": 6964,
+			"CALCULATED": 6962
+		},
+		"AUGUST": {
+			"MATCHES": true
+		},
+		"SEPTEMBER": {
+			"MATCHES": false,
+			"REPORTED": 7200,
+			"CALCULATED": 7199
+		},
+		"OCTOBER": {
+			"MATCHES": true
+		},
+		"NOVEMBER": {
+			"MATCHES": true
+		},
+		"DECEMBER": {
+			"MATCHES": false,
+			"REPORTED": 6751,
+			"CALCULATED": 6750
+		},
+		"TOTAL": {
+			"MATCHES": false,
+			"REPORTED": 81664,
+			"CALCULATED": 81653
+		}
+	}
+}

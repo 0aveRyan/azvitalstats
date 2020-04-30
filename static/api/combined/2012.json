@@ -1,0 +1,868 @@
+{
+	"APACHE": {
+		"JANUARY": {
+			"DIVS": 7,
+			"MARS": 9
+		},
+		"FEBRUARY": {
+			"DIVS": "*",
+			"MARS": 17
+		},
+		"MARCH": {
+			"DIVS": 0,
+			"MARS": 20
+		},
+		"APRIL": {
+			"DIVS": "*",
+			"MARS": 9
+		},
+		"MAY": {
+			"DIVS": "*",
+			"MARS": 18
+		},
+		"JUNE": {
+			"DIVS": "*",
+			"MARS": 24
+		},
+		"JULY": {
+			"DIVS": "*",
+			"MARS": 22
+		},
+		"AUGUST": {
+			"DIVS": 7,
+			"MARS": 14
+		},
+		"SEPTEMBER": {
+			"DIVS": 6,
+			"MARS": 15
+		},
+		"OCTOBER": {
+			"DIVS": 7,
+			"MARS": 18
+		},
+		"NOVEMBER": {
+			"DIVS": 9,
+			"MARS": 14
+		},
+		"DECEMBER": {
+			"DIVS": "*",
+			"MARS": 23
+		},
+		"TOTAL": {
+			"DIVS": "60†",
+			"MARS": 203
+		}
+	},
+	"COCHISE": {
+		"JANUARY": {
+			"DIVS": 67,
+			"MARS": 42
+		},
+		"FEBRUARY": {
+			"DIVS": 46,
+			"MARS": 44
+		},
+		"MARCH": {
+			"DIVS": 47,
+			"MARS": 79
+		},
+		"APRIL": {
+			"DIVS": 49,
+			"MARS": 39
+		},
+		"MAY": {
+			"DIVS": 56,
+			"MARS": "0"
+		},
+		"JUNE": {
+			"DIVS": 47,
+			"MARS": 67
+		},
+		"JULY": {
+			"DIVS": 48,
+			"MARS": 68
+		},
+		"AUGUST": {
+			"DIVS": 54,
+			"MARS": 99
+		},
+		"SEPTEMBER": {
+			"DIVS": 36,
+			"MARS": 63
+		},
+		"OCTOBER": {
+			"DIVS": 54,
+			"MARS": 70
+		},
+		"NOVEMBER": {
+			"DIVS": 46,
+			"MARS": 62
+		},
+		"DECEMBER": {
+			"DIVS": 30,
+			"MARS": 76
+		},
+		"TOTAL": {
+			"DIVS": 580,
+			"MARS": 709
+		}
+	},
+	"COCONINO": {
+		"JANUARY": {
+			"DIVS": 31,
+			"MARS": 67
+		},
+		"FEBRUARY": {
+			"DIVS": 20,
+			"MARS": 50
+		},
+		"MARCH": {
+			"DIVS": 37,
+			"MARS": 62
+		},
+		"APRIL": {
+			"DIVS": 43,
+			"MARS": 60
+		},
+		"MAY": {
+			"DIVS": 39,
+			"MARS": 80
+		},
+		"JUNE": {
+			"DIVS": 24,
+			"MARS": 120
+		},
+		"JULY": {
+			"DIVS": 41,
+			"MARS": 109
+		},
+		"AUGUST": {
+			"DIVS": 39,
+			"MARS": 87
+		},
+		"SEPTEMBER": {
+			"DIVS": 25,
+			"MARS": 98
+		},
+		"OCTOBER": {
+			"DIVS": 53,
+			"MARS": 103
+		},
+		"NOVEMBER": {
+			"DIVS": 36,
+			"MARS": 54
+		},
+		"DECEMBER": {
+			"DIVS": 31,
+			"MARS": 93
+		},
+		"TOTAL": {
+			"DIVS": 419,
+			"MARS": 983
+		}
+	},
+	"GILA": {
+		"JANUARY": {
+			"DIVS": 14,
+			"MARS": 18
+		},
+		"FEBRUARY": {
+			"DIVS": 17,
+			"MARS": 25
+		},
+		"MARCH": {
+			"DIVS": 22,
+			"MARS": 29
+		},
+		"APRIL": {
+			"DIVS": 21,
+			"MARS": 28
+		},
+		"MAY": {
+			"DIVS": 16,
+			"MARS": 25
+		},
+		"JUNE": {
+			"DIVS": 11,
+			"MARS": 22
+		},
+		"JULY": {
+			"DIVS": 15,
+			"MARS": 13
+		},
+		"AUGUST": {
+			"DIVS": 18,
+			"MARS": 12
+		},
+		"SEPTEMBER": {
+			"DIVS": 11,
+			"MARS": 25
+		},
+		"OCTOBER": {
+			"DIVS": 13,
+			"MARS": 38
+		},
+		"NOVEMBER": {
+			"DIVS": 7,
+			"MARS": 27
+		},
+		"DECEMBER": {
+			"DIVS": 7,
+			"MARS": 26
+		},
+		"TOTAL": {
+			"DIVS": 172,
+			"MARS": 288
+		}
+	},
+	"GRAHAM": {
+		"JANUARY": {
+			"DIVS": 15,
+			"MARS": 21
+		},
+		"FEBRUARY": {
+			"DIVS": 20,
+			"MARS": 14
+		},
+		"MARCH": {
+			"DIVS": 13,
+			"MARS": 18
+		},
+		"APRIL": {
+			"DIVS": 10,
+			"MARS": 40
+		},
+		"MAY": {
+			"DIVS": 9,
+			"MARS": 20
+		},
+		"JUNE": {
+			"DIVS": 13,
+			"MARS": 22
+		},
+		"JULY": {
+			"DIVS": 21,
+			"MARS": 18
+		},
+		"AUGUST": {
+			"DIVS": 12,
+			"MARS": 23
+		},
+		"SEPTEMBER": {
+			"DIVS": 14,
+			"MARS": 42
+		},
+		"OCTOBER": {
+			"DIVS": 19,
+			"MARS": 45
+		},
+		"NOVEMBER": {
+			"DIVS": 18,
+			"MARS": 21
+		},
+		"DECEMBER": {
+			"DIVS": 21,
+			"MARS": 20
+		},
+		"TOTAL": {
+			"DIVS": 185,
+			"MARS": 304
+		}
+	},
+	"GREENLEE": {
+		"JANUARY": {
+			"DIVS": "*",
+			"MARS": "*"
+		},
+		"FEBRUARY": {
+			"DIVS": "*",
+			"MARS": "*"
+		},
+		"MARCH": {
+			"DIVS": "*",
+			"MARS": "*"
+		},
+		"APRIL": {
+			"DIVS": 6,
+			"MARS": "*"
+		},
+		"MAY": {
+			"DIVS": "*",
+			"MARS": 8
+		},
+		"JUNE": {
+			"DIVS": "*",
+			"MARS": "*"
+		},
+		"JULY": {
+			"DIVS": "*",
+			"MARS": "*"
+		},
+		"AUGUST": {
+			"DIVS": "*",
+			"MARS": 6
+		},
+		"SEPTEMBER": {
+			"DIVS": "*",
+			"MARS": 0
+		},
+		"OCTOBER": {
+			"DIVS": 7,
+			"MARS": 8
+		},
+		"NOVEMBER": {
+			"DIVS": "*",
+			"MARS": "*"
+		},
+		"DECEMBER": {
+			"DIVS": 0,
+			"MARS": "*"
+		},
+		"TOTAL": {
+			"DIVS": "40†",
+			"MARS": "50†"
+		}
+	},
+	"LA PAZ": {
+		"JANUARY": {
+			"DIVS": "*",
+			"MARS": 38
+		},
+		"FEBRUARY": {
+			"DIVS": "*",
+			"MARS": 132
+		},
+		"MARCH": {
+			"DIVS": 7,
+			"MARS": 112
+		},
+		"APRIL": {
+			"DIVS": 0,
+			"MARS": 139
+		},
+		"MAY": {
+			"DIVS": "*",
+			"MARS": 106
+		},
+		"JUNE": {
+			"DIVS": "*",
+			"MARS": 48
+		},
+		"JULY": {
+			"DIVS": 0,
+			"MARS": 55
+		},
+		"AUGUST": {
+			"DIVS": "*",
+			"MARS": 66
+		},
+		"SEPTEMBER": {
+			"DIVS": "*",
+			"MARS": 33
+		},
+		"OCTOBER": {
+			"DIVS": "*",
+			"MARS": 134
+		},
+		"NOVEMBER": {
+			"DIVS": "*",
+			"MARS": 113
+		},
+		"DECEMBER": {
+			"DIVS": "*",
+			"MARS": 125
+		},
+		"TOTAL": {
+			"DIVS": "30†",
+			"MARS": 1101
+		}
+	},
+	"MARICOPA": {
+		"JANUARY": {
+			"DIVS": 1653,
+			"MARS": 11
+		},
+		"FEBRUARY": {
+			"DIVS": 1459,
+			"MARS": 11
+		},
+		"MARCH": {
+			"DIVS": 1583,
+			"MARS": 14
+		},
+		"APRIL": {
+			"DIVS": 1558,
+			"MARS": 12
+		},
+		"MAY": {
+			"DIVS": 1650,
+			"MARS": 12
+		},
+		"JUNE": {
+			"DIVS": 1507,
+			"MARS": 8
+		},
+		"JULY": {
+			"DIVS": 1587,
+			"MARS": 7
+		},
+		"AUGUST": {
+			"DIVS": 1786,
+			"MARS": "*"
+		},
+		"SEPTEMBER": {
+			"DIVS": 1536,
+			"MARS": 9
+		},
+		"OCTOBER": {
+			"DIVS": 1869,
+			"MARS": 12
+		},
+		"NOVEMBER": {
+			"DIVS": 1461,
+			"MARS": 13
+		},
+		"DECEMBER": {
+			"DIVS": 1398,
+			"MARS": 6
+		},
+		"TOTAL": {
+			"DIVS": 19047,
+			"MARS": "120†"
+		}
+	},
+	"MOHAVE": {
+		"JANUARY": {
+			"DIVS": 53,
+			"MARS": 1576
+		},
+		"FEBRUARY": {
+			"DIVS": 62,
+			"MARS": 1656
+		},
+		"MARCH": {
+			"DIVS": 49,
+			"MARS": 2137
+		},
+		"APRIL": {
+			"DIVS": 75,
+			"MARS": 2471
+		},
+		"MAY": {
+			"DIVS": 52,
+			"MARS": 2109
+		},
+		"JUNE": {
+			"DIVS": 62,
+			"MARS": 2214
+		},
+		"JULY": {
+			"DIVS": 39,
+			"MARS": 1615
+		},
+		"AUGUST": {
+			"DIVS": 57,
+			"MARS": 1463
+		},
+		"SEPTEMBER": {
+			"DIVS": 41,
+			"MARS": 1320
+		},
+		"OCTOBER": {
+			"DIVS": 48,
+			"MARS": 2482
+		},
+		"NOVEMBER": {
+			"DIVS": 47,
+			"MARS": 2457
+		},
+		"DECEMBER": {
+			"DIVS": 31,
+			"MARS": 2052
+		},
+		"TOTAL": {
+			"DIVS": 616,
+			"MARS": 23552
+		}
+	},
+	"NAVAJO": {
+		"JANUARY": {
+			"DIVS": 26,
+			"MARS": 89
+		},
+		"FEBRUARY": {
+			"DIVS": 16,
+			"MARS": 107
+		},
+		"MARCH": {
+			"DIVS": 22,
+			"MARS": 111
+		},
+		"APRIL": {
+			"DIVS": 24,
+			"MARS": 122
+		},
+		"MAY": {
+			"DIVS": 22,
+			"MARS": 139
+		},
+		"JUNE": {
+			"DIVS": 20,
+			"MARS": 123
+		},
+		"JULY": {
+			"DIVS": 15,
+			"MARS": 108
+		},
+		"AUGUST": {
+			"DIVS": 21,
+			"MARS": 81
+		},
+		"SEPTEMBER": {
+			"DIVS": 17,
+			"MARS": 81
+		},
+		"OCTOBER": {
+			"DIVS": 20,
+			"MARS": 134
+		},
+		"NOVEMBER": {
+			"DIVS": 20,
+			"MARS": 104
+		},
+		"DECEMBER": {
+			"DIVS": 22,
+			"MARS": 110
+		},
+		"TOTAL": {
+			"DIVS": 245,
+			"MARS": 1309
+		}
+	},
+	"PIMA": {
+		"JANUARY": {
+			"DIVS": 342,
+			"MARS": 44
+		},
+		"FEBRUARY": {
+			"DIVS": 293,
+			"MARS": 40
+		},
+		"MARCH": {
+			"DIVS": 317,
+			"MARS": 24
+		},
+		"APRIL": {
+			"DIVS": 315,
+			"MARS": 36
+		},
+		"MAY": {
+			"DIVS": 329,
+			"MARS": 23
+		},
+		"JUNE": {
+			"DIVS": 345,
+			"MARS": 70
+		},
+		"JULY": {
+			"DIVS": 304,
+			"MARS": 23
+		},
+		"AUGUST": {
+			"DIVS": 405,
+			"MARS": 61
+		},
+		"SEPTEMBER": {
+			"DIVS": 297,
+			"MARS": 40
+		},
+		"OCTOBER": {
+			"DIVS": 371,
+			"MARS": 38
+		},
+		"NOVEMBER": {
+			"DIVS": 312,
+			"MARS": 55
+		},
+		"DECEMBER": {
+			"DIVS": 287,
+			"MARS": 38
+		},
+		"TOTAL": {
+			"DIVS": 3917,
+			"MARS": 492
+		}
+	},
+	"PINAL": {
+		"JANUARY": {
+			"DIVS": 92,
+			"MARS": 390
+		},
+		"FEBRUARY": {
+			"DIVS": 85,
+			"MARS": 405
+		},
+		"MARCH": {
+			"DIVS": 87,
+			"MARS": 457
+		},
+		"APRIL": {
+			"DIVS": 82,
+			"MARS": 403
+		},
+		"MAY": {
+			"DIVS": 96,
+			"MARS": 600
+		},
+		"JUNE": {
+			"DIVS": 96,
+			"MARS": 402
+		},
+		"JULY": {
+			"DIVS": 100,
+			"MARS": 371
+		},
+		"AUGUST": {
+			"DIVS": 42,
+			"MARS": 463
+		},
+		"SEPTEMBER": {
+			"DIVS": 41,
+			"MARS": 217
+		},
+		"OCTOBER": {
+			"DIVS": 40,
+			"MARS": 663
+		},
+		"NOVEMBER": {
+			"DIVS": 52,
+			"MARS": 430
+		},
+		"DECEMBER": {
+			"DIVS": 35,
+			"MARS": 490
+		},
+		"TOTAL": {
+			"DIVS": 848,
+			"MARS": 5291
+		}
+	},
+	"SANTA CRUZ": {
+		"JANUARY": {
+			"DIVS": 0,
+			"MARS": 78
+		},
+		"FEBRUARY": {
+			"DIVS": 13,
+			"MARS": 93
+		},
+		"MARCH": {
+			"DIVS": 11,
+			"MARS": 111
+		},
+		"APRIL": {
+			"DIVS": "*",
+			"MARS": 130
+		},
+		"MAY": {
+			"DIVS": 0,
+			"MARS": 117
+		},
+		"JUNE": {
+			"DIVS": 12,
+			"MARS": 85
+		},
+		"JULY": {
+			"DIVS": 11,
+			"MARS": 82
+		},
+		"AUGUST": {
+			"DIVS": 10,
+			"MARS": 83
+		},
+		"SEPTEMBER": {
+			"DIVS": "*",
+			"MARS": 81
+		},
+		"OCTOBER": {
+			"DIVS": 6,
+			"MARS": 113
+		},
+		"NOVEMBER": {
+			"DIVS": "*",
+			"MARS": 118
+		},
+		"DECEMBER": {
+			"DIVS": 8,
+			"MARS": 125
+		},
+		"TOTAL": {
+			"DIVS": "80†",
+			"MARS": 1216
+		}
+	},
+	"YAVAPAI": {
+		"JANUARY": {
+			"DIVS": 86,
+			"MARS": 15
+		},
+		"FEBRUARY": {
+			"DIVS": 55,
+			"MARS": 17
+		},
+		"MARCH": {
+			"DIVS": 75,
+			"MARS": 8
+		},
+		"APRIL": {
+			"DIVS": 89,
+			"MARS": 13
+		},
+		"MAY": {
+			"DIVS": 97,
+			"MARS": 7
+		},
+		"JUNE": {
+			"DIVS": 106,
+			"MARS": 22
+		},
+		"JULY": {
+			"DIVS": 79,
+			"MARS": 13
+		},
+		"AUGUST": {
+			"DIVS": 101,
+			"MARS": 19
+		},
+		"SEPTEMBER": {
+			"DIVS": 80,
+			"MARS": 15
+		},
+		"OCTOBER": {
+			"DIVS": 97,
+			"MARS": 7
+		},
+		"NOVEMBER": {
+			"DIVS": 78,
+			"MARS": 12
+		},
+		"DECEMBER": {
+			"DIVS": 84,
+			"MARS": 13
+		},
+		"TOTAL": {
+			"DIVS": 1027,
+			"MARS": 161
+		}
+	},
+	"YUMA": {
+		"JANUARY": {
+			"DIVS": 76,
+			"MARS": 76
+		},
+		"FEBRUARY": {
+			"DIVS": 60,
+			"MARS": 71
+		},
+		"MARCH": {
+			"DIVS": 79,
+			"MARS": 97
+		},
+		"APRIL": {
+			"DIVS": 83,
+			"MARS": 75
+		},
+		"MAY": {
+			"DIVS": 49,
+			"MARS": 118
+		},
+		"JUNE": {
+			"DIVS": 59,
+			"MARS": 141
+		},
+		"JULY": {
+			"DIVS": 74,
+			"MARS": 131
+		},
+		"AUGUST": {
+			"DIVS": 82,
+			"MARS": 101
+		},
+		"SEPTEMBER": {
+			"DIVS": 71,
+			"MARS": 125
+		},
+		"OCTOBER": {
+			"DIVS": 42,
+			"MARS": 161
+		},
+		"NOVEMBER": {
+			"DIVS": 57,
+			"MARS": 89
+		},
+		"DECEMBER": {
+			"DIVS": 69,
+			"MARS": 99
+		},
+		"TOTAL": {
+			"DIVS": 801,
+			"MARS": 1284
+		}
+	},
+	"ARIZONA": {
+		"JANUARY": {
+			"DIVS": "2,470†",
+			"MARS": "2,480†"
+		},
+		"FEBRUARY": {
+			"DIVS": "2,150†",
+			"MARS": "2,690†"
+		},
+		"MARCH": {
+			"DIVS": "2,350†",
+			"MARS": "3,280†"
+		},
+		"APRIL": {
+			"DIVS": "2,360†",
+			"MARS": "3,580†"
+		},
+		"MAY": {
+			"DIVS": "2,430†",
+			"MARS": 3382
+		},
+		"JUNE": {
+			"DIVS": "2,310†",
+			"MARS": "3,370†"
+		},
+		"JULY": {
+			"DIVS": "2,340†",
+			"MARS": "2,640†"
+		},
+		"AUGUST": {
+			"DIVS": "2,640†",
+			"MARS": "2,580†"
+		},
+		"SEPTEMBER": {
+			"DIVS": "2,190†",
+			"MARS": 2164
+		},
+		"OCTOBER": {
+			"DIVS": "2,650†",
+			"MARS": 4026
+		},
+		"NOVEMBER": {
+			"DIVS": "2,150†",
+			"MARS": "3,570†"
+		},
+		"DECEMBER": {
+			"DIVS": "2,030†",
+			"MARS": "3,300†"
+		},
+		"TOTAL": {
+			"DIVS": 28072,
+			"MARS": 37064
+		}
+	},
+	"TYPE": "COMBINED",
+	"YEAR": "2012"
+}

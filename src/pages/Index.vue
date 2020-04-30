@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1>Arizona Population Healths & Vital Statistics</h1>
+    <h1>Arizona Population Health & Vital Statistics</h1>
 
     <p>
     Scrapes Arizona Department of Health Services <strong><a href="https://pub.azdhs.gov/health-stats/mu/index.php">Population Health & Vital Statistics</a></strong> spreadsheets once a day, normalizes data and creates JSON feeds.

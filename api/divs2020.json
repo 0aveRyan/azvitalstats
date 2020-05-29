@@ -4,6 +4,7 @@
 		"JANUARY": "*",
 		"FEBRUARY": 9,
 		"MARCH": "*",
+		"APRIL": 0,
 		"TOTAL": "20†"
 	},
 	"COCHISE": {
@@ -11,34 +12,39 @@
 		"JANUARY": 26,
 		"FEBRUARY": 26,
 		"MARCH": 28,
-		"TOTAL": 80
+		"APRIL": 24,
+		"TOTAL": 104
 	},
 	"COCONINO": {
 		"REGION": "COCONINO",
 		"JANUARY": 23,
 		"FEBRUARY": 35,
 		"MARCH": 27,
-		"TOTAL": 85
+		"APRIL": 21,
+		"TOTAL": 106
 	},
 	"GILA": {
 		"REGION": "GILA",
 		"JANUARY": 11,
 		"FEBRUARY": 8,
 		"MARCH": 9,
-		"TOTAL": 28
+		"APRIL": 15,
+		"TOTAL": 43
 	},
 	"GRAHAM": {
 		"REGION": "GRAHAM",
 		"JANUARY": 10,
 		"FEBRUARY": 10,
 		"MARCH": 15,
-		"TOTAL": 35
+		"APRIL": 6,
+		"TOTAL": 41
 	},
 	"GREENLEE": {
 		"REGION": "GREENLEE",
 		"JANUARY": 6,
 		"FEBRUARY": "*",
 		"MARCH": "*",
+		"APRIL": "*",
 		"TOTAL": "20†"
 	},
 	"LA PAZ": {
@@ -46,6 +52,7 @@
 		"JANUARY": "*",
 		"FEBRUARY": "*",
 		"MARCH": "*",
+		"APRIL": "*",
 		"TOTAL": "10†"
 	},
 	"MARICOPA": {
@@ -53,14 +60,16 @@
 		"JANUARY": 1693,
 		"FEBRUARY": 1362,
 		"MARCH": 1130,
-		"TOTAL": 4185
+		"APRIL": 524,
+		"TOTAL": 4709
 	},
 	"MOHAVE": {
 		"REGION": "MOHAVE",
 		"JANUARY": 38,
 		"FEBRUARY": 27,
 		"MARCH": 30,
-		"TOTAL": 95
+		"APRIL": 24,
+		"TOTAL": 119
 	},
 	"NAVAJO": {
 		"REGION": "NAVAJO",
@@ -72,14 +81,16 @@
 		"JANUARY": 293,
 		"FEBRUARY": 184,
 		"MARCH": 244,
-		"TOTAL": 721
+		"APRIL": 106,
+		"TOTAL": 827
 	},
 	"PINAL": {
 		"REGION": "PINAL",
 		"JANUARY": 104,
 		"FEBRUARY": 61,
 		"MARCH": 95,
-		"TOTAL": 260
+		"APRIL": 79,
+		"TOTAL": 339
 	},
 	"SANTA CRUZ": {
 		"REGION": "SANTA CRUZ",
@@ -93,7 +104,8 @@
 		"JANUARY": 58,
 		"FEBRUARY": 63,
 		"MARCH": 47,
-		"TOTAL": 168
+		"APRIL": 69,
+		"TOTAL": 237
 	},
 	"YUMA": {
 		"REGION": "YUMA",
@@ -107,7 +119,7 @@
 		"JANUARY": "2,400†",
 		"FEBRUARY": "1,810†",
 		"MARCH": "1,710†",
-		"APRIL": "-",
+		"APRIL": "880†",
 		"MAY": "-",
 		"JUNE": "-",
 		"JULY": "-",
@@ -116,7 +128,7 @@
 		"OCTOBER": "-",
 		"NOVEMBER": "-",
 		"DECEMBER": "-",
-		"TOTAL": 5916
+		"TOTAL": 6791
 	},
 	"TYPE": "DIVS",
 	"YEAR": 2020,
@@ -139,8 +151,8 @@
 		},
 		"APRIL": {
 			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"REPORTED": "880†",
+			"CALCULATED": "66**5242410679690"
 		},
 		"MAY": {
 			"MATCHES": false,
@@ -184,8 +196,8 @@
 		},
 		"TOTAL": {
 			"MATCHES": false,
-			"REPORTED": 5916,
-			"CALCULATED": "20†8085283520†10†41859516721260311681700"
+			"REPORTED": 6791,
+			"CALCULATED": "20†104106434120†10†470911916827339312371700"
 		}
 	}
 }

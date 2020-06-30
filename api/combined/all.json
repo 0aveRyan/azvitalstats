@@ -10933,59 +10933,59 @@
 				"BIRTHS": 6258,
 				"DEATHS": 5262,
 				"DIVS": "1,810†",
-				"MARS": "2,820†"
+				"MARS": "2,840†"
 			},
 			"MARCH": {
 				"BIRTHS": 6348,
 				"DEATHS": 5718,
-				"DIVS": "1,710†",
+				"DIVS": "1,730†",
 				"MARS": 4015
 			},
 			"APRIL": {
 				"BIRTHS": 5949,
 				"DEATHS": 5722,
-				"DIVS": "880†",
-				"MARS": "2,450†"
+				"DIVS": "940†",
+				"MARS": "2,560†"
 			},
 			"MAY": {
 				"BIRTHS": 5993,
 				"DEATHS": 5619,
-				"DIVS": "-",
-				"MARS": "-"
+				"DIVS": "1,200†",
+				"MARS": "1,830†"
 			},
 			"TOTAL": {
 				"BIRTHS": 31238,
 				"DEATHS": 28000,
-				"DIVS": 6791,
-				"MARS": 12413
+				"DIVS": 8074,
+				"MARS": 14362
 			},
 			"JUNE": {
-				"DIVS": "-",
-				"MARS": "-"
+				"DIVS": 0,
+				"MARS": 0
 			},
 			"JULY": {
-				"DIVS": "-",
-				"MARS": "-"
+				"DIVS": 0,
+				"MARS": 0
 			},
 			"AUGUST": {
-				"DIVS": "-",
-				"MARS": "-"
+				"DIVS": 0,
+				"MARS": 0
 			},
 			"SEPTEMBER": {
-				"DIVS": "-",
-				"MARS": "-"
+				"DIVS": 0,
+				"MARS": 0
 			},
 			"OCTOBER": {
-				"DIVS": "-",
-				"MARS": "-"
+				"DIVS": 0,
+				"MARS": 0
 			},
 			"NOVEMBER": {
-				"DIVS": "-",
-				"MARS": "-"
+				"DIVS": 0,
+				"MARS": 0
 			},
 			"DECEMBER": {
-				"DIVS": "-",
-				"MARS": "-"
+				"DIVS": 0,
+				"MARS": 0
 			}
 		},
 		"APACHE": {
@@ -11015,13 +11015,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 71,
-				"DEATHS": 86
+				"DEATHS": 86,
+				"DIVS": "*",
+				"MARS": "*"
 			},
 			"TOTAL": {
 				"BIRTHS": 323,
 				"DEATHS": 341,
 				"DIVS": "20†",
-				"MARS": "30†"
+				"MARS": "40†"
 			}
 		},
 		"COCHISE": {
@@ -11051,13 +11053,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 102,
-				"DEATHS": 98
+				"DEATHS": 98,
+				"DIVS": 29,
+				"MARS": 27
 			},
 			"TOTAL": {
 				"BIRTHS": 538,
 				"DEATHS": 574,
-				"DIVS": 104,
-				"MARS": 200
+				"DIVS": 133,
+				"MARS": 227
 			}
 		},
 		"COCONINO": {
@@ -11087,13 +11091,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 124,
-				"DEATHS": 92
+				"DEATHS": 92,
+				"DIVS": 15,
+				"MARS": 40
 			},
 			"TOTAL": {
 				"BIRTHS": 523,
 				"DEATHS": 457,
-				"DIVS": 106,
-				"MARS": 232
+				"DIVS": 121,
+				"MARS": 272
 			}
 		},
 		"GILA": {
@@ -11123,13 +11129,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 43,
-				"DEATHS": 62
+				"DEATHS": 62,
+				"DIVS": 7,
+				"MARS": 15
 			},
 			"TOTAL": {
 				"BIRTHS": 196,
 				"DEATHS": 346,
-				"DIVS": 43,
-				"MARS": 72
+				"DIVS": 50,
+				"MARS": 87
 			}
 		},
 		"GRAHAM": {
@@ -11159,13 +11167,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 39,
-				"DEATHS": 30
+				"DEATHS": 30,
+				"DIVS": 14,
+				"MARS": 27
 			},
 			"TOTAL": {
 				"BIRTHS": 193,
 				"DEATHS": 144,
-				"DIVS": 41,
-				"MARS": 92
+				"DIVS": 55,
+				"MARS": 119
 			}
 		},
 		"GREENLEE": {
@@ -11195,7 +11205,9 @@
 			},
 			"MAY": {
 				"BIRTHS": 12,
-				"DEATHS": 6
+				"DEATHS": 6,
+				"DIVS": "*",
+				"MARS": "*"
 			},
 			"TOTAL": {
 				"BIRTHS": 49,
@@ -11231,13 +11243,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 12,
-				"DEATHS": 23
+				"DEATHS": 23,
+				"DIVS": "*",
+				"MARS": 7
 			},
 			"TOTAL": {
 				"BIRTHS": 68,
 				"DEATHS": 124,
-				"DIVS": "10†",
-				"MARS": "50†"
+				"DIVS": "20†",
+				"MARS": "60†"
 			}
 		},
 		"MARICOPA": {
@@ -11267,13 +11281,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 3852,
-				"DEATHS": 3085
+				"DEATHS": 3085,
+				"DIVS": 820,
+				"MARS": 1262
 			},
 			"TOTAL": {
 				"BIRTHS": 20080,
 				"DEATHS": 15159,
-				"DIVS": 4709,
-				"MARS": 8395
+				"DIVS": 5529,
+				"MARS": 9657
 			}
 		},
 		"MOHAVE": {
@@ -11303,13 +11319,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 142,
-				"DEATHS": 308
+				"DEATHS": 308,
+				"DIVS": 65,
+				"MARS": 75
 			},
 			"TOTAL": {
 				"BIRTHS": 659,
 				"DEATHS": 1508,
-				"DIVS": 119,
-				"MARS": 188
+				"DIVS": 184,
+				"MARS": 263
 			}
 		},
 		"NAVAJO": {
@@ -11321,15 +11339,21 @@
 			},
 			"FEBRUARY": {
 				"BIRTHS": 88,
-				"DEATHS": 125
+				"DEATHS": 125,
+				"DIVS": "11",
+				"MARS": 16
 			},
 			"MARCH": {
 				"BIRTHS": 105,
-				"DEATHS": 129
+				"DEATHS": 129,
+				"DIVS": 18,
+				"MARS": 0
 			},
 			"APRIL": {
 				"BIRTHS": 109,
-				"DEATHS": 110
+				"DEATHS": 110,
+				"DIVS": 22,
+				"MARS": 24
 			},
 			"MAY": {
 				"BIRTHS": 105,
@@ -11338,8 +11362,8 @@
 			"TOTAL": {
 				"BIRTHS": 509,
 				"DEATHS": 594,
-				"DIVS": 16,
-				"MARS": 21
+				"DIVS": 56,
+				"MARS": 61
 			}
 		},
 		"PIMA": {
@@ -11369,13 +11393,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 778,
-				"DEATHS": 888
+				"DEATHS": 888,
+				"DIVS": 148,
+				"MARS": 214
 			},
 			"TOTAL": {
 				"BIRTHS": 4074,
 				"DEATHS": 4664,
-				"DIVS": 827,
-				"MARS": 1774
+				"DIVS": 975,
+				"MARS": 1988
 			}
 		},
 		"PINAL": {
@@ -11405,13 +11431,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 354,
-				"DEATHS": 350
+				"DEATHS": 350,
+				"DIVS": 65,
+				"MARS": 80
 			},
 			"TOTAL": {
 				"BIRTHS": 1878,
 				"DEATHS": 1665,
-				"DIVS": 339,
-				"MARS": 527
+				"DIVS": 404,
+				"MARS": 607
 			}
 		},
 		"SANTA CRUZ": {
@@ -11435,7 +11463,9 @@
 			},
 			"APRIL": {
 				"BIRTHS": 50,
-				"DEATHS": 20
+				"DEATHS": 20,
+				"DIVS": 7,
+				"MARS": 13
 			},
 			"MAY": {
 				"BIRTHS": 51,
@@ -11444,8 +11474,8 @@
 			"TOTAL": {
 				"BIRTHS": 253,
 				"DEATHS": 136,
-				"DIVS": 31,
-				"MARS": 39
+				"DIVS": 38,
+				"MARS": 52
 			}
 		},
 		"YAVAPAI": {
@@ -11475,13 +11505,15 @@
 			},
 			"MAY": {
 				"BIRTHS": 115,
-				"DEATHS": 259
+				"DEATHS": 259,
+				"DIVS": 27,
+				"MARS": 74
 			},
 			"TOTAL": {
 				"BIRTHS": 687,
 				"DEATHS": 1391,
-				"DIVS": 237,
-				"MARS": 364
+				"DIVS": 264,
+				"MARS": 438
 			}
 		},
 		"YUMA": {
@@ -11505,7 +11537,9 @@
 			},
 			"APRIL": {
 				"BIRTHS": 236,
-				"DEATHS": 156
+				"DEATHS": 156,
+				"DIVS": 36,
+				"MARS": 70
 			},
 			"MAY": {
 				"BIRTHS": 192,
@@ -11514,8 +11548,8 @@
 			"TOTAL": {
 				"BIRTHS": 1204,
 				"DEATHS": 793,
-				"DIVS": 170,
-				"MARS": 401
+				"DIVS": 206,
+				"MARS": 471
 			}
 		},
 		"UNKNOWN": {

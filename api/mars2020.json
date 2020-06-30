@@ -5,7 +5,8 @@
 		"FEBRUARY": "*",
 		"MARCH": 11,
 		"APRIL": 7,
-		"TOTAL": "30†"
+		"MAY": "*",
+		"TOTAL": "40†"
 	},
 	"COCHISE": {
 		"REGION": "COCHISE",
@@ -13,7 +14,8 @@
 		"FEBRUARY": 53,
 		"MARCH": 59,
 		"APRIL": 17,
-		"TOTAL": 200
+		"MAY": 27,
+		"TOTAL": 227
 	},
 	"COCONINO": {
 		"REGION": "COCONINO",
@@ -21,7 +23,8 @@
 		"FEBRUARY": 41,
 		"MARCH": 76,
 		"APRIL": 46,
-		"TOTAL": 232
+		"MAY": 40,
+		"TOTAL": 272
 	},
 	"GILA": {
 		"REGION": "GILA",
@@ -29,7 +32,8 @@
 		"FEBRUARY": 18,
 		"MARCH": 22,
 		"APRIL": 9,
-		"TOTAL": 72
+		"MAY": 15,
+		"TOTAL": 87
 	},
 	"GRAHAM": {
 		"REGION": "GRAHAM",
@@ -37,7 +41,8 @@
 		"FEBRUARY": 12,
 		"MARCH": 18,
 		"APRIL": 42,
-		"TOTAL": 92
+		"MAY": 27,
+		"TOTAL": 119
 	},
 	"GREENLEE": {
 		"REGION": "GREENLEE",
@@ -45,6 +50,7 @@
 		"FEBRUARY": "*",
 		"MARCH": 10,
 		"APRIL": "*",
+		"MAY": "*",
 		"TOTAL": "20†"
 	},
 	"LA PAZ": {
@@ -53,7 +59,8 @@
 		"FEBRUARY": 14,
 		"MARCH": 17,
 		"APRIL": 18,
-		"TOTAL": "50†"
+		"MAY": 7,
+		"TOTAL": "60†"
 	},
 	"MARICOPA": {
 		"REGION": "MARICOPA",
@@ -61,7 +68,8 @@
 		"FEBRUARY": 1892,
 		"MARCH": 2741,
 		"APRIL": 1709,
-		"TOTAL": 8395
+		"MAY": 1262,
+		"TOTAL": 9657
 	},
 	"MOHAVE": {
 		"REGION": "MOHAVE",
@@ -69,12 +77,16 @@
 		"FEBRUARY": 19,
 		"MARCH": 16,
 		"APRIL": 108,
-		"TOTAL": 188
+		"MAY": 75,
+		"TOTAL": 263
 	},
 	"NAVAJO": {
 		"REGION": "NAVAJO",
 		"JANUARY": 21,
-		"TOTAL": 21
+		"FEBRUARY": 16,
+		"MARCH": 0,
+		"APRIL": 24,
+		"TOTAL": 61
 	},
 	"PIMA": {
 		"REGION": "PIMA",
@@ -82,7 +94,8 @@
 		"FEBRUARY": 416,
 		"MARCH": 555,
 		"APRIL": 307,
-		"TOTAL": 1774
+		"MAY": 214,
+		"TOTAL": 1988
 	},
 	"PINAL": {
 		"REGION": "PINAL",
@@ -90,14 +103,16 @@
 		"FEBRUARY": 130,
 		"MARCH": 177,
 		"APRIL": 109,
-		"TOTAL": 527
+		"MAY": 80,
+		"TOTAL": 607
 	},
 	"SANTA CRUZ": {
 		"REGION": "SANTA CRUZ",
 		"JANUARY": 14,
 		"FEBRUARY": 10,
 		"MARCH": 15,
-		"TOTAL": 39
+		"APRIL": 13,
+		"TOTAL": 52
 	},
 	"YAVAPAI": {
 		"REGION": "YAVAPAI",
@@ -105,30 +120,32 @@
 		"FEBRUARY": 79,
 		"MARCH": 126,
 		"APRIL": 77,
-		"TOTAL": 364
+		"MAY": 74,
+		"TOTAL": 438
 	},
 	"YUMA": {
 		"REGION": "YUMA",
 		"JANUARY": 98,
 		"FEBRUARY": 131,
 		"MARCH": 172,
-		"TOTAL": 401
+		"APRIL": 70,
+		"TOTAL": 471
 	},
 	"ARIZONA": {
 		"REGION": "ARIZONA",
 		"JANUARY": "3,130†",
-		"FEBRUARY": "2,820†",
+		"FEBRUARY": "2,840†",
 		"MARCH": 4015,
-		"APRIL": "2,450†",
-		"MAY": "-",
-		"JUNE": "-",
-		"JULY": "-",
-		"AUGUST": "-",
-		"SEPTEMBER": "-",
-		"OCTOBER": "-",
-		"NOVEMBER": "-",
-		"DECEMBER": "-",
-		"TOTAL": 12413
+		"APRIL": "2,560†",
+		"MAY": "1,830†",
+		"JUNE": 0,
+		"JULY": 0,
+		"AUGUST": 0,
+		"SEPTEMBER": 0,
+		"OCTOBER": 0,
+		"NOVEMBER": 0,
+		"DECEMBER": 0,
+		"TOTAL": 14362
 	},
 	"TYPE": "MARS",
 	"YEAR": 2020,
@@ -141,61 +158,47 @@
 		},
 		"FEBRUARY": {
 			"MATCHES": false,
-			"REPORTED": "2,820†",
-			"CALCULATED": "*53411812*1418921941613010791310"
+			"REPORTED": "2,840†",
+			"CALCULATED": "*53411812*141892191641613010791310"
 		},
 		"MARCH": {
 			"MATCHES": true
 		},
 		"APRIL": {
 			"MATCHES": false,
-			"REPORTED": "2,450†",
-			"CALCULATED": "121*181709108307109770"
+			"REPORTED": "2,560†",
+			"CALCULATED": "121*181709108243071091377700"
 		},
 		"MAY": {
 			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"REPORTED": "1,830†",
+			"CALCULATED": "*27401527*712627521480740"
 		},
 		"JUNE": {
-			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"MATCHES": true
 		},
 		"JULY": {
-			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"MATCHES": true
 		},
 		"AUGUST": {
-			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"MATCHES": true
 		},
 		"SEPTEMBER": {
-			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"MATCHES": true
 		},
 		"OCTOBER": {
-			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"MATCHES": true
 		},
 		"NOVEMBER": {
-			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"MATCHES": true
 		},
 		"DECEMBER": {
-			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"MATCHES": true
 		},
 		"TOTAL": {
 			"MATCHES": false,
-			"REPORTED": 12413,
-			"CALCULATED": "30†200232729220†50†8395188211774527393644010"
+			"REPORTED": 14362,
+			"CALCULATED": "40†2272728711920†60†9657263611988607524384710"
 		}
 	}
 }

@@ -161,18 +161,16 @@
 	},
 	"UNKNOWN": {
 		"REGION": "UNKNOWN",
-		"JANUARY": 2,
-		"APRIL": 1,
-		"MAY": 1,
-		"JUNE": 1,
-		"TOTAL": 5
+		"JANUARY": "*"
 	},
 	"TYPE": "BIRTHS",
 	"YEAR": 2020,
-	"NOTES": "The above table reflects the data collection and data entry as of 07/15/2020.",
+	"NOTES": "Notes: * Cell suppressed due to non-zero count less than 6; † Sum rounded to nearest tens unit due to non-zero addend less than 6; The above table reflects the data collection and data entry as of 7/15/2020.",
 	"VALIDATION": {
 		"JANUARY": {
-			"MATCHES": true
+			"MATCHES": false,
+			"REPORTED": 6689,
+			"CALCULATED": "6687*"
 		},
 		"FEBRUARY": {
 			"MATCHES": true
@@ -181,16 +179,24 @@
 			"MATCHES": true
 		},
 		"APRIL": {
-			"MATCHES": true
+			"MATCHES": false,
+			"REPORTED": 5952,
+			"CALCULATED": 5951
 		},
 		"MAY": {
-			"MATCHES": true
+			"MATCHES": false,
+			"REPORTED": 6010,
+			"CALCULATED": 6009
 		},
 		"JUNE": {
-			"MATCHES": true
+			"MATCHES": false,
+			"REPORTED": 6004,
+			"CALCULATED": 6003
 		},
 		"TOTAL": {
-			"MATCHES": true
+			"MATCHES": false,
+			"REPORTED": 37265,
+			"CALCULATED": 37260
 		}
 	}
 }

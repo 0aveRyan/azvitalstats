@@ -66,8 +66,7 @@
 		"MARCH": 8,
 		"APRIL": 8,
 		"MAY": 6,
-		"JUNE": 4,
-		"TOTAL": 39
+		"TOTAL": "40†"
 	},
 	"LA PAZ": {
 		"REGION": "LA PAZ",
@@ -166,12 +165,11 @@
 		"MARCH": 12,
 		"APRIL": 12,
 		"MAY": 26,
-		"JUNE": 19,
-		"TOTAL": 97
+		"JUNE": 19
 	},
 	"TYPE": "DEATHS",
 	"YEAR": 2020,
-	"NOTES": "The above table reflects the data collection and data entry as of 07/15/2020.",
+	"NOTES": "Notes: * Cell suppressed due to non-zero count less than 6; † Sum rounded to nearest tens unit due to non-zero addend less than 6; The above table reflects the data collection and data entry as of 7/15/2020.",
 	"VALIDATION": {
 		"JANUARY": {
 			"MATCHES": true
@@ -189,10 +187,14 @@
 			"MATCHES": true
 		},
 		"JUNE": {
-			"MATCHES": true
+			"MATCHES": false,
+			"REPORTED": 6265,
+			"CALCULATED": 6261
 		},
 		"TOTAL": {
-			"MATCHES": true
+			"MATCHES": false,
+			"REPORTED": 34457,
+			"CALCULATED": "230340†1641851518797765715201718517011066"
 		}
 	}
 }

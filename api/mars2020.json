@@ -10,7 +10,9 @@
 		"JULY": 13,
 		"AUGUST": 15,
 		"SEPTEMBER": 13,
-		"TOTAL": "80†"
+		"OCTOBER": 18,
+		"NOVEMBER": 11,
+		"TOTAL": "110†"
 	},
 	"COCHISE": {
 		"REGION": "COCHISE",
@@ -24,7 +26,8 @@
 		"AUGUST": 46,
 		"SEPTEMBER": 48,
 		"OCTOBER": 73,
-		"TOTAL": 479
+		"NOVEMBER": 53,
+		"TOTAL": 532
 	},
 	"COCONINO": {
 		"REGION": "COCONINO",
@@ -38,7 +41,8 @@
 		"AUGUST": 64,
 		"SEPTEMBER": 94,
 		"OCTOBER": 128,
-		"TOTAL": 712
+		"NOVEMBER": 87,
+		"TOTAL": 799
 	},
 	"GILA": {
 		"REGION": "GILA",
@@ -51,7 +55,9 @@
 		"JULY": 30,
 		"AUGUST": 18,
 		"SEPTEMBER": 12,
-		"TOTAL": 166
+		"OCTOBER": 49,
+		"NOVEMBER": 14,
+		"TOTAL": 229
 	},
 	"GRAHAM": {
 		"REGION": "GRAHAM",
@@ -64,7 +70,9 @@
 		"JULY": 38,
 		"AUGUST": 18,
 		"SEPTEMBER": 37,
-		"TOTAL": 240
+		"OCTOBER": 27,
+		"NOVEMBER": 29,
+		"TOTAL": 296
 	},
 	"GREENLEE": {
 		"REGION": "GREENLEE",
@@ -78,6 +86,7 @@
 		"AUGUST": 6,
 		"SEPTEMBER": "*",
 		"OCTOBER": 6,
+		"NOVEMBER": "*",
 		"TOTAL": "50†"
 	},
 	"LA PAZ": {
@@ -92,7 +101,8 @@
 		"AUGUST": 7,
 		"SEPTEMBER": "*",
 		"OCTOBER": 8,
-		"TOTAL": "100†"
+		"NOVEMBER": 11,
+		"TOTAL": "110†"
 	},
 	"MARICOPA": {
 		"REGION": "MARICOPA",
@@ -106,7 +116,8 @@
 		"AUGUST": 1396,
 		"SEPTEMBER": 2645,
 		"OCTOBER": 2763,
-		"TOTAL": 19536
+		"NOVEMBER": 2600,
+		"TOTAL": 22136
 	},
 	"MOHAVE": {
 		"REGION": "MOHAVE",
@@ -120,7 +131,8 @@
 		"AUGUST": 92,
 		"SEPTEMBER": 83,
 		"OCTOBER": 187,
-		"TOTAL": 820
+		"NOVEMBER": 136,
+		"TOTAL": 956
 	},
 	"NAVAJO": {
 		"REGION": "NAVAJO",
@@ -144,7 +156,9 @@
 		"JULY": 316,
 		"AUGUST": 290,
 		"SEPTEMBER": 321,
-		"TOTAL": 3189
+		"OCTOBER": 601,
+		"NOVEMBER": 490,
+		"TOTAL": 4280
 	},
 	"PINAL": {
 		"REGION": "PINAL",
@@ -157,7 +171,9 @@
 		"JULY": 91,
 		"AUGUST": 63,
 		"SEPTEMBER": 70,
-		"TOTAL": 939
+		"OCTOBER": 223,
+		"NOVEMBER": 155,
+		"TOTAL": 1317
 	},
 	"SANTA CRUZ": {
 		"REGION": "SANTA CRUZ",
@@ -184,7 +200,8 @@
 		"JULY": 109,
 		"AUGUST": 93,
 		"SEPTEMBER": 121,
-		"TOTAL": 862
+		"OCTOBER": 206,
+		"TOTAL": 1068
 	},
 	"YUMA": {
 		"REGION": "YUMA",
@@ -197,7 +214,8 @@
 		"JULY": 78,
 		"AUGUST": 76,
 		"SEPTEMBER": 104,
-		"TOTAL": 930
+		"OCTOBER": 119,
+		"TOTAL": 1049
 	},
 	"ARIZONA": {
 		"REGION": "ARIZONA",
@@ -210,10 +228,10 @@
 		"JULY": "2,460†",
 		"AUGUST": 2194,
 		"SEPTEMBER": "3,570†",
-		"OCTOBER": 3194,
-		"NOVEMBER": "-",
+		"OCTOBER": 4437,
+		"NOVEMBER": "3,590†",
 		"DECEMBER": "-",
-		"TOTAL": 28428
+		"TOTAL": 33258
 	},
 	"TYPE": "MARS",
 	"YEAR": 2020,
@@ -263,8 +281,8 @@
 		},
 		"NOVEMBER": {
 			"MATCHES": false,
-			"REPORTED": "-",
-			"CALCULATED": 0
+			"REPORTED": "3,590†",
+			"CALCULATED": "194*1126001364901550"
 		},
 		"DECEMBER": {
 			"MATCHES": false,
@@ -273,8 +291,8 @@
 		},
 		"TOTAL": {
 			"MATCHES": false,
-			"REPORTED": 28428,
-			"CALCULATED": "80†47971216624050†100†195368201913189939130†8629300"
+			"REPORTED": 33258,
+			"CALCULATED": "110†53279922929650†110†2213695619142801317130†106810490"
 		}
 	}
 }
